@@ -700,6 +700,296 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
+<table>
+    <tr>
+        <th>Orden</th>
+        <th>User Story/Technical Story Id</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>HU01</td>
+        <td>Registro de Abogado</td>
+        <td>Como abogado, quiero registrarme en la plataforma para ofrecer mis servicios a los clientes.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>HU02</td>
+        <td>Creación de Perfil de Cliente</td>
+        <td>Como cliente, quiero crear mi perfil en la plataforma para gestionar mis casos legales.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>HU03</td>
+        <td>Creación de Caso</td>
+        <td>Como cliente, quiero crear un nuevo caso legal para iniciar el proceso de asesoramiento.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>HU04</td>
+        <td>Chat con Abogado</td>
+        <td>Como cliente, quiero chatear con mi abogado para discutir detalles del caso.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>HU05</td>
+        <td>Recordatorios de Citas</td>
+        <td>Como usuario, quiero recibir recordatorios de citas para no olvidar mis compromisos legales.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>HU06</td>
+        <td>Verificación de Identidad</td>
+        <td>Como plataforma, quiero verificar la identidad de los usuarios para asegurar la seguridad y legitimidad.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>HU07</td>
+        <td>Actualización de Perfil</td>
+        <td>Como usuario, quiero actualizar mi perfil para mantener mi información personal al día.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>HU08</td>
+        <td>Visualización de Perfil</td>
+        <td>Como usuario, quiero visualizar mi perfil para revisar mi información personal y profesional.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>HU09</td>
+        <td>Calificaciones y Reseñas</td>
+        <td>Como cliente, quiero calificar y dejar reseñas a los abogados para ayudar a otros usuarios a elegir un buen servicio.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>HU10</td>
+        <td>Especialidades del Abogado</td>
+        <td>Como cliente, quiero ver las especialidades del abogado para seleccionar el más adecuado para mi caso.</td>
+        <td>2</td>
+    </tr>
+        <tr>
+        <td>11</td>
+        <td>HU11</td>
+        <td>Disponibilidad del Abogado</td>
+        <td>Como cliente, quiero ver la disponibilidad del abogado para programar citas según su horario.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>HU12</td>
+        <td>Notificaciones de Mensajes</td>
+        <td>Como usuario, quiero recibir notificaciones de nuevos mensajes para estar al tanto de las comunicaciones importantes.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>HU13</td>
+        <td>Registro de Cliente</td>
+        <td>Como cliente, quiero registrarme en la plataforma para acceder a servicios legales y gestionar mis casos.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>HU14</td>
+        <td>Actualización de Perfil de Cliente</td>
+        <td>Como cliente, quiero actualizar mi perfil para reflejar cambios en mi información personal o preferencias.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>HU15</td>
+        <td>Visualización de Perfil de Cliente</td>
+        <td>Como cliente, quiero visualizar mi perfil para revisar y verificar mi información registrada en la plataforma.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>HU16</td>
+        <td>Preferencias de Notificación</td>
+        <td>Como usuario, quiero configurar mis preferencias de notificación para recibir alertas según mis necesidades.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>HU17</td>
+        <td>Historial de Casos</td>
+        <td>Como cliente, quiero acceder a un historial de mis casos anteriores para revisar la evolución y resultados de cada uno.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>HU18</td>
+        <td>Seguridad de Perfil</td>
+        <td>Como usuario, quiero asegurar mi perfil mediante autenticación de dos factores para proteger mi información personal.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>HU19</td>
+        <td>Recuperación de Contraseña</td>
+        <td>Como usuario, quiero recuperar mi contraseña en caso de olvido para poder acceder nuevamente a la plataforma.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>HU20</td>
+        <td>Creación de Caso</td>
+        <td>Como abogado, quiero crear un nuevo caso para gestionar la información y el progreso de mis clientes.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>HU21</td>
+        <td>Asignación de Caso</td>
+        <td>Como administrador, quiero asignar casos a abogados específicos para garantizar que cada caso sea atendido correctamente.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>HU22</td>
+        <td>Seguimiento de Caso</td>
+        <td>Como cliente, quiero hacer un seguimiento de mi caso para estar informado del estado y progreso.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>HU23</td>
+        <td>Actualización de Estado de Caso</td>
+        <td>Como abogado, quiero actualizar el estado de un caso para mantener a los clientes informados de los avances.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>HU24</td>
+        <td>Documentación de Caso</td>
+        <td>Como abogado, quiero adjuntar y gestionar documentos en un caso para organizar toda la información relevante.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>HU25</td>
+        <td>Historial de Comunicaciones</td>
+        <td>Como usuario, quiero acceder a un historial de todas las comunicaciones realizadas en un caso para revisar información pasada.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>HU26</td>
+        <td>Cierre de Caso</td>
+        <td>Como abogado, quiero cerrar un caso una vez que haya sido resuelto para archivar la información y finalizar el proceso.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>HU27</td>
+        <td>Iniciar Chat</td>
+        <td>Como cliente, quiero iniciar un chat con mi abogado para poder comunicarme en tiempo real.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>HU28</td>
+        <td>Notificaciones de Mensajes</td>
+        <td>Como usuario, quiero recibir notificaciones cuando reciba nuevos mensajes en el chat para mantenerme informado.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>HU29</td>
+        <td>Historial de Chat</td>
+        <td>Como cliente, quiero acceder a un historial de chat para revisar conversaciones pasadas con mi abogado.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>HU30</td>
+        <td>Mensajes Adjuntos</td>
+        <td>Como usuario, quiero adjuntar archivos a los mensajes en el chat para compartir documentos relevantes con mi abogado.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>HU31</td>
+        <td>Mensajes de Voz</td>
+        <td>Como usuario, quiero enviar mensajes de voz en el chat para comunicarme de manera más rápida y efectiva.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>HU32</td>
+        <td>Estado de Mensajes</td>
+        <td>Como usuario, quiero ver el estado de mis mensajes (enviado, recibido, leído) para saber si han sido revisados.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>HU33</td>
+        <td>Chat en Tiempo Real</td>
+        <td>Como usuario, quiero un chat en tiempo real para mantener conversaciones instantáneas con mi abogado.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>HU34</td>
+        <td>Calendario de Citas</td>
+        <td>Como usuario, quiero un calendario de citas integrado en la plataforma para gestionar y programar mis citas legales.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>HU35</td>
+        <td>Recordatorios Automáticos</td>
+        <td>Como usuario, quiero recibir recordatorios automáticos de citas para asegurarme de no olvidar mis compromisos.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>HU36</td>
+        <td>Notas del Caso</td>
+        <td>Como abogado, quiero agregar y gestionar notas del caso para llevar un registro detallado de la información importante.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>HU37</td>
+        <td>Buscador de Documentos</td>
+        <td>Como usuario, quiero un buscador de documentos dentro del caso para encontrar fácilmente los archivos relevantes.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>HU38</td>
+        <td>Integración con Calendarios Externos</td>
+        <td>Como usuario, quiero integrar el calendario de la plataforma con calendarios externos para sincronizar mis citas.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>HU39</td>
+        <td>Alertas de Plazos</td>
+        <td>Como abogado, quiero recibir alertas de plazos importantes para cumplir con las fechas límite de los casos.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>HU40</td>
+        <td>Panel de Control Personalizado</td>
+        <td>Como usuario, quiero un panel de control personalizado para gestionar de manera eficiente todas mis actividades legales en la plataforma.</td>
+        <td>5</td>
+    </tr>
+</table>
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ## 4.2. Information Architecture
