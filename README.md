@@ -195,6 +195,54 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
+
+<table> 
+    <tr> 
+        <th> Epic / Story ID</th> 
+        <th>Título</th> 
+        <th>Descripción</th> 
+        <th>Criterios de Aceptación</th> 
+        <th>Relacionado con (Epic ID)</th> 
+    </tr> 
+    <tr> 
+        <td>EP01</td> 
+        <td>Registro de Abogado</td> 
+        <td>Como abogado sin mucha experiencia, deseo registrar mi perfil en la plataforma para ofrecer mis servicios legales a los clientes.</td> 
+        <td></td> <td></td> 
+    </tr> 
+    <tr> 
+        <td>EP02</td> 
+        <td>Búsqueda de Abogados</td> 
+        <td>Como cliente, deseo poder buscar abogados en la plataforma para encontrar a un profesional adecuado para mi caso.</td> 
+        <td></td> <td></td> 
+    </tr> 
+    <tr> 
+        <td>EP03</td> 
+        <td>Seguimiento de Caso</td>
+        <td>Como cliente, deseo realizar el seguimiento del progreso de mi caso en la plataforma para estar informado en todo momento.</td> 
+        <td></td> <td></td> 
+    </tr> 
+    <tr> 
+        <td>EP04</td> 
+        <td>Interacción entre Abogado y Cliente</td> 
+        <td>Como cliente, deseo interactuar con mi abogado a través de un chat interno para discutir detalles del caso de manera eficiente.</td> 
+        <td></td> <td></td> 
+    </tr> 
+    <tr> 
+        <td>EP05</td> 
+        <td>Infraestructura y Seguridad</td> 
+        <td>Como administrador, quiero que la plataforma integre robustos sistemas de seguridad y manejo de datos para proteger la información de los usuarios.</td> 
+        <td></td> <td></td> 
+    </tr> 
+    <tr> 
+        <td>EP06</td> 
+        <td>Accesibilidad de la Plataforma</td> 
+        <td>Como desarrollador, quiero implementar interfaces y funcionalidades accesibles para mejorar la experiencia de usuario en la plataforma.</td> 
+        <td></td> <td></td> 
+    </tr> 
+</table>
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
