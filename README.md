@@ -357,6 +357,156 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
+
+**Tabla Usuarios:**
+| Nombre          | Atributo                                                | Descripción                          |
+|-----------------|---------------------------------------------------------|--------------------------------------|
+| id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del usuario      |
+| username        | TEXT, NOT NULL, UNIQUE                                   | Nombre de usuario                    |
+| email           | TEXT, NOT NULL, UNIQUE                                   | Correo electrónico del usuario       |
+| password_hash   | TEXT, NOT NULL                                           | Contraseña del usuario (hash)        |
+| is_lawyer       | BOOLEAN, DEFAULT FALSE                                   | Indicador si el usuario es abogado   |
+| created_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del usuario        |
+
+**Tabla Perfiles:**
+| Nombre            | Atributo                                                | Descripción                                |
+|-------------------|---------------------------------------------------------|--------------------------------------------|
+| id                | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del perfil             |
+| user_id           | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado         |
+| first_name        | TEXT                                                     | Nombre del usuario                         |
+| last_name         | TEXT                                                     | Apellido del usuario                       |
+| bio               | TEXT                                                     | Biografía del usuario                      |
+| profile_picture   | TEXT                                                     | URL de la foto de perfil                   |
+| created_at        | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del perfil               |
+
+**Tabla Casos:**
+| Nombre          | Atributo                                                | Descripción                          |
+|-----------------|---------------------------------------------------------|--------------------------------------|
+| id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del caso         |
+| title           | TEXT, NOT NULL                                           | Título del caso                      |
+| description     | TEXT, NOT NULL                                           | Descripción del caso                 |
+| is_public       | BOOLEAN, DEFAULT TRUE                                    | Indicador si el caso es público      |
+| created_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del caso           |
+| user_id         | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado   |
+
+**Tabla Perfiles de Abogados:**
+| Nombre            | Atributo                                                | Descripción                                    |
+|-------------------|---------------------------------------------------------|------------------------------------------------|
+| id                | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del perfil de abogado      |
+| user_id           | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado             |
+| license_number    | TEXT, NOT NULL, UNIQUE                                   | Número de licencia del abogado                 |
+| verified          | BOOLEAN, DEFAULT FALSE                                   | Indicador si el abogado está verificado        |
+| specialization    | TEXT                                                     | Especialización del abogado                    |
+| experience_years  | INT                                                      | Años de experiencia del abogado                |
+| created_at        | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del perfil de abogado        |
+
+**Tabla Notificaciones:**
+| Nombre        | Atributo                                                | Descripción                               |
+|---------------|---------------------------------------------------------|-------------------------------------------|
+| id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la notificación    |
+| user_id       | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado        |
+| message       | TEXT, NOT NULL                                           | Mensaje de la notificación                |
+| is_read       | BOOLEAN, DEFAULT FALSE                                   | Indicador si la notificación ha sido leída|
+| created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la notificación      |
+
+**Tabla Mensajes:**
+| Nombre       | Atributo                                                | Descripción                            |
+|--------------|---------------------------------------------------------|----------------------------------------|
+| id           | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del mensaje        |
+| sender_id    | BIGINT, REFERENCES users (id)                            | Identificador del usuario remitente    |
+| receiver_id  | BIGINT, REFERENCES users (id)                            | Identificador del usuario receptor     |
+| content      | TEXT, NOT NULL                                           | Contenido del mensaje                  |
+| sent_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha y hora de envío del mensaje      |
+
+**Tabla Documentos de Abogados:**
+| Nombre         | Atributo                                                | Descripción                              |
+|----------------|---------------------------------------------------------|------------------------------------------|
+| id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del documento        |
+| lawyer_id      | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asociado       |
+| document_type  | TEXT, NOT NULL                                           | Tipo de documento                        |
+| document_url   | TEXT, NOT NULL                                           | URL del documento                        |
+| uploaded_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de subida del documento            |
+
+**Tabla Asignaciones de Casos:**
+| Nombre         | Atributo                                                | Descripción                               |
+|----------------|---------------------------------------------------------|-------------------------------------------|
+| id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la asignación      |
+| case_id        | BIGINT, REFERENCES cases (id)                            | Identificador del caso asociado           |
+| lawyer_id      | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asignado        |
+| assigned_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de asignación del caso              |
+
+**Tabla Reseñas:**
+| Nombre        | Atributo                                                | Descripción                                |
+|---------------|---------------------------------------------------------|--------------------------------------------|
+| id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la reseña           |
+| case_id       | BIGINT, REFERENCES cases (id)                            | Identificador del caso asociado            |
+| user_id       | BIGINT, REFERENCES users (id)                            | Identificador del usuario que realizó la reseña |
+| rating        | INT, CHECK (rating >= 1 AND rating <= 5)                 | Calificación del caso                      |
+| comment       | TEXT                                                     | Comentario sobre el caso                   |
+| created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la reseña             |
+
+**Tabla Pagos:**
+| Nombre         | Atributo                                                | Descripción                                  |
+|----------------|---------------------------------------------------------|----------------------------------------------|
+| id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del pago                 |
+| user_id        | BIGINT, REFERENCES users (id)                            | Identificador del usuario que realiza el pago |
+| lawyer_id      | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado que recibe el pago |
+| amount         | NUMERIC(10, 2), NOT NULL                                 | Monto del pago                               |
+| payment_date   | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha del pago                               |
+| status         | TEXT, CHECK (status IN ('pending', 'completed', 'failed')) | Estado del pago                              |
+
+**Tabla Citas:**
+| Nombre              | Atributo                                                | Descripción                                 |
+|---------------------|---------------------------------------------------------|---------------------------------------------|
+| id                  | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la cita              |
+| case_id             | BIGINT, REFERENCES cases (id)                            | Identificador del caso asociado             |
+| lawyer_id           | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asociado          |
+| appointment_date    | TIMESTAMP WITH TIME ZONE, NOT NULL                       | Fecha y hora de la cita                     |
+| location            | TEXT                                                     | Ubicación de la cita                        |
+
+**Tabla Actualizaciones de Casos:**
+| Nombre          | Atributo                                                | Descripción                                 |
+|-----------------|---------------------------------------------------------|---------------------------------------------|
+| id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la actualización     |
+| case_id         | BIGINT, REFERENCES cases (id)                            | Identificador del caso asociado             |
+| update_text     | TEXT, NOT NULL                                           | Texto de la actualización                   |
+| updated_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de la actualización                   |
+
+**Tabla Calificaciones de Abogados:**
+| Nombre        | Atributo                                                | Descripción                                    |
+|---------------|---------------------------------------------------------|------------------------------------------------|
+| id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la calificación         |
+| lawyer_id     | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asociado             |
+| user_id       | BIGINT, REFERENCES users (id)                            | Identificador del usuario que realizó la calificación |
+| rating        | INT, CHECK (rating >= 1 AND rating <= 5)                 | Calificación del abogado                       |
+| comment       | TEXT                                                     | Comentario sobre el abogado                    |
+| created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la calificación           |
+
+**Tabla Sesiones de Usuario:**
+| Nombre        | Atributo                                                | Descripción                                  |
+|---------------|---------------------------------------------------------|----------------------------------------------|
+| id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la sesión             |
+| user_id       | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado           |
+| session_token | TEXT, NOT NULL, UNIQUE                                   | Token de la sesión                           |
+| created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la sesión               |
+| expires_at    | TIMESTAMP WITH TIME ZONE, NOT NULL                       | Fecha de expiración de la sesión             |
+
+**Tabla Especializaciones de Abogados:**
+| Nombre          | Atributo                                                | Descripción                                |
+|-----------------|---------------------------------------------------------|--------------------------------------------|
+| id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la especialización  |
+| lawyer_id       | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asociado         |
+| specialization  | TEXT, NOT NULL                                           | Especialización del abogado                |
+
+**Tabla Documentos de Casos:**
+| Nombre        | Atributo                                                | Descripción                              |
+|---------------|---------------------------------------------------------|------------------------------------------|
+| id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del documento        |
+| case_id       | BIGINT, REFERENCES cases (id)                            | Identificador del caso asociado          |
+| document_url  | TEXT, NOT NULL                                           | URL del documento                        |
+| uploaded_at   | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de subida del documento            |
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
