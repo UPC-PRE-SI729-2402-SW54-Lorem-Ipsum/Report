@@ -174,12 +174,21 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ---
 # Capítulo I: Introducción
+
+En este capítulo se explicará la visión general del proyecto. Comenzaremos con la descripción completa de nuestra startup y equipo, continuaremos con un análisis de la problemática a resolver con nuestra solución. Asimismo, mediante el proceso de Lean UX podremos desarrollar la solución e identificar nuestro mercado objetivo. De esta forma, tendremos una base sólida para comenzar nuestro proyecto. 
+
 ## 1.1. Startup Profile
+
+En esta sección se describirá la información de nuestra startup, misión y visión para definir nuestras metas, y el perfil de cada integrante del equipo.
+
 ### 1.1.1 Descripción de la Startup
+
 Law Connect S.A.C. es una startup conformada por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Esta nueva empresa está enfocada en la creación de herramientas tecnológicas para el rubro de abogacía. Mediante las aplicaciones que creamos, esperamos optimizar los procesos legales que los clientes puedan tener actualmente. Asimismo, estas aplicaciones son para los abogados también, sin excluir en términos de rango de edades o experiencia laboral; de esta forma, permitimos que haya más oportunidades laborales. Es por ello que, como nuestro primer proyecto, vamos a desarrollar la aplicación Law Connect. Esta es una aplicación web con la cual buscamos facilitar la búsqueda de abogados calificados para personas que cuenten con problemas legales. Además, esperamos generar más ofertas laborales a los abogados recién egresados de la universidad, lo cual posibilita que consigan oportunidades de trabajo, para obtener más experiencia. Así, mejoramos la comunicación entre los egresados y potenciales clientes, por lo tanto, cumplimos con nuestra misión.
 
-**Misión**: Brindar una comunicación eficiente entre abogados calificados y clientes, para optimizar los procesos legales y promover el uso de herramientas tecnológicas en el rubro. El motivo es incrementar las ofertas laborales y que los clientes tengan la oportunidad de encontrar un abogado que se acomode a sus necesidades.
+**Misión**: Brindar una comunicación eficiente entre abogados calificados y clientes, para optimizar los procesos legales y promover el uso de herramientas tecnológicas en el rubro. El motivo es incrementar las ofertas laborales y que los clientes tengan la oportunidad de encontrar un abogado que se acomode a sus necesidades. <br>
+
 **Visión**: Liderar en el rubro de leyes con nuestra startup al brindar nuevas opciones sostenibles y digitales, esperamos crear un puente entre los clientes y abogados con las aplicaciones que ofrecemos. Law Connect S.A.C. desea reinventar el rubro de leyes al permitir el incremento del uso de la tecnología en distintos procesos legales.
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 |                             **U201923994**                             |                                                                                                                                                                                                                                                                                             Avellaneda Ramos, Carlos Edward                                                                                                                                                                                                                                                                                             |
@@ -195,18 +204,29 @@ Law Connect S.A.C. es una startup conformada por un grupo de estudiantes de la c
 |       **![Jose Pariona](assets/img/Chapter-01/JosePariona.png)**       | *Ingeniería de Software*<br><br>Tengo 18 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar. |
 
 ## 1.2 Solution Profile
+
+En esta sección se describirá la problemática a resolver con nuestra solución, y cómo se aplicará el proceso de Lean UX para desarrollar la solución y definir nuestro mercado objetivo.
+
 ### 1.2.1 Antecedentes y problemática
+
 Según Vallecilla (2024), hasta febrero del año 2024, la tasa de desempleo en Perú alcanzó el 7.30%. Esta realidad no es ajena para los egresados de la carrera de derecho, los cuales se enfrentan a desafíos para encontrar un empleo estable debido a la coyuntura actual. Acorde al Tercer Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2022), se explica que a los bachilleres de leyes les demora 3,6 meses en conseguir un trabajo, lo cual impide que tengan continuidad para ejercer su carrera luego de su graduación. Asimismo, todavía hay un porcentaje de estudiantes (6.4%) en Lima que les puede tomar dese 17 a 23 meses; es por ello que deseamos disminuir esa cantidad, debido a que implica un impacto en su currículum, esto complica aún más sus oportunidades laborales. Por otro lado, también existe la dificultad para aquellas personas con problemas legales de encontrar un abogado calificado, ya que carecen de orientación sobre dónde buscar o cómo encontrarlos.
 
 Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
 
 **What**: El problema es el desempleo entre los egresados de la carrera de derecho y la dificultad de las personas con problemas legales al momento de buscar abogados calificados para sus casos.
+
 **When**: El problema sucede desde hacer varios años atrás, según Segundo Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2020), que considera un análisis del año 2012 a 2018, había una tasa de desempleo en universitarios de 8,8%, un nivel bastante alto a pesar de tener grado de bachiller.
+
 **Where**: Este análisis se enfoca en Lima, en este se enfrentan distintos desafíos al momento de encontrar un empleo al ser un estudiante egresado de la carrera de leyes. Asimismo, hay un grado de dificultad para acceder a los servicios legales debido a la falta de información al momento de contactar a un abogado.
+
 **Who**: Nos enfocamos en los egresados de la carrera de derecho que estén en búsqueda de empleo y en las personas que necesitan asistencia legal para sus respectivos casos.
+
 **Why**: La oferta laboral para los abogados es más alta que la demanda de trabajo, es por ello que nos enfocamos explícitamente en los egresados, porque es más difícil hallar trabajo en un rubro tan sobrepoblado. Buscamos mitigar el desempleo en el rubro de leyes.
+
 **How**: Desarrollaremos Law Connect para facilitar la búsqueda de abogados y aumentar la demanda laboral para los abogados. Asimismo, brindaremos la aplicación web a los clientes para mejorar la comunicación con abogados calificados.
+
 **How much**:
+
 *Estadística de la problemática*
 
 Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hecho por Sunedu (2022) para analizar el estado de los estudiantes universitarios - incluye de todo tipo de instituciones, sea privada o pública y a los de otros departamentos en el país - antes, durante y después de su formación superior académica, se pueden analizar dos gráficos estadísticos que explican la gravedad de la situación de los egresados.
@@ -214,15 +234,28 @@ Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hech
 Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página X del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
 
 ![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/img/Chapter-01/Estadistica-01.png)
+
 *Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera. Fuente: Sunedu, 2022.*
 
 En el segundo gráfico se muestra el tiempo que demora a los egresados encontrar trabajo luego de su graduación acorde a su experiencia laboral. A los egresados sin experiencia previa en el rubro les toma 9,4 meses encontrar un puesto para laborar; la cantidad de meses disminuye a medida que la cantidad de tiempo trabajado en prácticas pre profesionales es mayor. Al tener en cuenta estos números, se comprueba que hay más dificultad al momento de buscar trabajo sin experiencia previa.
 
 **![Estadística sobre el tiempo que le toma a los egresados encontrar trabajo considerando su experiencia previa](assets/img/Chapter-01/Estadistica-02.png)**
+
 *Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera acorde a su experiencia laboral durante su carrera. Fuente: Sunedu 2022.*
+
 ### 1.2.2 Lean UX Process
 
+En esta parte, explicamos el proceso de Lean UX que utilizamos para desarrollar la solución Law Connect. Se explican los problemas, asunciones, hipótesis y el canvas de Lean UX para englobar todo lo investigado.
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Problem Statement 1:**
+
+El estado actual del mercado laboral para los abogados egresados en Perú ha estado centrado principalmente en profesionales con experiencia establecida, lo que causa que muchos egresados no encuentren oportunidades laborales a pesar de sus habilidades y prácticas previas. Esto se debe a la alta competencia que hay en el rubro. Lo que los productos existentes no logran abordar es una conexión efectiva entre los egresados y las ofertas de empleo adecuadas que les permita adquirir experiencia. Nuestro producto, Law Connect, abordará esta brecha mediante una plataforma digital enfocada en simplificar el proceso para que los abogados puedan ser contactados. Nuestro enfoque inicial serán los abogados desempleados que buscan integrarse al mercado laboral. Sabremos que hemos tenido éxito cuando veamos un aumento en la tasa de empleo entre los abogados egresados y una disminución en el tiempo que tardan en encontrar su primer empleo.
+
+**Problem Statement 2:**
+
+El estado actual de la búsqueda de servicios legales en el Perú se ha centrado principalmente en abogados de renombre, los cuales suelen ser bastante inasequible en términos de tiempo y costos, y a redes netamente profesionales con muchos años de experiencia, esto ocasiona que muchas personas con problemas legales que no posean esta ventaja, no consigan la asistencia que necesitan con tanta urgencia. Lo que los productos existentes no logran abordar es facilitar la búsqueda de abogados que sean capaces de solucionar sus problemas y que tengan la disponibilidad de tiempo que se necesita para el caso, lo cual permitiría a los clientes ahorrar tiempo al buscar un abogado y que se enfoque netamente en su caso. Nuestro producto abordará esta brecha mediante el desarrollo de nuestra aplicación web Law Connect, los clientes podrán contactarse con abogados calificados y que estén al tanto de sus respectivos casos. Esto mejorará la experiencia del usuario y tendrá la oportunidad de resolver su caso de manera efectiva y rápida. Nuestro enfoque inicial será las personas con problemas legales que necesiten encontrar un abogado capacitado y que brinde una solución eficaz mediante una búsqueda simple pero efectiva. Sabremos que hemos tenido éxito cuando veamos un aumento de personas satisfechas con la búsqueda de un abogado apropiado para su caso y los casos resueltos en la ciudad de Lima incremente, debido a que hay una gran cantidad que no llegan a un punto de conclusión.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -231,6 +264,8 @@ En el segundo gráfico se muestra el tiempo que demora a los egresados encontrar
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+En esta parte se describirá los segmentos objetivo a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
