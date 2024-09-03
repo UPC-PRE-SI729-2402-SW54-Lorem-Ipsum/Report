@@ -197,6 +197,71 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.2. User Stories
 Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
 
+# Epic Stories
+
+<table> 
+    <tr> 
+        <th>Epic / Story ID</th> 
+        <th>Título</th> 
+        <th>Descripción</th> 
+    </tr> 
+    <tr> 
+        <td>EP01</td> 
+        <td>Funciones de Usuario</td> 
+        <td>Como Abogado, deseo tener funciones y opciones relacionadas con mi perfil para manejar mis datos, presentar 
+            mis casos de éxito y gestionar mi portafolio de servicios. Como cliente, deseo poder crear una cuenta, buscar
+            abogados según mis necesidades legales, y gestionar mis consultas y preferencias. Como desarrollador, deseo 
+            implementar un sistema de registro y autenticación seguro y funcional para ambos tipos de usuarios.</td> 
+    </tr> 
+    <tr> 
+        <td>EP02</td> 
+        <td>Visualización de Apartados</td> 
+        <td>Como abogado, deseo tener un dashboard donde pueda visualizar y gestionar todos mis casos activos, revisar 
+            la documentación recibida y programar mis actividades. Como cliente, deseo acceder fácilmente a los apartados
+            donde pueda ver el progreso de mis consultas, gestionar mis documentos legales, y realizar pagos de manera 
+            sencilla. Como desarrollador, deseo crear una interfaz intuitiva que organice y muestre claramente todas las 
+            secciones relevantes para los usuarios.</td>
+    </tr> 
+    <tr> 
+        <td>EP03</td> 
+        <td>Landing Page</td> 
+        <td>Como abogado, deseo que la landing page comunique claramente los beneficios de LawConnect y cómo puede ayudarme 
+            a atraer clientes de alto perfil. Como cliente, deseo entender rápidamente cómo LawConnect puede ayudarme a encontrar el 
+            abogado adecuado para mis necesidades. Como desarrollador, deseo diseñar y desarrollar una página de inicio atractiva y 
+            optimizada que ofrezca una experiencia de usuario fluida y esté bien posicionada en los motores de búsqueda.
+        </td> 
+    </tr> 
+    <tr> 
+        <td>EP04</td> 
+        <td>Interacción Abogado/Cliente</td> 
+        <td>Como abogado, deseo poder interactuar fácilmente con mis clientes a través de la plataforma, 
+            programando citas, enviando mensajes seguros, y realizando videollamadas. Como cliente, deseo poder 
+            contactar a mi abogado de manera rápida y segura, y recibir asesoramiento legal a través de la plataforma 
+            en tiempo real. Como desarrollador, deseo implementar funcionalidades de mensajería, videollamadas, 
+            y notificaciones en tiempo real que faciliten la interacción entre abogados y clientes.</td> 
+    </tr> 
+    <tr> 
+        <td>EP05</td> 
+        <td>Infraestructura y Seguridad</td> 
+        <td>Como administrador, deseo asegurarme de que la plataforma sea segura, confiable y escalable, 
+            implementando medidas de seguridad como la autenticación de dos factores, el cifrado de datos, y 
+            la realización de backups automáticos. También deseo que la infraestructura soporte un crecimiento 
+            sostenido de usuarios y datos sin comprometer el rendimiento.</td>
+    </tr> 
+    <tr> 
+        <td>EP06</td> 
+        <td>Interacción y Accesibilidad</td> 
+        <td>Como desarrollador, deseo asegurarme de que la plataforma cumpla con los estándares de 
+            accesibilidad (WCAG) y ofrezca una experiencia de usuario coherente y satisfactoria en todos los 
+            dispositivos. También deseo implementar opciones de personalización de la interfaz, como ajustes 
+            de tamaño de fuente y contraste, y crear tutoriales y guías que ayuden a los usuarios a aprovechar 
+            al máximo las funcionalidades de la plataforma.
+        </td>
+    </tr> 
+</table>
+
+# User Stories
+
 <table> 
     <tr> 
         <th>Epic / Story ID</th> 
@@ -204,47 +269,6 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <th>Descripción</th> 
         <th>Criterios de Aceptación</th> 
         <th>Relacionado con (Epic ID)</th> 
-    </tr> 
-    <tr> 
-        <td>EP01</td> 
-        <td>Registro y Perfil de Abogados</td> 
-        <td>Permitir a los abogados registrarse y crear un perfil detallado.</td> 
-        <td></td> 
-        <td></td> 
-    </tr> 
-    <tr> 
-        <td>EP02</td> 
-        <td>Registro y Perfil de Clientes</td> 
-        <td>Permitir a los clientes registrarse y crear un perfil detallado.</td> 
-        <td></td> 
-        <td></td> 
-    </tr> 
-    <tr> 
-        <td>EP03</td> 
-        <td>Gestión de Casos</td> 
-        <td>Facilitar la creación, seguimiento y gestión de casos legales.</td> 
-        <td></td> 
-        <td></td> 
-    </tr> <tr> 
-        <td>EP04</td> 
-        <td>Chat Interno</td> 
-        <td>Implementar un sistema de chat interno para la comunicación entre abogados y clientes.</td> 
-        <td></td> 
-        <td></td> 
-    </tr> 
-    <tr> 
-        <td>EP05</td> 
-        <td>Herramientas de Optimización</td> 
-        <td>Proveer herramientas que mejoren la experiencia del usuario, como calendarios y recordatorios.</td> 
-        <td></td> 
-        <td></td> 
-    </tr> 
-    <tr> 
-        <td>EP06</td> 
-        <td>Seguridad y Privacidad</td> 
-        <td>Garantizar la seguridad y privacidad de la información de los usuarios.</td> 
-        <td></td> 
-        <td></td> 
     </tr> 
     <tr> 
         <td>HU01</td> 
@@ -260,442 +284,143 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
             THEN su perfil es creado y puede acceder a la plataforma
         </td> 
         <td>EP01</td> 
-    </tr> 
+    </tr>
     <tr> 
         <td>HU02</td> 
-        <td>Creación de Perfil de Cliente</td> 
-        <td>Como cliente, quiero crear un perfil para buscar y contratar abogados.</td> 
+        <td>Completar Perfil de Abogado</td> 
+        <td>Como abogado, quiero completar mi perfil con información detallada sobre mi experiencia y áreas de especialización para atraer clientes.</td> 
         <td>
-            Scenario: Creación de Perfil de Cliente
-            <br> <br>
-            GIVEN un cliente nuevo
-            <br> <br>
-            WHEN completa el formulario de registro
-            <br> <br>
-            THEN su perfil es creado y puede buscar abogados
-        </td> 
-        <td>EP02</td> 
-        </tr> 
-    <tr> 
-        <td>HU03</td> 
-        <td>Creación de Caso</td> 
-        <td>Como cliente, quiero crear un caso para que un abogado lo gestione.</td> 
-        <td>
-            Scenario: Creación de Caso
-            <br> <br>
-            GIVEN un cliente con un nuevo 
-            <br> <br>
-            WHEN completa el formulario de caso
-            <br> <br>
-            THEN el caso es creado y asignado a un abogado</td>
-        <td>EP03</td> 
-    </tr> 
-    <tr> 
-        <td>HU04</td> 
-        <td>Chat con Abogado</td> 
-        <td>Como cliente, quiero chatear con mi abogado para discutir detalles del caso.</td> 
-        <td>
-            Scenario: Chat con Abogado
-            <br> <br>
-            GIVEN un cliente con un caso activo
-            <br> <br>
-            WHEN inicia un chat con su abogado
-            <br> <br>
-            THEN puede enviar y recibir mensajes en tiempo real
-        </td> 
-        <td>EP04</td> 
-    </tr> 
-    <tr> <td>HU05</td> <td>Recordatorios de Citas</td> <td>Como cliente, quiero recibir recordatorios de citas para no olvidar mis reuniones con el abogado.</td> <td>Scenario: Recordatorios de Citas<br> <br>GIVEN un cliente con citas programadas<br> <br>WHEN se acerca la fecha de la cita<br> <br>THEN recibe un recordatorio por correo electrónico y notificación en la plataforma</td> <td>EP05</td> </tr> 
-    <tr> 
-        <td>HU06</td> 
-        <td>Verificación de Identidad</td> 
-        <td>Como abogado, quiero verificar mi identidad para asegurar la autenticidad de mi perfil.</td> 
-        <td>
-            Scenario: Verificación de Identidad
+            Scenario: Completar Perfil
             <br> <br>
             GIVEN un abogado registrado
             <br> <br>
-            WHEN sube documentos de identificación
+            WHEN agrega información adicional a su perfil
             <br> <br>
-            THEN su identidad es verificada y su perfil es marcado como verificado
+            THEN la información se guarda y muestra a los clientes
         </td> 
         <td>EP01</td> 
-    </tr> 
+    </tr>
+    <tr> 
+        <td>HU03</td> 
+        <td>Gestión de Casos Activos</td> 
+        <td>Como abogado, quiero gestionar mis casos activos en la plataforma para mantener un registro organizado de mi trabajo.</td> 
+        <td>
+            Scenario: Gestión de Casos Activos
+            <br> <br>
+            GIVEN un abogado con casos activos
+            <br> <br>
+            WHEN accede al apartado de casos
+            <br> <br>
+            THEN puede ver, actualizar y organizar sus casos
+        </td> 
+        <td>EP01</td> 
+    </tr>
+    <tr> 
+        <td>HU04</td> 
+        <td>Publicación de Casos de Éxito</td> 
+        <td>Como abogado, quiero publicar casos de éxito en mi perfil para demostrar mi experiencia a potenciales clientes.</td> 
+        <td>
+            Scenario: Publicación de Casos de Éxito
+            <br> <br>
+            GIVEN un abogado con casos de éxito
+            <br> <br>
+            WHEN publica un nuevo caso de éxito
+            <br> <br>
+            THEN el caso se muestra en su perfil público
+        </td> 
+        <td>EP01</td> 
+    </tr>
+    <tr> 
+        <td>HU05</td> 
+        <td>Configuración de Disponibilidad</td> 
+        <td>Como abogado, quiero configurar mi disponibilidad en la plataforma para que los clientes puedan agendar citas conmigo.</td> 
+        <td>
+            Scenario: Configuración de Disponibilidad
+            <br> <br>
+            GIVEN un abogado con un perfil completo
+            <br> <br>
+            WHEN configura su disponibilidad
+            <br> <br>
+            THEN los clientes pueden ver y agendar citas en los horarios disponibles
+        </td> 
+        <td>EP01</td> 
+    </tr>
+    <tr> 
+        <td>HU06</td> 
+        <td>Gestión de Documentos Personales</td> 
+        <td>Como abogado, quiero poder subir y gestionar documentos personales relacionados con mis casos para tener todo centralizado en un solo lugar.</td> 
+        <td>
+            Scenario: Gestión de Documentos Personales
+            <br> <br>
+            GIVEN un abogado con un caso activo
+            <br> <br>
+            WHEN sube documentos a la plataforma
+            <br> <br>
+            THEN los documentos se guardan y están disponibles para su consulta
+        </td> 
+        <td>EP01</td> 
+    </tr>
     <tr> 
         <td>HU07</td> 
-        <td>Actualización de Perfil</td> 
-        <td>Como abogado, quiero actualizar mi perfil para mantener mi información al día.</td> 
+        <td>Registro de Cliente</td> 
+        <td>Como cliente, quiero registrarme en la plataforma para poder contactar a abogados que me ayuden con mis necesidades legales.</td> 
         <td>
-            Scenario: Actualización de Perfil
-            <br> <br>
-            GIVEN un abogado con un perfil existente
-            <br> <br>
-            WHEN edita su información de perfil
-            <br> <br>
-            THEN los cambios son guardados y reflejados en su perfil público
+        Scenario: Registro de Cliente
+        <br> <br>
+        GIVEN un cliente nuevo
+        <br> <br>
+        WHEN completa el formulario de registro
+        <br> <br>
+        THEN su perfil es creado y puede acceder a la plataforma para buscar abogados
         </td> 
         <td>EP01</td> 
-    </tr> 
+    </tr>
     <tr> 
         <td>HU08</td> 
-        <td>Visualización de Perfil</td> 
-        <td>Como cliente, quiero visualizar el perfil de un abogado para evaluar sus credenciales y experiencia.</td> 
+        <td>Búsqueda de Abogado</td> 
+        <td>Como cliente, quiero buscar abogados según su especialización y experiencia para elegir al más adecuado para mi caso.</td> 
         <td>
-            Scenario: Visualización de Perfil
+            Scenario: Búsqueda de Abogado
             <br> <br>
-            GIVEN un cliente buscando abogados
+            GIVEN un cliente registrado
             <br> <br>
-            WHEN selecciona un abogado
-    1       <br> <br>   
-            THEN puede ver el perfil completo del abogado incluyendo su experiencia y calificaciones
+            WHEN ingresa criterios de búsqueda (especialización, experiencia, ubicación)
+            <br> <br>
+            THEN se muestran abogados que coinciden con esos criterios
         </td> 
         <td>EP01</td> 
-    </tr> 
+    </tr>
     <tr> 
         <td>HU09</td> 
-        <td>Calificaciones y Reseñas</td> 
-        <td>Como cliente, quiero calificar y dejar reseñas para un abogado después de utilizar sus servicios.</td> 
+        <td>Consulta de Perfil de Abogado</td> 
+        <td>Como cliente, quiero poder ver el perfil completo de un abogado, incluyendo sus casos de éxito, para evaluar si es el adecuado para mi caso.</td> 
         <td>
-            Scenario: Calificaciones y Reseñas
+            Scenario: Consulta de Perfil de Abogado
             <br> <br>
-            GIVEN un cliente que ha completado un caso con un abogado
+            GIVEN un cliente buscando abogado
             <br> <br>
-            WHEN deja una calificación y reseña
+            WHEN selecciona un abogado en los resultados de búsqueda
             <br> <br>
-            THEN la calificación y reseña son visibles en el perfil del abogado
+            THEN se muestra su perfil completo con información detallada y casos de éxito
         </td> 
         <td>EP01</td> 
-    </tr> 
+    </tr>
     <tr> 
         <td>HU10</td> 
-        <td>Especialidades del Abogado</td> 
-        <td>Como abogado, quiero especificar mis áreas de especialidad para atraer clientes relevantes.</td> 
+        <td>Agendamiento de Cita</td> 
+        <td>Como cliente, quiero poder agendar una cita con un abogado para discutir mi caso en un horario conveniente.</td> 
         <td>
-            Scenario: Especialidades del Abogado
+            Scenario: Agendamiento de Cita
             <br> <br>
-            GIVEN un abogado creando o actualizando su perfil
+            GIVEN un cliente ha seleccionado un abogado
             <br> <br>
-            WHEN selecciona sus áreas de especialidad
+            WHEN elige un horario disponible para la cita
             <br> <br>
-            THEN estas especialidades son visibles en su perfil
+            THEN la cita se agenda y ambas partes reciben una confirmación
         </td> 
         <td>EP01</td> 
-    </tr> 
-    <tr> 
-        <td>HU11</td> 
-        <td>Disponibilidad del Abogado</td> 
-        <td>Como abogado, quiero establecer mi disponibilidad para que los clientes sepan cuándo puedo atenderlos.</td> 
-        <td>
-            Scenario: Disponibilidad del Abogado
-            <br> <br>
-            GIVEN un abogado configurando su perfil
-            <br> <br>
-            WHEN establece su disponibilidad
-            <br> <br>
-            THEN los clientes pueden ver sus horarios disponibles
-        </td> 
-        <td>EP01</td> 
-    </tr> 
-    <tr>
-        <td>HU12</td> 
-        <td>Notificaciones de Mensajes</td> 
-        <td>Como abogado, quiero recibir notificaciones cuando un cliente me envía un mensaje para responder rápidamente.</td> 
-    <td>
-        Scenario: Notificaciones de Mensajes
-        <br> <br>
-        GIVEN un abogado con un perfil activo
-        <br> <br>
-        WHEN un cliente envía un mensaje
-        <br> <br>
-        THEN el abogado recibe una notificación en la plataforma y por correo electrónico
-    </td> 
-    <td>EP01</td>
     </tr>
-	<tr>
-		<td>HU13</td>
-		<td>Registro de Cliente</td>
-		<td>Como cliente, quiero registrarme en la plataforma para acceder a los servicios legales.</td>
-		<td>Scenario: Registro de Cliente<br>
-			<br>GIVEN un cliente nuevo<br>
-			<br>WHEN completa el formulario de registro<br>
-			<br>THEN su perfil es creado y puede acceder a la plataforma</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU14</td>
-		<td>Actualización de Perfil de Cliente</td>
-		<td>Como cliente, quiero actualizar mi perfil para mantener mi información al día.</td>
-		<td>Scenario: Actualización de Perfil de Cliente<br>
-			<br>GIVEN un cliente con un perfil existente<br>
-			<br>WHEN edita su información de perfil<br>
-			<br>THEN los cambios son guardados y reflejados en su perfil</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU15</td>
-		<td>Visualización de Perfil de Cliente</td>
-		<td>Como cliente, quiero visualizar mi perfil para revisar mi información y actividades.</td>
-		<td>Scenario: Visualización de Perfil de Cliente<br>
-			<br>GIVEN un cliente registrado<br>
-			<br>WHEN accede a su perfil<br>
-			<br>THEN puede ver toda su información y actividades recientes</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU16</td>
-		<td>Preferencias de Notificación</td>
-		<td>Como cliente, quiero configurar mis preferencias de notificación para recibir alertas importantes.</td>
-		<td>Scenario: Preferencias de Notificación<br>
-			<br>GIVEN un cliente registrado<br>
-			<br>WHEN configura sus preferencias de notificación<br>
-			<br>THEN recibe alertas según sus preferencias establecidas</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU17</td>
-		<td>Historial de Casos</td>
-		<td>Como cliente, quiero ver el historial de mis casos para revisar el progreso y resultados.</td>
-		<td>Scenario: Historial de Casos<br>
-			<br>GIVEN un cliente con casos previos<br>
-			<br>WHEN accede a su historial de casos<br>
-			<br>THEN puede ver el progreso y resultados de cada caso</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU18</td>
-		<td>Seguridad de Perfil</td>
-		<td>Como cliente, quiero asegurar mi perfil con autenticación de dos factores para proteger mi información.</td>
-		<td>Scenario: Seguridad de Perfil<br>
-			<br>GIVEN un cliente registrado<br>
-			<br>WHEN habilita la autenticación de dos factores<br>
-			<br>THEN su perfil está protegido con un segundo nivel de seguridad</td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU19</td>
-		<td>Recuperación de Contraseña</td>
-		<td>Como cliente, quiero recuperar mi contraseña en caso de olvidarla para acceder a mi cuenta.</td>
-		<td>
-            Scenario: Recuperación de Contraseña
-            <br> <br>
-            GIVEN un cliente que ha olvidado su contraseña
-            <br> <br>
-            WHEN solicita la recuperación de contraseña
-            <br> <br>
-            THEN recibe un enlace para restablecer su contraseña por correo electrónico
-        </td>
-		<td>EP02</td>
-	</tr>
-	<tr>
-		<td>HU20</td>
-		<td>Creación de Caso</td>
-		<td>Como cliente, quiero crear un caso para que un abogado lo gestione.</td>
-		<td>Scenario: Creación de Caso<br>
-			<br>GIVEN un cliente con un nuevo caso<br>
-			<br>WHEN completa el formulario de caso<br>
-			<br>THEN el caso es creado y asignado a un abogado</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU21</td>
-		<td>Asignación de Caso</td>
-		<td>Como administrador, quiero asignar casos a abogados específicos para asegurar una gestión adecuada.</td>
-		<td>Scenario: Asignación de Caso<br>
-			<br>GIVEN un nuevo caso creado<br>
-			<br>WHEN el administrador selecciona un abogado<br>
-			<br>THEN el caso es asignado al abogado seleccionado</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU22</td>
-		<td>Seguimiento de Caso</td>
-		<td>Como cliente, quiero seguir el progreso de mi caso para estar informado sobre su estado.</td>
-		<td>Scenario: Seguimiento de Caso<br>
-			<br>GIVEN un cliente con un caso activo<br>
-			<br>WHEN accede a la sección de casos<br>
-			<br>THEN puede ver el progreso y actualizaciones de su caso</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU23</td>
-		<td>Actualización de Estado de Caso</td>
-		<td>Como abogado, quiero actualizar el estado de un caso para mantener informado al cliente.</td>
-		<td>Scenario: Actualización de Estado de Caso<br>
-			<br>GIVEN un abogado gestionando un caso<br>
-			<br>WHEN actualiza el estado del caso<br>
-			<br>THEN el cliente recibe una notificación sobre la actualización</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU24</td>
-		<td>Documentación de Caso</td>
-		<td>Como abogado, quiero subir y gestionar documentos relacionados con un caso para mantener toda la información organizada.</td>
-		<td>Scenario: Documentación de Caso<br>
-			<br>GIVEN un abogado gestionando un caso<br>
-			<br>WHEN sube documentos relacionados<br>
-			<br>THEN los documentos son almacenados y accesibles en la sección del caso</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU25</td>
-		<td>Historial de Comunicaciones</td>
-		<td>Como cliente, quiero ver el historial de comunicaciones con mi abogado para revisar detalles importantes.</td>
-		<td>Scenario: Historial de Comunicaciones<br>
-			<br>GIVEN un cliente con un caso activo<br>
-			<br>WHEN accede a la sección de comunicaciones<br>
-			<br>THEN puede ver todas las conversaciones y mensajes intercambiados con su abogado</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU26</td>
-		<td>Cierre de Caso</td>
-		<td>Como abogado, quiero cerrar un caso una vez que se ha resuelto para finalizar el proceso.</td>
-		<td>Scenario: Cierre de Caso<br>
-			<br>GIVEN un caso resuelto<br>
-			<br>WHEN el abogado marca el caso como cerrado<br>
-			<br>THEN el caso se archiva y el cliente recibe una notificación de cierre</td>
-		<td>EP03</td>
-	</tr>
-	<tr>
-		<td>HU27</td>
-		<td>Iniciar Chat</td>
-		<td>Como cliente, quiero iniciar un chat con mi abogado para discutir detalles del caso.</td>
-		<td>Scenario: Iniciar Chat<br>
-			<br>GIVEN un cliente con un caso activo<br>
-			<br>WHEN selecciona la opción de chat<br>
-			<br>THEN puede iniciar una conversación con su abogado</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU28</td>
-		<td>Notificaciones de Mensajes</td>
-		<td>Como cliente, quiero recibir notificaciones cuando mi abogado me envía un mensaje para estar al tanto de las comunicaciones.</td>
-		<td>Scenario: Notificaciones de Mensajes<br>
-			<br>GIVEN un cliente con un caso activo<br>
-			<br>WHEN el abogado envía un mensaje<br>
-			<br>THEN el cliente recibe una notificación en la plataforma y por correo electrónico</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU29</td>
-		<td>Historial de Chat</td>
-		<td>Como cliente, quiero ver el historial de chat con mi abogado para revisar las conversaciones anteriores.</td>
-		<td>Scenario: Historial de Chat<br>
-			<br>GIVEN un cliente con un caso activo<br>
-			<br>WHEN accede a la sección de chat<br>
-			<br>THEN puede ver todas las conversaciones anteriores con su abogado</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU30</td>
-		<td>Mensajes Adjuntos</td>
-		<td>Como abogado, quiero adjuntar documentos y archivos en el chat para compartir información relevante con el cliente.</td>
-		<td>Scenario: Mensajes Adjuntos<br>
-			<br>GIVEN un abogado en una conversación de chat<br>
-			<br>WHEN adjunta un documento o archivo<br>
-			<br>THEN el cliente puede ver y descargar el archivo adjunto</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU31</td>
-		<td>Mensajes de Voz</td>
-		<td>Como cliente, quiero enviar mensajes de voz en el chat para comunicarme de manera más efectiva.</td>
-		<td>Scenario: Mensajes de Voz<br>
-			<br>GIVEN un cliente en una conversación de chat<br>
-			<br>WHEN graba y envía un mensaje de voz<br>
-			<br>THEN el abogado puede escuchar el mensaje de voz</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU32</td>
-		<td>Estado de Mensajes</td>
-		<td>Como cliente, quiero ver el estado de mis mensajes (enviado, recibido, leído) para saber si mi abogado ha visto mi mensaje.</td>
-		<td>Scenario: Estado de Mensajes<br>
-			<br>GIVEN un cliente en una conversación de chat<br>
-			<br>WHEN envía un mensaje<br>
-			<br>THEN puede ver el estado del mensaje (enviado, recibido, leído)</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU33</td>
-		<td>Chat en Tiempo Real</td>
-		<td>Como cliente, quiero que el chat sea en tiempo real para tener una comunicación fluida con mi abogado.</td>
-		<td>Scenario: Chat en Tiempo Real<br>
-			<br>GIVEN un cliente en una conversación de chat<br>
-			<br>WHEN envía un mensaje<br>
-			<br>THEN el mensaje aparece instantáneamente en la conversación del abogado</td>
-		<td>EP04</td>
-	</tr>
-	<tr>
-		<td>HU34</td>
-		<td>Calendario de Citas</td>
-		<td>Como cliente, quiero un calendario integrado para programar y gestionar mis citas con el abogado.</td>
-		<td>Scenario: Calendario de Citas<br>
-			<br>GIVEN un cliente con citas programadas<br>
-			<br>WHEN accede a la sección de calendario<br>
-			<br>THEN puede ver, añadir y gestionar sus citas</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU35</td>
-		<td>Recordatorios Automáticos</td>
-		<td>Como cliente, quiero recibir recordatorios automáticos de mis citas para no olvidarlas.</td>
-		<td>Scenario: Recordatorios Automáticos<br>
-			<br>GIVEN un cliente con citas programadas<br>
-			<br>WHEN se acerca la fecha de una cita<br>
-			<br>THEN recibe un recordatorio automático por correo electrónico y notificación en la plataforma</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU36</td>
-		<td>Notas del Caso</td>
-		<td>Como abogado, quiero añadir notas a cada caso para mantener un registro detallado de la información importante.</td>
-		<td>Scenario: Notas del Caso<br>
-			<br>GIVEN un abogado gestionando un caso<br>
-			<br>WHEN añade una nota<br>
-			<br>THEN la nota es guardada y accesible en la sección del caso</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU37</td>
-		<td>Buscador de Documentos</td>
-		<td>Como abogado, quiero un buscador eficiente para encontrar rápidamente documentos relacionados con mis casos.</td>
-		<td>Scenario: Buscador de Documentos<br>
-			<br>GIVEN un abogado con múltiples documentos<br>
-			<br>WHEN utiliza el buscador<br>
-			<br>THEN puede encontrar rápidamente el documento necesario</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU38</td>
-		<td>Integración con Calendarios Externos</td>
-		<td>Como cliente, quiero integrar el calendario de la plataforma con mi calendario personal para tener todas mis citas en un solo lugar.</td>
-		<td>Scenario: Integración con Calendarios Externos<br>
-			<br>GIVEN un cliente con citas programadas<br>
-			<br>WHEN sincroniza su calendario personal con la plataforma<br>
-			<br>THEN todas las citas se reflejan en ambos calendarios</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU39</td>
-		<td>Alertas de Plazos</td>
-		<td>Como abogado, quiero recibir alertas de plazos importantes para asegurarme de cumplir con todas las fechas límite.</td>
-		<td>Scenario: Alertas de Plazos<br>
-			<br>GIVEN un abogado gestionando un caso<br>
-			<br>WHEN se acerca un plazo importante<br>
-			<br>THEN recibe una alerta en la plataforma y por correo electrónico</td>
-		<td>EP05</td>
-	</tr>
-	<tr>
-		<td>HU40</td>
-		<td>Panel de Control Personalizado</td>
-		<td>Como usuario, quiero un panel de control personalizado para acceder rápidamente a las herramientas y funciones que más utilizo.</td>
-		<td>Scenario: Panel de Control Personalizado<br>
-			<br>GIVEN un usuario registrado<br>
-			<br>WHEN personaliza su panel de control<br>
-			<br>THEN puede acceder rápidamente a las herramientas y funciones seleccionadas</td>
-		<td>EP05</td>
-	</tr>
+
 </table>
 
 ## 3.3. Impact Mapping
