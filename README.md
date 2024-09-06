@@ -259,7 +259,85 @@ El estado actual de la búsqueda de servicios legales en el Perú se ha centrado
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Business Outcomes:**
+
+* **Creo que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
+* **Estas necesidades se pueden resolver** una aplicación web amigable que conecte a las personas con serios problemas legales con abogados egresados que estén interesados en ofrecer sus servicios.
+* **Mis clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
+* **El valor #1 que un cliente requiere de mi servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
+* **El cliente también puede obtener estos beneficios adicionales** como accesibilidad a servicios legales a precios asequibles y seguimiento de sus respectivos casos.
+* **Voy a adquirir a mis clientes a través de** estrategias de marketing digital en las aplicaciones más utilizadas dentro del rango de edad delimitado para ambos segmentos objetivos. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos.
+* **Haré dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
+* **Mi competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
+* **Los venceremos debido a que** ofrecemos una solución accesible y enfocada a los últimos cambios en la tecnología. De esta forma, mantenemos una aplicación relevante en un mundo tan avanzado tecnológicamente.
+* **Mis mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
+* **Resolveremos esto mediante** campañas de sensibilización sobre la seguridad, consejos para reconocer cuando una aplicación es confiable y cuando no.
+* **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** incremento en la tasa de abogados recientemente egresados contratados y de clientes en nuestra aplicación debido a que confían en nosotros.
+* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que la un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
+
+**User Outcomes**
+
+**¿Quiénes serán nuestros usuarios?**
+
+Nuestros usuarios principales son:
+* Personas con problemas legales con necesidad urgente de hallar asesoramiento legal.
+* Abogados egresados de la universidad que desean encontrar un lugar estable de trabajo.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?
+
+Para las personas con problemas legales: Law Connect encaja perfectamente en sus casos, el hecho de encontrar un abogado que sea calificado y resolver sus problemas es lo que más necesitan debido a que un juicio no es fácil de lidiar. Después de todo, los problemas legales no son solamente limitados a crímenes, esto también incluye incumplimiento de proveedores, demandas de trabajadores, etc.
+
+Para los egresados de la carrera de derecho: La aplicación web encaja en su rutina diaria debido a que esta va a ser su medio para conseguir distintos trabajos en varios casos. Esto permite que generen más experiencia laboral y, por lo tanto, incrementar su economía.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+
+**Problemas:**
+
+* El uso de la tecnología en el rubro de leyes es casi inexistente, la mayoría de veces siguen dependiendo de antiguas máquinas o de una gran cantidad de archivos difíciles de encontrar.
+* Los abogados pueden pensar que LawConnect no brinda algo distinto de las demás aplicaciones sin haber intentado usarla.
+
+**Soluciones:**
+
+* Incrementar la propaganda de nuestra aplicación, basándonos en la idea de demostrar que las aplicaciones web son intuitivas y fáciles de usar una vez que el usuario se acostumbra a ellas. También, es cuestión de mostrarles la facilidad que viene con tener todos los archivos en un solo lugar y que van a ser mucho menos complicadas de encontrar con nuestra plataforma.
+* Promover los beneficios que brinda LawConnect a partir de distintas investigaciones y entrevistas. De esta forma, ganaremos la confianza de los abogados egresados y demostraremos que LawConnect no es simple.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+LawConnect es utilizada por los clientes cuando presentan problemas legales y buscan un abogado que esté dispuesto a ayudarlos en esa desesperante y cansada situación. En el caso de los abogados egresados, lo utilizan cuando necesitan generar ingresos de forma rápida y segura, pueden confiar que LawConnect solo busca el beneficio para ambos segmentos.
+
+**¿Qué características son importantes?**
+
+* La interfaz de la aplicación de ser intuitiva y amigable para ambos tipos de usuario. Los clientes deben de poder utilizar LawConnect sin problema alguno y navegar en ella con facilidad.
+* Mantener a ambos usuarios al tanto de la situación del caso. Es por ello que un tracker es indicado para la aplicación debido a que las personas con problemas legales quieren estar al tanto de sus casos mientras que los abogados quieren estar en continuo aprendizaje sobre cada caso.
+
+**¿Cómo debe verse y comportarse nuestro producto?
+
+* La aplicación debe verse elegante y confiable al ojo de los usuarios. Mayormente, cuando algo está relacionado al derecho, se espera que todo se tome con seriedad y eso es exactamente lo que busca transmitir LawConnect.
+* La aplicación debe estar activa en todo momento debido a la importancia que representa en los clientes. Para los abogados, es su ingreso económico y para las personas con problemas legales, es urgente que encuentren un abogado que les provea un apropiado asesoramiento para sus casos.
+
+**Features**
+
+* Desde la cuenta del abogado:
+    * Los abogados deben de tener a su disposición todos los documentos utilizados en cada caso de manera organizada. Esto es para evitar problemas con respecto a la documentación debido a que son archivos muy delicados.
+    * Tener la oportunidad de presentar sus casos exitosos en sus cuentas mientras que se mantiene oculta la información de sus clientes. La privacidad es muy importante y LawConnect busca salvaguardarla.
+    * Acorde a su especialidad, que le aparezcan casos en relación a ello; esto se debe a que les permitirá ganar más experiencia durante su trayecto en LawConnect.
+* Desde la cuenta de un cliente con problemas legales:
+    * Los clientes tendrán la facilidad de hallar a un abogado calificado para su caso debido a los filtros de búsqueda presentes en la aplicación. No solo eso, la comunicación será más directa al momento de interactuar con ellos porque es inmediato y mediante la aplicación.
+    * Tener un historial de consultas en este caso es importante para mantener una guía de todos sus casos tratados. Asimismo, se mostrará la información de cada abogado que se encargó del caso, lo que permite que el cliente pueda volver a interactuar con este.
+    * Un tracker es primordial para este usuario. Visualizar el progreso de su caso es completamente importante debido a la magnitud que los juicios tienen. Por ello, buscamos que el usuario pueda estar al tanto de qué documentación se está utilizando y cómo va avanzando este.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+
+* **Creemos que** al ofrecer una plataforma que optimice la interacción entre personas con problemas legales con abogados calificados, aumentaremos la demanda laboral por un abogado mientras que los clientes podrán confiar en nuestra aplicación para proveerles una solución viable.
+  **Sabremos que** la interacción es un éxito cuando observemos un gran incremento en la contratación de abogados dentro de la aplicación y los clientes se sientan satisfechos con la experiencia.
+
+* **Creemos que** promover los casos resueltos de cada usuario podemos permitir que los abogados ganen más reconocimiento dentro del rubro y demostrar sus habilidades respecto a su carrera.
+  **Sabremos que** este plan es un éxito cuando la demanda de abogados incremente dentro de la aplicación a un 50% y la satisfacción de los clientes sea palpable con las calificaciones a cada abogado.
+
+* **Creemos que** los abogados egresados se interesarán en LawConnect porque les brinda la facilidad de encontrar un empleo desde la palma de su mano y con distintas herramientas que permitirán un mejor desempeño.
+  **Sabremos que** los abogados prefieren nuestra plataforma cuando más del 80% de egresados prefiera empezar su carrera laboral en LawConnect en vez de esperar a los cupos que raramente suelen haber disponibles en las firmas de abogados.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
