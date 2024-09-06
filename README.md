@@ -95,8 +95,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br> | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5 | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita  | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
 
 
 ---
@@ -2193,28 +2193,27 @@ Por este primer sprint, se muestra las capturas de la landing page
 
 ## Home
 
-<td><img src="https://i.imgur.com/RXF1n5d.png" width="1500"></td>
+<td><img src="https://i.imgur.com/s0nDVkW.png" width="1500"></td>
 
 ## About Us
 
-<td><img src="https://i.imgur.com/BRHgs8y.png" width="1500"></td>
-<td><img src="https://i.imgur.com/9nPaCj6.png" width="1500"></td>
+<td><img src="https://i.imgur.com/LM9kLk4.png" width="1500"></td>
 
 ## Benefits 
 
-<td><img src="https://i.imgur.com/notIOVp.png" width="1500"></td>
+<td><img src="https://i.imgur.com/79ZTogJ.png" width="1500"></td>
 
 ## Testimonies
 
-<td><img src="https://i.imgur.com/in3Dk75.png" width="1500"></td>
+<td><img src="https://i.imgur.com/fHr2H8O.png" width="1500"></td>
 
-## Contact Us
+## Videos
 
-<td><img src="https://i.imgur.com/kDG9bEb.png" width="1500"></td>
+<td><img src="https://i.imgur.com/rLYsRPk.png" width="1500"></td>
 
 ## Footer
 
-<td><img src="https://i.imgur.com/Tdz8Tka.png" width="1500"></td>
+<td><img src="https://i.imgur.com/0LAyeFO.png" width="1500"></td>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2237,10 +2236,23 @@ Aquí se encuentra la captura de las contribuciones de la landing page
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+Después de cuatro semanas de trabajo intenso, hemos logrado completar con éxito nuestro primer sprint del proyecto. Durante este tiempo, nos enfocamos en varios aspectos clave que sentarán las bases para el desarrollo de nuestra aplicación web.
+
+En primer lugar, realizamos un análisis exhaustivo de UX para comprender mejor las necesidades de nuestros usuarios y cómo podríamos satisfacerlas a través de una interfaz intuitiva y eficiente. Esto incluyó la elaboración de gráficos AS-IS y TO-BE, lo que nos permitió visualizar el estado actual y futuro del flujo de trabajo dentro de la aplicación, identificando áreas de mejora y optimización.
+
+Además, desarrollamos un backlog de historias de usuario, lo que nos ayudó a priorizar las funcionalidades esenciales que deben ser implementadas en las siguientes etapas del proyecto. Este backlog servirá como una guía para el desarrollo continuo y asegurará que nos mantengamos enfocados en cumplir con los objetivos establecidos.
+
+También dedicamos tiempo a diseñar y desarrollar la landing page de la aplicación, la cual será la primera impresión que los usuarios tendrán de nuestra plataforma. Se crearon mockups detallados para esta página, asegurando que cumpla con los principios de diseño establecidos durante el análisis UX.
+
+En resumen, este primer sprint nos ha permitido sentar una base sólida para el proyecto, alineando nuestras metas y definiendo un camino claro hacia adelante. El trabajo colaborativo y la atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta ahora, y estamos bien posicionados para avanzar en las próximas fases de desarrollo.
+
 ### Video About-the-Team
 
 ---
 # Bibliografía
+
+https://www.youtube.com/watch?v=2UPnAfuECNk
 
 ---
 # Anexos
