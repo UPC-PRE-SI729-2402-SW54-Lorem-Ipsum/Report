@@ -2078,28 +2078,27 @@ Por este primer sprint, se muestra las capturas de la landing page
 
 ## Home
 
-<td><img src="https://i.imgur.com/RXF1n5d.png" width="1500"></td>
+<td><img src="https://i.imgur.com/s0nDVkW.png" width="1500"></td>
 
 ## About Us
 
-<td><img src="https://i.imgur.com/BRHgs8y.png" width="1500"></td>
-<td><img src="https://i.imgur.com/9nPaCj6.png" width="1500"></td>
+<td><img src="https://i.imgur.com/LM9kLk4.png" width="1500"></td>
 
 ## Benefits 
 
-<td><img src="https://i.imgur.com/notIOVp.png" width="1500"></td>
+<td><img src="https://i.imgur.com/79ZTogJ.png" width="1500"></td>
 
 ## Testimonies
 
-<td><img src="https://i.imgur.com/in3Dk75.png" width="1500"></td>
+<td><img src="https://i.imgur.com/fHr2H8O.png" width="1500"></td>
 
-## Contact Us
+## Videos
 
-<td><img src="https://i.imgur.com/kDG9bEb.png" width="1500"></td>
+<td><img src="https://i.imgur.com/rLYsRPk.png" width="1500"></td>
 
 ## Footer
 
-<td><img src="https://i.imgur.com/Tdz8Tka.png" width="1500"></td>
+<td><img src="https://i.imgur.com/0LAyeFO.png" width="1500"></td>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
