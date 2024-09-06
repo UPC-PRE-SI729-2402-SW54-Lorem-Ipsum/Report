@@ -274,13 +274,13 @@ Se ha implementado una barra de navegación en la parte superior de la web la cu
 - Buscar: Aquí el usuario podrá hacer la búsqueda del abogado que desea contratar .
 - Casos: Aquí el usuario podrá ver los casos que ha creado de acuerdo a sus necesidades.
 
-![Figma](https://i.imgur.com/m2SvjSM.png) 
+![Figma](https://i.imgur.com/K4fDWVA.png) 
 Figma link: 
 https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=29-658&t=9xkGGn6yrt7HfHWn-0
 
 ### 4.3.2. Landing Page Mock-up. 
 En esta sección se ha implementado el mockup como a ido implementado nuestro landing page.
-![Figma](https://i.imgur.com/Q0dDNRT.png)
+![Figma](https://i.imgur.com/38oPT1D.png)
 Figma link: 
 https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=29-659&t=9xkGGn6yrt7HfHWn-0
 
