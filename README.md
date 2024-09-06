@@ -310,7 +310,7 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 * La interfaz de la aplicación de ser intuitiva y amigable para ambos tipos de usuario. Los clientes deben de poder utilizar LawConnect sin problema alguno y navegar en ella con facilidad.
 * Mantener a ambos usuarios al tanto de la situación del caso. Es por ello que un tracker es indicado para la aplicación debido a que las personas con problemas legales quieren estar al tanto de sus casos mientras que los abogados quieren estar en continuo aprendizaje sobre cada caso.
 
-**¿Cómo debe verse y comportarse nuestro producto?
+**¿Cómo debe verse y comportarse nuestro producto?**
 
 * La aplicación debe verse elegante y confiable al ojo de los usuarios. Mayormente, cuando algo está relacionado al derecho, se espera que todo se tome con seriedad y eso es exactamente lo que busca transmitir LawConnect.
 * La aplicación debe estar activa en todo momento debido a la importancia que representa en los clientes. Para los abogados, es su ingreso económico y para las personas con problemas legales, es urgente que encuentren un abogado que les provea un apropiado asesoramiento para sus casos.
@@ -358,12 +358,12 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 En esta parte se describirá los segmentos objetivos a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
 
-**Personas con problemas legales**
+**Abogados egresados**
 
 Abogados egresados en búsqueda de trabajo debido a la alta demanda presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.
 
 
-**Abogados egresados**
+**Personas con problemas legales** 
 
 Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible.
 
