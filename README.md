@@ -203,7 +203,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 4.1. Style Guidelines
 **Colors:** La paleta de colores usada para el trabajo es el siguiente:
 ![PALETA](https://i.imgur.com/6tXRtdR.png)
-Link Figma: https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=48-106&t=0VWe0o0u8aWZk0nH-0 
+<br> Link Figma: https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=48-106&t=0VWe0o0u8aWZk0nH-0 
 
 **Dimensión:** La dimensión que se adoptó en cuanto al diseño es un tono formal y aplicando colores profesionales como el #256D72 y un tono entusiasta con colores como el #39C2B6 y #EE7469. Asimismo, para el diseño de los íconos y formas adoptaremos diseños simples y elegantes, utilizando colores como el #F9EAAD, #EF514E, #191919, #000000, y #FFFFFF para resaltar la elegancia. Estos colores no solo aportan profesionalismo, sino que también crean una estética sofisticada y atractiva para el cliente, destacando la importancia de una paleta bien seleccionada.
 
@@ -213,6 +213,17 @@ Link Figma: https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRA
 - Implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo.
 
 ### 4.1.2. Web Style Guidelines
+
+En nuestro diseño web, adoptaremos la tendencia del minimalismo funcional, donde los colores negro y blanco serán predominantes en el fondo de la mayoría de las secciones. Esta elección no solo proporciona una visualización limpia y elegante, sino que también asegura un alto contraste entre los elementos, facilitando la lectura y navegación para los usuarios.
+
+Para añadir un toque de distinción y dinamismo, utilizaremos colores pastel de manera estratégica en ciertas secciones. Estos colores suaves se emplearán para resaltar elementos clave como botones, enlaces y textos importantes, asegurando que capturen la atención del usuario sin sobrecargar la vista.
+
+Además, implementaremos un diseño adaptable (Responsive Web Design), que permitirá que nuestro sitio web se vea y funcione de manera óptima en cualquier dispositivo, ya sea un ordenador de escritorio, una tablet o un smartphone. Este enfoque garantiza que los usuarios disfruten de una experiencia de navegación consistente y agradable, independientemente del dispositivo que utilicen.
+
+Para mejorar aún más la experiencia del usuario, incorporaremos animaciones sutiles y transiciones suaves que harán que la interacción con el sitio sea más fluida y atractiva. También prestaremos especial atención a la tipografía, seleccionando fuentes que sean legibles y estéticamente agradables, contribuyendo a la armonía visual del diseño.
+
+Finalmente, nos aseguraremos de que el contenido esté bien estructurado y sea fácil de encontrar, utilizando una navegación intuitiva y menús desplegables que faciliten el acceso a la información. Nuestro objetivo es crear un sitio web que no solo sea visualmente atractivo, sino también funcional y accesible para todos los usuarios.
+
 ## 4.2. Information Architecture
 En esta sección  nos enfocaremos en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra aplicación web y landing page de Law Connect. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
 ### 4.2.1. Organization Systems
@@ -245,9 +256,14 @@ En Law Connect, hemos creado un sistema de búsqueda completo para facilitar a l
 Proporcionamos a nuestros usuarios dos alternativas de búsqueda para adaptar su experiencia según sus preferencias individuales. Estas alternativas abarcan desde la búsqueda por nombre y por especialidad. Esto capacita a los usuarios para afinar su búsqueda de acuerdo con sus preferencias particulares.
 
 ### 4.2.5. Navigation Systems
+
 Los sistemas de navegación que se implementaran en la aplicación son los siguientes: 
 - Navegación estática de escritorio: Mediante esta navegación el usuario podrá volver con facilidad al punto de inicio de la aplicación.
+
 ## 4.3. Landing Page UI Design
+
+En el presente capitulo veremos la creacion de los Wireframes y Mockups, tanto de nuestro landin page como nuestra app web.
+
 ### 4.3.1. Landing Page Wireframe
 
 En Law Connect, hemos desarrollado un sistema de navegación intuitivo y efectivo que dirige a nuestros usuarios a través de nuestra Landing Page y aplicaciones, ayudándoles a alcanzar sus objetivos e interactuar de manera satisfactoria con nuestro producto. A continuación, detallamos cómo los usuarios podrán explorar nuestro contenido:
@@ -340,6 +356,9 @@ https://www.figma.com/proto/q0YtVInNQKAmcOW8yNS6Co/Web-Application---Open-y-Web-
 
 ![Prototipo](https://i.imgur.com/59a2ugE.png)
 ## 4.6. Domain-Driven Software Architecture
+
+En esta seccion ser vera como ira la arquitectura de nuestro proyecto.
+
 ### 4.6.1. Software Architecture Context Diagram
 En este apartado se muestra las entidades que trabajan con la aplicación.
 
@@ -354,11 +373,19 @@ Se mostrará las distintas responsabilidades entre los varios componentes.
 
 Se podrá visualizar las distintas dependencias entre los componentes existentes.
 
+![ARCHITECTURE](https://i.imgur.com/aRtezjI.png)
+
 ## 4.7. Software Object-Oriented Design
+
+En dicha seccion se vera como sera la creacion de nuestra base de datos que sera reevaluada a lo largo de nuestro proyecto
+
 ### 4.7.1. Class Diagrams
+
+![Class](https://i.imgur.com/yHIfJW1.png)
+
 ### 4.7.2. Class Dictionary
 
-**Tabla Usuarios:**
+**User:**
 | Nombre          | Atributo                                                | Descripción                          |
 |-----------------|---------------------------------------------------------|--------------------------------------|
 | id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del usuario      |
@@ -368,7 +395,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | is_lawyer       | BOOLEAN, DEFAULT FALSE                                   | Indicador si el usuario es abogado   |
 | created_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del usuario        |
 
-**Tabla Perfiles:**
+**Profiles:**
 | Nombre            | Atributo                                                | Descripción                                |
 |-------------------|---------------------------------------------------------|--------------------------------------------|
 | id                | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del perfil             |
@@ -379,7 +406,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | profile_picture   | TEXT                                                     | URL de la foto de perfil                   |
 | created_at        | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del perfil               |
 
-**Tabla Casos:**
+**Cases:**
 | Nombre          | Atributo                                                | Descripción                          |
 |-----------------|---------------------------------------------------------|--------------------------------------|
 | id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del caso         |
@@ -389,7 +416,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | created_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del caso           |
 | user_id         | BIGINT, REFERENCES users (id)                            | Identificador del usuario asociado   |
 
-**Tabla Perfiles de Abogados:**
+**Attorney Profiles:**
 | Nombre            | Atributo                                                | Descripción                                    |
 |-------------------|---------------------------------------------------------|------------------------------------------------|
 | id                | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del perfil de abogado      |
@@ -400,7 +427,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | experience_years  | INT                                                      | Años de experiencia del abogado                |
 | created_at        | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación del perfil de abogado        |
 
-**Tabla Notificaciones:**
+**Notifications:**
 | Nombre        | Atributo                                                | Descripción                               |
 |---------------|---------------------------------------------------------|-------------------------------------------|
 | id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la notificación    |
@@ -409,7 +436,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | is_read       | BOOLEAN, DEFAULT FALSE                                   | Indicador si la notificación ha sido leída|
 | created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la notificación      |
 
-**Tabla Mensajes:**
+**Messages:**
 | Nombre       | Atributo                                                | Descripción                            |
 |--------------|---------------------------------------------------------|----------------------------------------|
 | id           | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del mensaje        |
@@ -418,7 +445,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | content      | TEXT, NOT NULL                                           | Contenido del mensaje                  |
 | sent_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha y hora de envío del mensaje      |
 
-**Tabla Documentos de Abogados:**
+**Lawyers' Documents:**
 | Nombre         | Atributo                                                | Descripción                              |
 |----------------|---------------------------------------------------------|------------------------------------------|
 | id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del documento        |
@@ -427,7 +454,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | document_url   | TEXT, NOT NULL                                           | URL del documento                        |
 | uploaded_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de subida del documento            |
 
-**Tabla Asignaciones de Casos:**
+**Case Assignments:**
 | Nombre         | Atributo                                                | Descripción                               |
 |----------------|---------------------------------------------------------|-------------------------------------------|
 | id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la asignación      |
@@ -435,7 +462,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | lawyer_id      | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asignado        |
 | assigned_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de asignación del caso              |
 
-**Tabla Reseñas:**
+**Reviews:**
 | Nombre        | Atributo                                                | Descripción                                |
 |---------------|---------------------------------------------------------|--------------------------------------------|
 | id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la reseña           |
@@ -445,7 +472,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | comment       | TEXT                                                     | Comentario sobre el caso                   |
 | created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la reseña             |
 
-**Tabla Pagos:**
+**Payments:**
 | Nombre         | Atributo                                                | Descripción                                  |
 |----------------|---------------------------------------------------------|----------------------------------------------|
 | id             | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del pago                 |
@@ -455,7 +482,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | payment_date   | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha del pago                               |
 | status         | TEXT, CHECK (status IN ('pending', 'completed', 'failed')) | Estado del pago                              |
 
-**Tabla Citas:**
+**Quotations:**
 | Nombre              | Atributo                                                | Descripción                                 |
 |---------------------|---------------------------------------------------------|---------------------------------------------|
 | id                  | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la cita              |
@@ -464,7 +491,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | appointment_date    | TIMESTAMP WITH TIME ZONE, NOT NULL                       | Fecha y hora de la cita                     |
 | location            | TEXT                                                     | Ubicación de la cita                        |
 
-**Tabla Actualizaciones de Casos:**
+**Case Updates:**
 | Nombre          | Atributo                                                | Descripción                                 |
 |-----------------|---------------------------------------------------------|---------------------------------------------|
 | id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la actualización     |
@@ -472,7 +499,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | update_text     | TEXT, NOT NULL                                           | Texto de la actualización                   |
 | updated_at      | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de la actualización                   |
 
-**Tabla Calificaciones de Abogados:**
+**Attorney Qualifications:**
 | Nombre        | Atributo                                                | Descripción                                    |
 |---------------|---------------------------------------------------------|------------------------------------------------|
 | id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la calificación         |
@@ -482,7 +509,7 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | comment       | TEXT                                                     | Comentario sobre el abogado                    |
 | created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la calificación           |
 
-**Tabla Sesiones de Usuario:**
+**User Sessions:**
 | Nombre        | Atributo                                                | Descripción                                  |
 |---------------|---------------------------------------------------------|----------------------------------------------|
 | id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la sesión             |
@@ -491,14 +518,14 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 | created_at    | TIMESTAMP WITH TIME ZONE, DEFAULT NOW()                  | Fecha de creación de la sesión               |
 | expires_at    | TIMESTAMP WITH TIME ZONE, NOT NULL                       | Fecha de expiración de la sesión             |
 
-**Tabla Especializaciones de Abogados:**
+**Lawyer Specializations:**
 | Nombre          | Atributo                                                | Descripción                                |
 |-----------------|---------------------------------------------------------|--------------------------------------------|
 | id              | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único de la especialización  |
 | lawyer_id       | BIGINT, REFERENCES lawyer_profiles (id)                  | Identificador del abogado asociado         |
 | specialization  | TEXT, NOT NULL                                           | Especialización del abogado                |
 
-**Tabla Documentos de Casos:**
+**Case Documents:**
 | Nombre        | Atributo                                                | Descripción                              |
 |---------------|---------------------------------------------------------|------------------------------------------|
 | id            | BIGINT, PRIMARY KEY, GENERATED ALWAYS AS IDENTITY        | Identificador único del documento        |
@@ -508,9 +535,12 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 
 
 ## 4.8. Database Design
+
+Veremos el diagrama en base a nuestro base de datos, posterior a esto abra correcciones dependiendo a observaciones en nuestro proyecto.
+
 ### 4.8.1. Database Diagram
 
-
+![Database_Diagram](https://i.imgur.com/Tlpo7nr.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
