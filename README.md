@@ -2237,15 +2237,19 @@ Aquí se encuentra la captura de las contribuciones de la landing page
 # Conclusiones
 ### Conclusiones y recomendaciones
 
-Después de cuatro semanas de trabajo intenso, hemos logrado completar con éxito nuestro primer sprint del proyecto. Durante este tiempo, nos enfocamos en varios aspectos clave que sentarán las bases para el desarrollo de nuestra aplicación web.
-
-En primer lugar, realizamos un análisis exhaustivo de UX para comprender mejor las necesidades de nuestros usuarios y cómo podríamos satisfacerlas a través de una interfaz intuitiva y eficiente. Esto incluyó la elaboración de gráficos AS-IS y TO-BE, lo que nos permitió visualizar el estado actual y futuro del flujo de trabajo dentro de la aplicación, identificando áreas de mejora y optimización.
-
-Además, desarrollamos un backlog de historias de usuario, lo que nos ayudó a priorizar las funcionalidades esenciales que deben ser implementadas en las siguientes etapas del proyecto. Este backlog servirá como una guía para el desarrollo continuo y asegurará que nos mantengamos enfocados en cumplir con los objetivos establecidos.
-
-También dedicamos tiempo a diseñar y desarrollar la landing page de la aplicación, la cual será la primera impresión que los usuarios tendrán de nuestra plataforma. Se crearon mockups detallados para esta página, asegurando que cumpla con los principios de diseño establecidos durante el análisis UX.
-
-En resumen, este primer sprint nos ha permitido sentar una base sólida para el proyecto, alineando nuestras metas y definiendo un camino claro hacia adelante. El trabajo colaborativo y la atención al detalle han sido cruciales para alcanzar los resultados obtenidos hasta ahora, y estamos bien posicionados para avanzar en las próximas fases de desarrollo.
+A partir del proceso para completar la primera entrega del proyecto, entendemos que necesitamos una base concisa y clara 
+para poder empezar con la creación de nuestro producto. Tuvimos que realizar distintas investigaciones para determinar 
+nuestro flujo de trabajo. Empezamos con el Lean UX Process, lo que nos permitió conocer de forma exacta nuestro público 
+objetivo, lo que buscamos ofrecer para aplacar sus necesidades y nuestros objetivos como startup. Continuamos con los gráficos 
+AS-IS y TO-BE, de esta manera pudimos representar el estado actual y futuro del flujo que habrá dentro de la aplicación. 
+Así, tendremos la oportunidad de identificar cómo optimizar los procesos. Asimismo, con las entrevistas a nuestros segmentos 
+objetivos previamente identificados, logramos entender sus necesidades y reforzar nuestro diseño de aplicación web. A 
+partir de ello, pudimos crear nuestras User Stories que definirán cómo continuaremos el proyecto y qué debemos cumplir 
+al momento de finalizarlo. Sin embargo, solo para la primera entrega tuvimos en cuenta los que hicimos para la landing 
+page debido a que necesitamos crear un web site que atraiga a los usuarios y mostrarles la razón por la cual nuestra 
+aplicación será una solución viable. En resumen, este primer sprint nos permitió tener una base firme, que se alinea con 
+nuestras metas como empresa y los beneficios que esperamos brindar a los usuarios. Además, el trabajo colaborativo es 
+definitivamente importante para lograr un buen avance en el proyecto.
 
 ### Video About-the-Team
 
