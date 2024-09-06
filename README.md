@@ -238,7 +238,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
   - CSS3: Es un lenguaje de hojas de estilo en cascada que le da estilo a la página (hace que una página sea visualmente más atractiva)
   - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una página web
   - VSCode: Es el editor de código fuente para el desarrollo de la landing page
-  - Vue.JS: Es un framework de JavaScript para el desarrollo frontend de la aplicación web
+  - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
 * Software Deployment
   - Github Pages: Plataforma para desplegar la landing page
 ### 5.1.2. Source Code Management
