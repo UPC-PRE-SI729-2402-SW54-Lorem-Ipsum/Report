@@ -20,7 +20,7 @@ Producto:
 
 Integrantes:
 
-- 
+- Carlos Avellaneda Ramos
 - 
 - 
 -
