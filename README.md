@@ -16,7 +16,7 @@
 
 **Informe de Trabajo Final**
 
-**Startup**: Law Connect S.A.C.
+**Startup**: Lorem Ipsum
 
 **Producto**: Law Connect
 </div>
@@ -183,11 +183,11 @@ En esta sección se describirá la información de nuestra startup, misión y vi
 
 ### 1.1.1 Descripción de la Startup
 
-Law Connect S.A.C. es una startup conformada por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Esta nueva empresa está enfocada en la creación de herramientas tecnológicas para el rubro de abogacía. Mediante las aplicaciones que creamos, esperamos optimizar los procesos legales que los clientes puedan tener actualmente. Asimismo, estas aplicaciones son para los abogados también, sin excluir en términos de rango de edades o experiencia laboral; de esta forma, permitimos que haya más oportunidades laborales. Es por ello que, como nuestro primer proyecto, vamos a desarrollar la aplicación Law Connect. Esta es una aplicación web con la cual buscamos facilitar la búsqueda de abogados calificados para personas que cuenten con problemas legales. Además, esperamos generar más ofertas laborales a los abogados recién egresados de la universidad, lo cual posibilita que consigan oportunidades de trabajo, para obtener más experiencia. Así, mejoramos la comunicación entre los egresados y potenciales clientes, por lo tanto, cumplimos con nuestra misión.
+Lorem Ipsum es una startup conformada por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Esta nueva empresa está enfocada en la creación de herramientas tecnológicas para el rubro de abogacía. Mediante las aplicaciones que creamos, esperamos optimizar los procesos legales que los clientes puedan tener actualmente. Asimismo, estas aplicaciones son para los abogados también, sin excluir en términos de rango de edades o experiencia laboral; de esta forma, permitimos que haya más oportunidades laborales. Es por ello que, como nuestro primer proyecto, vamos a desarrollar la aplicación Law Connect. Esta es una aplicación web con la cual buscamos facilitar la búsqueda de abogados calificados para personas que cuenten con problemas legales. Además, esperamos generar más ofertas laborales a los abogados recién egresados de la universidad, lo cual posibilita que consigan oportunidades de trabajo, para obtener más experiencia. Así, mejoramos la comunicación entre los egresados y potenciales clientes, por lo tanto, cumplimos con nuestra misión.
 
 **Misión**: Brindar una comunicación eficiente entre abogados calificados y clientes, para optimizar los procesos legales y promover el uso de herramientas tecnológicas en el rubro. El motivo es incrementar las ofertas laborales y que los clientes tengan la oportunidad de encontrar un abogado que se acomode a sus necesidades. <br>
 
-**Visión**: Liderar en el rubro de leyes con nuestra startup al brindar nuevas opciones sostenibles y digitales, esperamos crear un puente entre los clientes y abogados con las aplicaciones que ofrecemos. Law Connect S.A.C. desea reinventar el rubro de leyes al permitir el incremento del uso de la tecnología en distintos procesos legales.
+**Visión**: Liderar en el rubro de leyes con nuestra startup al brindar nuevas opciones sostenibles y digitales, esperamos crear un puente entre los clientes y abogados con las aplicaciones que ofrecemos. Lorem Ipsum desea reinventar el rubro de leyes al permitir el incremento del uso de la tecnología en distintos procesos legales.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
