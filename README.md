@@ -1,38 +1,91 @@
-Universidad Peruana de Ciencias Aplicadas
 
-Carrera: Ingeniería de Software
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-Ciclo: 2024-02
 
-Curso: 
+**Universidad Peruana de Ciencias Aplicadas**
 
-Sección: 
+**Carrera**: Ingeniería de Software
 
-Profesor: 
+**Ciclo**: 2024-02
 
-Informe del Trabajo Final
+**Curso**: Desarrollo de Aplicaciones Open Source
 
-Startup: 
+**Sección**: SW54
 
-Producto: 
+**Profesor**: Alberto Wilmer Sanchez Seña
 
-Integrantes:
+**Informe de Trabajo Final**
 
-- Carlos Avellaneda Ramos
-- 
-- 
--
--
+**Startup**: Lorem Ipsum
 
-Agosto del 2024
+**Producto**: Law Connect
+
+**Integrantes**:
+- Avellaneda Ramos, Carlos Edward - U201923994
+- La Madrid Lozano, Ivan Jeanpierre - U202118946
+- Condori Lozano, Alessandro Ramiro -
+- Loli Ramirez, Camila Cristina - U202110385
+- Pariona Lucas, Jose Manuel - U202119257
+
+<div align="center">
+
+**Agosto del 2024**
+</div>
 
 ---
 # Registro de Versiones del Informe
 
+<table>
+    <tr>
+        <th colspan="3">Version</th>
+        <th colspan="3">Fecha</th>
+        <th colspan="10">Autores</th>
+        <th colspan="5">Descripción de Modificaciones</th>
+    <tr>
+        <td colspan="3">1era</td>
+        <td colspan="3">28/08/2024</td>
+        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
+    </tr>
+    <tr>
+        <td colspan="3">2da</td>
+        <td colspan="3">7/09/2024</td>
+        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V</td>
+    </tr>
+</table>
 
 ---
 # Project Report Collaboration Insights
 
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+
+**URL del Repositorio del Informe:** https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report
+
+**Entrega N°1: TB1**
+<br>
+
+Se han completado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: Informe-TB1-Web.
+
+Para la creación del informe, se realizaron las siguientes actividades:
+
+Cada miembro del equipo redactó y generó gráficos en formato Markdown según los puntos asignados, y luego se hicieron commits para registrar el progreso en el repositorio.
+
+Se crearon los artefactos necesarios usando las herramientas recomendadas, y se obtuvieron los enlaces de las imágenes correspondientes a través de la funcionalidad de "Issues" en el repositorio del informe.
+
+Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
+
+**Contributors Insights report:**
+![alt text](images/Commits-report-tb1.png)
+
+**Contributors Insights landing page:**
+![alt text](images/Commits-Landing-tb1.png)
+
+**Network Insights report:**
+![alt text](images/Network-report-tb1.png)
+
+**Network Insights report:**
+![alt text](images/Network-landing-tb1.png)
 
 ---
 # Student Outcome
@@ -40,10 +93,11 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la página de aterrizaje y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br>| ***TB1:*** me encargué de diseñar los wireframes, mockups y diagramas necesarios para la página de aterrizaje y la futura aplicación web, facilitando así la comprensión del programa y su base de datos.<br><br> | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la página de aterrizaje y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico.. | ***TB1:*** Diseñé los wireframes, mockups y diagramas necesarios para la página de aterrizaje y la futura aplicación web, facilitando así la comprensión del programa y su base de datos para todos los miembros del equipo.. <br><br>|
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br> | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
+
 
 ---
 # Contenido
@@ -166,17 +220,215 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ---
 # Capítulo I: Introducción
+
+En este capítulo se explicará la visión general del proyecto. Comenzaremos con la descripción completa de nuestra startup y equipo, continuaremos con un análisis de la problemática a resolver con nuestra solución. Asimismo, mediante el proceso de Lean UX podremos desarrollar la solución e identificar nuestro mercado objetivo. De esta forma, tendremos una base sólida para comenzar nuestro proyecto. 
+
 ## 1.1. Startup Profile
+
+En esta sección se describirá la información de nuestra startup, misión y visión para definir nuestras metas, y el perfil de cada integrante del equipo.
+
 ### 1.1.1 Descripción de la Startup
+
+Lorem Ipsum es una startup conformada por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Esta nueva empresa está enfocada en la creación de herramientas tecnológicas para el rubro de abogacía. Mediante las aplicaciones que creamos, esperamos optimizar los procesos legales que los clientes puedan tener actualmente. Asimismo, estas aplicaciones son para los abogados también, sin excluir en términos de rango de edades o experiencia laboral; de esta forma, permitimos que haya más oportunidades laborales. Es por ello que, como nuestro primer proyecto, vamos a desarrollar la aplicación Law Connect. Esta es una aplicación web con la cual buscamos facilitar la búsqueda de abogados calificados para personas que cuenten con problemas legales. Además, esperamos generar más ofertas laborales a los abogados recién egresados de la universidad, lo cual posibilita que consigan oportunidades de trabajo, para obtener más experiencia. Así, mejoramos la comunicación entre los egresados y potenciales clientes, por lo tanto, cumplimos con nuestra misión.
+
+**Misión**: Brindar una comunicación eficiente entre abogados calificados y clientes, para optimizar los procesos legales y promover el uso de herramientas tecnológicas en el rubro. El motivo es incrementar las ofertas laborales y que los clientes tengan la oportunidad de encontrar un abogado que se acomode a sus necesidades. <br>
+
+**Visión**: Liderar en el rubro de leyes con nuestra startup al brindar nuevas opciones sostenibles y digitales, esperamos crear un puente entre los clientes y abogados con las aplicaciones que ofrecemos. Lorem Ipsum desea reinventar el rubro de leyes al permitir el incremento del uso de la tecnología en distintos procesos legales.
+
 ### 1.1.2 Perfiles de integrantes del equipo
+
+|                             **U201923994**                             |                                                                                                                                                                                                                                                                                             Avellaneda Ramos, Carlos Edward                                                                                                                                                                                                                                                                                             |
+|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **![Charlie Avellanada](assets/img/Chapter-01/CharlieAvellanada.png)** |                                                                                                          *Ingeniería de Software*<br><br>Soy una persona amigable, me gusta hacer creación de contenido, y también me agrada el trabajo en equipo. Tengo experiencia en Frontend y Backend, he realizado proyectos para empresas pequeñas. Me especializo en la programación y tengo conocimientos en la creación de páginas web y videojuegos. Además de usar herramientas para edición de imágenes o videos.                                                                                                          |
+|                             **U202118946**                             |                                                                                                                                                                                                                                                                                          **La Madrid Lozano, Ivan Jeanpierre**                                                                                                                                                                                                                                                                                          |
+|       ![Ivan La Madrid](assets/img/Chapter-01/IvanLaMadrid.png)        |                                                                                                                              *Ingeniería de Software*<br><br>Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.                                                                                                                              |
+|                             **U20211A118**                             |                                                                                                                                                                                                                                                                                          **Condori Lozano, Alessandro Ramiro**                                                                                                                                                                                                                                                                                          |
+| **![Alessandro Condori](assets/img/Chapter-01/AlessandroCondori.jpg)** |                                                                                                                        *Ingeniería de Software*<br><br>Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.                                                                                                                         |
+|                             **U202110385**                             |                                                                                                                                                                                                                                                                                            **Loli Ramirez, Camila Cristina**                                                                                                                                                                                                                                                                                            |
+|        **![Camila Loli](assets/img/Chapter-01/CamilaLoli.jpg)**        |                         *Ingeniería de Software*<br><br>Soy Camila Cristina Loli Ramirez, tengo 20 años y soy alumna de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.                          |
+|                             **U202119257**                             |                                                                                                                                                                                                                                                                                             **Pariona Lucas, Jose Manuel**                                                                                                                                                                                                                                                                                              |
+|       **![Jose Pariona](assets/img/Chapter-01/JosePariona.png)**       | *Ingeniería de Software*<br><br>Tengo 18 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar. |
+
 ## 1.2 Solution Profile
+
+En esta sección se describirá la problemática a resolver con nuestra solución, y cómo se aplicará el proceso de Lean UX para desarrollar la solución y definir nuestro mercado objetivo.
+
 ### 1.2.1 Antecedentes y problemática
+
+Según Vallecilla (2024), hasta febrero del año 2024, la tasa de desempleo en Perú alcanzó el 7.30%. Esta realidad no es ajena para los egresados de la carrera de derecho, los cuales se enfrentan a desafíos para encontrar un empleo estable debido a la coyuntura actual. Acorde al Tercer Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2022), se explica que a los bachilleres de leyes les demora 3,6 meses en conseguir un trabajo, lo cual impide que tengan continuidad para ejercer su carrera luego de su graduación. Asimismo, todavía hay un porcentaje de estudiantes (6.4%) en Lima que les puede tomar dese 17 a 23 meses; es por ello que deseamos disminuir esa cantidad, debido a que implica un impacto en su currículum, esto complica aún más sus oportunidades laborales. Por otro lado, también existe la dificultad para aquellas personas con problemas legales de encontrar un abogado calificado, ya que carecen de orientación sobre dónde buscar o cómo encontrarlos.
+
+Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
+
+**What**: El problema es el desempleo entre los egresados de la carrera de derecho y la dificultad de las personas con problemas legales al momento de buscar abogados calificados para sus casos.
+
+**When**: El problema sucede desde hacer varios años atrás, según Segundo Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2020), que considera un análisis del año 2012 a 2018, había una tasa de desempleo en universitarios de 8,8%, un nivel bastante alto a pesar de tener grado de bachiller.
+
+**Where**: Este análisis se enfoca en Lima, en este se enfrentan distintos desafíos al momento de encontrar un empleo al ser un estudiante egresado de la carrera de leyes. Asimismo, hay un grado de dificultad para acceder a los servicios legales debido a la falta de información al momento de contactar a un abogado.
+
+**Who**: Nos enfocamos en los egresados de la carrera de derecho que estén en búsqueda de empleo y en las personas que necesitan asistencia legal para sus respectivos casos.
+
+**Why**: La oferta laboral para los abogados es más alta que la demanda de trabajo, es por ello que nos enfocamos explícitamente en los egresados, porque es más difícil hallar trabajo en un rubro tan sobrepoblado. Buscamos mitigar el desempleo en el rubro de leyes.
+
+**How**: Desarrollaremos Law Connect para facilitar la búsqueda de abogados y aumentar la demanda laboral para los abogados. Asimismo, brindaremos la aplicación web a los clientes para mejorar la comunicación con abogados calificados.
+
+**How much**:
+
+*Estadística de la problemática*
+
+Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hecho por Sunedu (2022) para analizar el estado de los estudiantes universitarios - incluye de todo tipo de instituciones, sea privada o pública y a los de otros departamentos en el país - antes, durante y después de su formación superior académica, se pueden analizar dos gráficos estadísticos que explican la gravedad de la situación de los egresados.
+
+Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página X del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
+
+![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/img/Chapter-01/Estadistica-01.png)
+
+*Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera. Fuente: Sunedu, 2022.*
+
+En el segundo gráfico se muestra el tiempo que demora a los egresados encontrar trabajo luego de su graduación acorde a su experiencia laboral. A los egresados sin experiencia previa en el rubro les toma 9,4 meses encontrar un puesto para laborar; la cantidad de meses disminuye a medida que la cantidad de tiempo trabajado en prácticas pre profesionales es mayor. Al tener en cuenta estos números, se comprueba que hay más dificultad al momento de buscar trabajo sin experiencia previa.
+
+**![Estadística sobre el tiempo que le toma a los egresados encontrar trabajo considerando su experiencia previa](assets/img/Chapter-01/Estadistica-02.png)**
+
+*Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera acorde a su experiencia laboral durante su carrera. Fuente: Sunedu 2022.*
+
 ### 1.2.2 Lean UX Process
+
+En esta parte, explicamos el proceso de Lean UX que utilizamos para desarrollar la solución Law Connect. Se explican los problemas, asunciones, hipótesis y el canvas de Lean UX para englobar todo lo investigado.
+
 #### 1.2.2.1. Lean UX Problem Statements
+
+**Problem Statement 1:**
+
+El estado actual del mercado laboral para los abogados egresados en Perú ha estado centrado principalmente en profesionales con experiencia establecida, lo que causa que muchos egresados no encuentren oportunidades laborales a pesar de sus habilidades y prácticas previas. Esto se debe a la alta competencia que hay en el rubro. Lo que los productos existentes no logran abordar es una conexión efectiva entre los egresados y las ofertas de empleo adecuadas que les permita adquirir experiencia. Nuestro producto, Law Connect, abordará esta brecha mediante una plataforma digital enfocada en simplificar el proceso para que los abogados puedan ser contactados. Nuestro enfoque inicial serán los abogados desempleados que buscan integrarse al mercado laboral. Sabremos que hemos tenido éxito cuando veamos un aumento en la tasa de empleo entre los abogados egresados y una disminución en el tiempo que tardan en encontrar su primer empleo.
+
+**Problem Statement 2:**
+
+El estado actual de la búsqueda de servicios legales en el Perú se ha centrado principalmente en abogados de renombre, los cuales suelen ser bastante inasequible en términos de tiempo y costos, y a redes netamente profesionales con muchos años de experiencia, esto ocasiona que muchas personas con problemas legales que no posean esta ventaja, no consigan la asistencia que necesitan con tanta urgencia. Lo que los productos existentes no logran abordar es facilitar la búsqueda de abogados que sean capaces de solucionar sus problemas y que tengan la disponibilidad de tiempo que se necesita para el caso, lo cual permitiría a los clientes ahorrar tiempo al buscar un abogado y que se enfoque netamente en su caso. Nuestro producto abordará esta brecha mediante el desarrollo de nuestra aplicación web Law Connect, los clientes podrán contactarse con abogados calificados y que estén al tanto de sus respectivos casos. Esto mejorará la experiencia del usuario y tendrá la oportunidad de resolver su caso de manera efectiva y rápida. Nuestro enfoque inicial será las personas con problemas legales que necesiten encontrar un abogado capacitado y que brinde una solución eficaz mediante una búsqueda simple pero efectiva. Sabremos que hemos tenido éxito cuando veamos un aumento de personas satisfechas con la búsqueda de un abogado apropiado para su caso y los casos resueltos en la ciudad de Lima incremente, debido a que hay una gran cantidad que no llegan a un punto de conclusión.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business Outcomes:**
+
+* **Creo que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
+* **Estas necesidades se pueden resolver** una aplicación web amigable que conecte a las personas con serios problemas legales con abogados egresados que estén interesados en ofrecer sus servicios.
+* **Mis clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
+* **El valor #1 que un cliente requiere de mi servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
+* **El cliente también puede obtener estos beneficios adicionales** como accesibilidad a servicios legales a precios asequibles y seguimiento de sus respectivos casos.
+* **Voy a adquirir a mis clientes a través de** estrategias de marketing digital en las aplicaciones más utilizadas dentro del rango de edad delimitado para ambos segmentos objetivos. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos.
+* **Haré dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
+* **Mi competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
+* **Los venceremos debido a que** ofrecemos una solución accesible y enfocada a los últimos cambios en la tecnología. De esta forma, mantenemos una aplicación relevante en un mundo tan avanzado tecnológicamente.
+* **Mis mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
+* **Resolveremos esto mediante** campañas de sensibilización sobre la seguridad, consejos para reconocer cuando una aplicación es confiable y cuando no.
+* **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** incremento en la tasa de abogados recientemente egresados contratados y de clientes en nuestra aplicación debido a que confían en nosotros.
+* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que la un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
+
+**User Outcomes**
+
+**¿Quiénes serán nuestros usuarios?**
+
+Nuestros usuarios principales son:
+* Personas con problemas legales con necesidad urgente de hallar asesoramiento legal.
+* Abogados egresados de la universidad que desean encontrar un lugar estable de trabajo.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+Para las personas con problemas legales: Law Connect encaja perfectamente en sus casos, el hecho de encontrar un abogado que sea calificado y resolver sus problemas es lo que más necesitan debido a que un juicio no es fácil de lidiar. Después de todo, los problemas legales no son solamente limitados a crímenes, esto también incluye incumplimiento de proveedores, demandas de trabajadores, etc.
+
+Para los egresados de la carrera de derecho: La aplicación web encaja en su rutina diaria debido a que esta va a ser su medio para conseguir distintos trabajos en varios casos. Esto permite que generen más experiencia laboral y, por lo tanto, incrementar su economía.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+**Problemas:**
+
+* El uso de la tecnología en el rubro de leyes es casi inexistente, la mayoría de veces siguen dependiendo de antiguas máquinas o de una gran cantidad de archivos difíciles de encontrar.
+* Los abogados pueden pensar que LawConnect no brinda algo distinto de las demás aplicaciones sin haber intentado usarla.
+
+**Soluciones:**
+
+* Incrementar la propaganda de nuestra aplicación, basándonos en la idea de demostrar que las aplicaciones web son intuitivas y fáciles de usar una vez que el usuario se acostumbra a ellas. También, es cuestión de mostrarles la facilidad que viene con tener todos los archivos en un solo lugar y que van a ser mucho menos complicadas de encontrar con nuestra plataforma.
+* Promover los beneficios que brinda LawConnect a partir de distintas investigaciones y entrevistas. De esta forma, ganaremos la confianza de los abogados egresados y demostraremos que LawConnect no es simple.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+LawConnect es utilizada por los clientes cuando presentan problemas legales y buscan un abogado que esté dispuesto a ayudarlos en esa desesperante y cansada situación. En el caso de los abogados egresados, lo utilizan cuando necesitan generar ingresos de forma rápida y segura, pueden confiar que LawConnect solo busca el beneficio para ambos segmentos.
+
+**¿Qué características son importantes?**
+
+* La interfaz de la aplicación de ser intuitiva y amigable para ambos tipos de usuario. Los clientes deben de poder utilizar LawConnect sin problema alguno y navegar en ella con facilidad.
+* Mantener a ambos usuarios al tanto de la situación del caso. Es por ello que un tracker es indicado para la aplicación debido a que las personas con problemas legales quieren estar al tanto de sus casos mientras que los abogados quieren estar en continuo aprendizaje sobre cada caso.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+
+* La aplicación debe verse elegante y confiable al ojo de los usuarios. Mayormente, cuando algo está relacionado al derecho, se espera que todo se tome con seriedad y eso es exactamente lo que busca transmitir LawConnect.
+* La aplicación debe estar activa en todo momento debido a la importancia que representa en los clientes. Para los abogados, es su ingreso económico y para las personas con problemas legales, es urgente que encuentren un abogado que les provea un apropiado asesoramiento para sus casos.
+
+**Features**
+
+* Desde la cuenta del abogado:
+    * Los abogados deben de tener a su disposición todos los documentos utilizados en cada caso de manera organizada. Esto es para evitar problemas con respecto a la documentación debido a que son archivos muy delicados.
+    * Tener la oportunidad de presentar sus casos exitosos en sus cuentas mientras que se mantiene oculta la información de sus clientes. La privacidad es muy importante y LawConnect busca salvaguardarla.
+    * Acorde a su especialidad, que le aparezcan casos en relación a ello; esto se debe a que les permitirá ganar más experiencia durante su trayecto en LawConnect.
+* Desde la cuenta de un cliente con problemas legales:
+    * Los clientes tendrán la facilidad de hallar a un abogado calificado para su caso debido a los filtros de búsqueda presentes en la aplicación. No solo eso, la comunicación será más directa al momento de interactuar con ellos porque es inmediato y mediante la aplicación.
+    * Tener un historial de consultas en este caso es importante para mantener una guía de todos sus casos tratados. Asimismo, se mostrará la información de cada abogado que se encargó del caso, lo que permite que el cliente pueda volver a interactuar con este.
+    * Un tracker es primordial para este usuario. Visualizar el progreso de su caso es completamente importante debido a la magnitud que los juicios tienen. Por ello, buscamos que el usuario pueda estar al tanto de qué documentación se está utilizando y cómo va avanzando este.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+
+* **Creemos que** al ofrecer una plataforma que optimice la interacción entre personas con problemas legales con abogados calificados, aumentaremos la demanda laboral por un abogado mientras que los clientes podrán confiar en nuestra aplicación para proveerles una solución viable.
+  **Sabremos que** la interacción es un éxito cuando observemos un gran incremento en la contratación de abogados dentro de la aplicación y los clientes se sientan satisfechos con la experiencia.
+
+* **Creemos que** promover los casos resueltos de cada usuario podemos permitir que los abogados ganen más reconocimiento dentro del rubro y demostrar sus habilidades respecto a su carrera.
+  **Sabremos que** este plan es un éxito cuando la demanda de abogados incremente dentro de la aplicación a un 50% y la satisfacción de los clientes sea palpable con las calificaciones a cada abogado.
+
+* **Creemos que** los abogados egresados se interesarán en LawConnect porque les brinda la facilidad de encontrar un empleo desde la palma de su mano y con distintas herramientas que permitirán un mejor desempeño.
+  **Sabremos que** los abogados prefieren nuestra plataforma cuando más del 80% de egresados prefiera empezar su carrera laboral en LawConnect en vez de esperar a los cupos que raramente suelen haber disponibles en las firmas de abogados.
+
+
 #### 1.2.2.4. Lean UX Canvas
+
+| 1. Business Problem                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 5. Solution Ideas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2. Business Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abogados recién egresados no suelen contar con las posibilidades de ser contratados apenas reciben su diploma de graduación. Esto complica que puedan construir una carrera estable en el rubro debido a la gran oferta laboral que está experimentando. Esto conlleva a que varios egresados tengan problemas al momento de querer encontrar un trabajo estable. <br><br>Las personas con problemas legales suelen tener problemas para encontrar un abogado calificado accesible y no tan costoso. Después de todo, un proceso judicial toma bastante tiempo y dinero, aparte de los gastos que puedan tener día a día. Eso causa que, a veces, las personas simplemente dejen pasar el juicio o caso por el hecho de que es mucho más costoso debatirlo que dejarlo pasar. A pesar de que pueden haber peores consecuencias debido a eso. | Una aplicación web que mejore la comunicación entre personas que necesitan ayuda legal para sus casos y los abogados egresados que tienen un gran ímpetu de empezar su vida laboral.<br><br>Desde la cuenta del abogado:<br>Los abogados deben de tener a su disposición todos los documentos utilizados en cada caso de manera organizada. Esto es para evitar problemas con respecto a la documentación debido a que son archivos muy delicados.<br><br>Tener la oportunidad de presentar sus casos exitosos en sus cuentas mientras que se mantiene oculta la información de sus clientes. La privacidad es muy importante y LawConnect busca salvaguardarla. De esta forma, conseguirán más contratos sin necesidad de exponer sus casos.<br><br>Acorde a su especialidad, que le aparezcan casos en relación a ello; esto se debe a que les permitirá ganar más experiencia durante su trayecto en LawConnect.<br><br>Desde la cuenta de un cliente con problemas legales:<br>Los clientes tendrán la facilidad de hallar a un abogado calificado para su caso debido a los filtros de búsqueda presentes en la aplicación. No solo eso, la comunicación será más directa al momento de interactuar con ellos porque es inmediato y mediante la aplicación.<br><br>Tener un historial de consultas en este caso es importante para mantener una guía de todos sus casos tratados. Asimismo, se mostrará la información de cada abogado que se encargó del caso, lo que permite que el cliente pueda volver a interactuar con este.<br><br>Un tracker es primordial para este usuario. Visualizar el progreso de su caso es completamente importante debido a la magnitud que los juicios tienen. Por ello, buscamos que el usuario pueda estar al tanto de qué documentación se está utilizando y cómo va avanzando este. | Al disminuir el tiempo necesario para que los abogados egresados consigan empleo, mejoraremos su calidad de vida y aumentar su experiencia laboral. Esto se debe a que el estrés por encontrar un empleo ya no sea tan grave o simplemente desaparezca.<br><br>Mejorar la situación de las personas con problemas legales, evitar que se generen más consecuencias a futuro a partir de que eviten ignorar sus casos o juicios. Asimismo, permitir que tengan más ímpetu de denunciar las injusticias que vivan sin necesidad de dejarlas pasar por lo costoso que puede ser el proceso. |
+
+| 3. Users                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 4. User Outcomes and Benefits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.<br><br>Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible. | Aumentar la demanda laboral:<br>Los abogados egresados podrán tener más ofertas de trabajo de las cuales pueda depender sin problema alguno. Construir experiencia que, eventualmente, les permitirá crear sus propias firmas o encontrar otro empleo mucho más estable, es un gran beneficio para ellos.<br><br>Ahorrar tiempo y dinero:<br>Las personas con problemas legales van a poder ahorrar su tiempo por evitar tediosos largos procesos para conseguir un abogado capacitado para su caso. Con tan solo un click, tendrán una gran lista de abogados disponibles. En el caso del dinero, van a poder ahorrarse una gran cantidad debido a que el precio es bastante más sostenible que el que una firma puede proveer. |
+
+| 6. Hypotheses                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 7. What's the most important thing we need to learn first?                                                                                                                                                                                                                                                                                                                                                                           | 8. What's the least amount of work we need to do to learn the next most important thing?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nosotros creemos que vamos a poder lograr disminuir el tiempo necesario para que los abogados egresados consigan empleo, mejoraremos su calidad de vida y aumentar su experiencia laboral. Esto se debe a que el estrés por encontrar un empleo ya no sea tan grave o simplemente desaparezca. Si los abogados obtienen la oportunidad de tener más ofertas de trabajo de las cuales pueda depender sin problema alguno. Construir experiencia que, eventualmente, les permitirá crear sus propias firmas o encontrar otro empleo mucho más estable, es un gran beneficio para ellos; con la opción de presentar sus casos exitosos en sus cuentas mientras que se mantiene oculta la información de sus clientes. La privacidad es muy importante y LawConnect busca salvaguardarla. De esta forma, conseguirán más contratos sin necesidad de exponer sus casos.<br><br>Nosotros creemos que vamos a poder lograr mejorar la situación de las personas con problemas legales, evitar que se generen más consecuencias a futuro a partir de que eviten ignorar sus casos o juicios. Asimismo, permitir que tengan más ímpetu de denunciar las injusticias que vivan sin necesidad de dejarlas pasar por lo costoso que puede ser el proceso; si las personas con problemas legales obtienen ahorrar su tiempo por evitar tediosos largos procesos para conseguir un abogado capacitado para su caso. Con tan solo un click, tendrán una gran lista de abogados disponibles. En el caso del dinero, van a poder ahorrarse una gran cantidad debido a que el precio es bastante más sostenible que el que una firma puede proveer; con la facilidad de hallar a un abogado calificado para su caso debido a los filtros de búsqueda presentes en la aplicación. No solo eso, la comunicación será más directa al momento de interactuar con ellos porque es inmediato y mediante la aplicación. | Hacer una comparación de precios respecto a los abogados de firmas y los posibles precios que tenemos planteados para nuestra aplicación.<br><br>Entender que es exactamente lo que necesitan nuestros usuarios para encontrar una solución para sus problemas.<br><br>Conocer como las personas perciben los negocios basados en una aplicación para poder demostrar que LawConnect sería una muy buena adición a su rutina diaria. | Realizar una investigación exhaustiva, como análisis de competidores para entender qué es lo que nos falta, qué ventajas tienen ellos y cuáles son nuestras fortalezas. De esta manera, podremos mejorar la base de nuestra aplicación.<br><br>Realizar entrevistas a distintos abogados egresados y personas con problemas legales, de esta forma, podremos reunir suficientes necesidades que tengan y basarnos en eso.<br><br>Hacer una propaganda positiva sobre nuestra aplicación y dar consejos de cómo la tecnología puede ser incluida en nuestra rutina de manera consciente y segura. |
+
+
 ## 1.3. Segmentos objetivo
+
+En esta parte se describirá los segmentos objetivos a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
+
+**Abogados egresados**
+
+Abogados egresados en búsqueda de trabajo debido a la alta demanda presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.
+
+
+**Personas con problemas legales** 
+
+Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible.
+
+## Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+## 2.1.1. Análisis competitivo
+![image](https://github.com/user-attachments/assets/b2b5e4ba-3004-4f64-a1e3-c0fd82d290a8)
+![image](https://github.com/user-attachments/assets/4f281a33-886c-4b00-a6e1-684574394071)
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+Entre las principales tácticas para superar a la competencia se encuentran:
+
+Personalización del Servicio: Mejorar la atención al cliente, ajustando nuestras soluciones a las necesidades particulares de cada usuario.
+Estructura de Precios Atractiva: Implementar un esquema de precios más asequible, con alternativas flexibles que se adapten a diferentes demandas.
+Ampliación de Servicios: Extender nuestra oferta a nuevas áreas legales y establecer alianzas con instituciones educativas, brindando prácticas a futuros abogados para enriquecer su experiencia.
+Marketing de Contenidos: Crear contenido valioso que consolide nuestra plataforma como líder en el sector legal, mediante blogs, seminarios web y guías legales gratuitas.
+
+##2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 Segmento objetivo 1: 
 Preguntas Generales
@@ -218,26 +470,28 @@ Entrevista 6: https://youtu.be/Qmlv9eSNM8M
 
 
 Segmento objetivo 1: Personas en Busca de Asesoría Legal
-Entrevista 1: Martin expresó una necesidad clara por una plataforma que no solo facilite el acceso a listados de abogados, sino que también provea herramientas detalladas para verificar la autenticidad y el historial de éxito de cada abogado. Señaló que su decisión a menudo se basa en la reputación académica y profesional, subrayando la importancia de una sección dedicada a revisar las calificaciones y reseñas de otros clientes. Martin también sugirió que la plataforma podría incluir un sistema de insignias o certificaciones que destaque a los abogados con logros notables o especializaciones únicas.
+Entrevista 1: En la primera entrevista, Martín manifestó una demanda clara por una plataforma que, además de proporcionar un listado de abogados, ofrezca herramientas avanzadas para verificar la autenticidad y el historial de éxito de cada uno. Él destacó que su decisión suele basarse en la reputación académica y profesional de los abogados, remarcando la relevancia de incluir una sección que permita revisar las calificaciones y opiniones de otros clientes. Además, sugirió la implementación de un sistema de insignias o certificaciones que resalte a los abogados con logros sobresalientes o especializaciones distintivas.
 ![image](https://github.com/user-attachments/assets/809ab637-fe84-41b7-9452-b08fdd37e371)
 
 
-Entrevista 2:  Yamile resaltó su frustración con la demora y la complejidad de los procesos tradicionales de búsqueda legal. Ella apreciaría una plataforma que consolide rápidamente entidades legales confiables y permita programar consultas inmediatas en línea. Propuso que la plataforma ofrezca un sistema de respuesta rápida donde los usuarios puedan recibir asesoría legal preliminar de manera instantánea a través de chat en vivo o video llamadas, lo que sería especialmente útil en situaciones de urgencia legal.
+Entrevista 2: En su entrevista, Yamile destacó su frustración por la lentitud y la complejidad de los métodos tradicionales para buscar asesoría legal. Valoraría una plataforma que reúna rápidamente entidades legales confiables y permita agendar consultas inmediatas en línea. Sugirió que la plataforma incluya un sistema de respuesta rápida, en el que los usuarios puedan recibir asesoría legal preliminar de forma instantánea a través de chat en vivo o videollamadas, lo cual sería especialmente útil en situaciones de emergencia legal.
 ![image](https://github.com/user-attachments/assets/563e35d9-fb8a-403d-a4ee-7f7df5f60c1a)
 
 
-Entrevista 3: Sandra describió las dificultades en encontrar abogados competentes y cómo una plataforma digital podría simplificar este proceso. Está interesada en funcionalidades que permitan comparar tarifas, leer testimonios de clientes anteriores y ver el historial de casos de los abogados. Sandra considera que un sistema de recomendaciones personalizadas basado en casos anteriores similares y la transparencia en la estructura de tarifas serían altamente beneficiosos. Además, sugirió la integración de un asistente virtual que guíe a los usuarios a través de sus opciones legales basadas en su situación específica.
+Entrevista 3: 
+Sandra expresó las dificultades que enfrenta al buscar abogados competentes y cómo una plataforma digital podría facilitar este proceso. Está interesada en herramientas que permitan comparar tarifas, leer testimonios de clientes anteriores y revisar el historial de casos de los abogados. Considera que un sistema de recomendaciones personalizadas, basado en casos similares, y la transparencia en la estructura de tarifas serían altamente útiles. Además, sugirió la inclusión de un asistente virtual que oriente a los usuarios según su situación específica, ayudándolos a explorar sus opciones legales de manera más efectiva.
 ![image](https://github.com/user-attachments/assets/7f330e69-0cec-4ea2-bcd1-075575fdbd58)
 
 
-Entrevista 4: Jonathan, quien es relativamente nuevo en la búsqueda de servicios legales, destacó la necesidad de un acceso fácil y directo a asesoría legal. Valora una interfaz intuitiva que simplifique el proceso para aquellos no familiarizados con el sistema legal. Propuso que la aplicación debería tener funcionalidades que eduquen al usuario sobre el proceso legal básico y cómo proceder en distintos escenarios legales. Jonathan también mencionó la importancia de tener opciones de soporte al cliente en la plataforma para resolver cualquier duda que pueda surgir durante el proceso.
+Entrevista 4: 
+Jonathan, siendo relativamente nuevo en la búsqueda de servicios legales, subrayó la importancia de contar con un acceso fácil y directo a la asesoría legal. Valora una interfaz sencilla que facilite el proceso para quienes no están familiarizados con el sistema legal. Propuso que la aplicación incluya funcionalidades que eduquen a los usuarios sobre los aspectos básicos del proceso legal y cómo proceder en distintos escenarios. Además, destacó la relevancia de contar con opciones de soporte al cliente dentro de la plataforma, para resolver cualquier duda que pueda surgir durante el proceso.
 ![image](https://github.com/user-attachments/assets/8b07685b-ec51-457e-ad6a-1408032d0043)
 
 Segmento objetivo 2: Abogados Buscando Expandir su Clientela
-Entrevista 5: Hugo expresó su deseo de utilizar tecnología para mejorar la visibilidad y la eficiencia operativa de su firma legal. Está especialmente interesado en una aplicación que permita no solo la promoción efectiva de su firma, sino también la gestión de casos y documentación de forma digital. Hugo sugirió la implementación de herramientas de análisis que le permitan seguir la efectividad de su perfil dentro de la plataforma, incluyendo el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
+Entrevista 5: Hugo manifestó su interés en utilizar la tecnología para mejorar la visibilidad y eficiencia operativa de su firma legal. Está particularmente interesado en una aplicación que no solo facilite la promoción de su firma, sino que también permita la gestión digital de casos y documentación. Además, sugirió incorporar herramientas de análisis que le permitan monitorear el rendimiento de su perfil dentro de la plataforma, como el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
 ![image](https://github.com/user-attachments/assets/91d5fee1-63a5-4972-b17d-5220b55a878b)
 
-Entrevista 6: Victor compartió sus retos como abogado independiente, particularmente en términos de marketing y gestión de clientes. Está interesado en una plataforma que ofrezca robustas herramientas de gestión de clientes que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Victor valoraría especialmente características que promuevan una mayor interacción y personalización en la comunicación con los clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones de casos a través de la plataforma.
+Entrevista 6: Víctor compartió los desafíos que enfrenta como abogado independiente, especialmente en lo relacionado con el marketing y la gestión de clientes. Está interesado en una plataforma que ofrezca herramientas robustas para la gestión de clientes, que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Valoraría particularmente funciones que fomenten una mayor interacción y personalización en la comunicación con sus clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones sobre los casos directamente a través de la plataforma.
 ![image](https://github.com/user-attachments/assets/e69b59fa-a687-4bfc-bbc5-42d49be0a17e)
 
 
@@ -245,22 +499,42 @@ Entrevista 6: Victor compartió sus retos como abogado independiente, particular
 ### 2.2.3. Análisis de entrevistas
 Análisis general del segmento 1: 
 
-Las entrevistas con Martin, Yamile, Sandra y Jonathan reflejan un patrón común: la necesidad de una plataforma confiable para encontrar asesoramiento legal. Una preocupación recurrente es la dificultad de verificar la competencia y credenciales de los abogados. Los usuarios buscan transparencia, facilidad de uso y accesibilidad en sus interacciones con los servicios legales. La confianza se erige como un factor decisivo, influenciada fuertemente por la reputación y recomendaciones de otros clientes.
 
-La demografía joven de los entrevistados indica una inclinación hacia soluciones tecnológicas intuitivas. Todos muestran un dominio competente de la tecnología y están acostumbrados a las interacciones digitales, sugiriendo que una plataforma bien diseñada que facilite la búsqueda y verificación de abogados tiene el potencial de ser muy bien recibida en este segmento.
+Las entrevistas con Martín, Yamile, Sandra y Jonathan revelan un patrón claro: la necesidad de una plataforma confiable para acceder a asesoramiento legal. Un tema recurrente es la dificultad para verificar la competencia y las credenciales de los abogados. Los usuarios buscan transparencia, simplicidad y accesibilidad en sus interacciones con los servicios legales. La confianza es un factor clave, influenciada por la reputación y las recomendaciones de otros clientes.
+
+Dado que los entrevistados pertenecen a una demografía joven, se observa una clara preferencia por soluciones tecnológicas intuitivas. Todos demuestran un uso competente de la tecnología y están familiarizados con las interacciones digitales, lo que sugiere que una plataforma bien diseñada, que facilite la búsqueda y validación de abogados, podría ser muy bien acogida por este segmento.
 
 Análisis general del segmento 2: 
 
-Los abogados Hugo y Víctor expresan un claro interés en plataformas digitales que les permitan llegar a una clientela más amplia. La digitalización de sus prácticas es una tendencia en ascenso, y ambos buscan medios más efectivos que los métodos tradicionales para conectar con posibles clientes. Hugo ya emplea una mezcla de canales digitales y físicos, mientras que Víctor siente la presión de modernizar sus métodos de promoción y comunicación.
+Los abogados Hugo y Víctor manifiestan un claro interés en plataformas digitales que les permitan ampliar su clientela. La digitalización de sus prácticas es una tendencia creciente, y ambos buscan alternativas más eficaces que los métodos tradicionales para atraer a nuevos clientes. Mientras que Hugo ya utiliza una combinación de canales digitales y físicos, Víctor siente la presión de modernizar sus métodos de promoción y comunicación.
 
-Un punto destacado es la adaptabilidad a las nuevas condiciones de mercado, marcadas por una mayor interacción digital. Ambos abogados reconocen el valor de las herramientas que facilitan el contacto inmediato y la gestión de casos. Hay una necesidad de plataformas que no solo les proporcionen visibilidad, sino que también les ayuden a manejar eficientemente su trabajo y relaciones con los clientes. La experiencia y la seriedad son características importantes para ellos, lo que sugiere que una plataforma que destaque estos atributos podría ayudarles a diferenciarse en un mercado competitivo.
-
+Un aspecto clave es la capacidad de adaptarse a las nuevas condiciones del mercado, caracterizado por una mayor interacción digital. Ambos reconocen el valor de herramientas que permitan el contacto inmediato y la gestión eficiente de casos. Existe una necesidad de plataformas que no solo les brinden visibilidad, sino que también faciliten la administración de su trabajo y las relaciones con sus clientes. La experiencia y la profesionalidad son aspectos cruciales para ellos, lo que sugiere que una plataforma que ponga énfasis en estos atributos podría ayudarles a destacarse en un entorno altamente competitivo.
 
 ### 2.3. Needfinding
-En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
+En esta sección se presentarán los artefactos generados a partir del análisis de la información recolectada de los segmentos objetivos. Los artefactos incluyen:
+
+User Personas: Representaciones detalladas de los perfiles de los usuarios típicos, basadas en los datos recopilados. Estas descripciones incluyen sus necesidades, objetivos, comportamientos y puntos de dolor.
+
+User Task Matrix: Una tabla que vincula las tareas específicas que los usuarios deben realizar con las funcionalidades de la plataforma, identificando cómo cada tarea se alinea con las necesidades del usuario.
+
+User Journey Maps: Diagramas que ilustran el recorrido de los usuarios a través de la plataforma, desde el primer contacto hasta la realización de sus objetivos, destacando las interacciones, emociones y posibles puntos de fricción.
+
+Empathy Mapping: Herramientas que ayudan a comprender mejor las emociones, pensamientos, preocupaciones y necesidades de los usuarios, proporcionando una visión más profunda de sus experiencias y perspectivas.
+
+As-Is Scenario Mapping: Mapas que muestran cómo los usuarios actualmente interactúan con los sistemas o procesos existentes, identificando áreas de mejora y oportunidades para la optimización.
 
 ### 2.3.1. User Personas
-En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados a través de user personas. Los datos que se colocan incluye demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, así como también detalles sobre cómo el usuario interactúa con productos similares. Los datos se justifican con las entrevistas que hemos realizado anteriormente. Para el desarrollo de esta sección se ha utilizado la herramienta UXPressia que ofrece facilidades para generar los user personas.
+En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas. Los datos incluidos abarcan:
+
+Demografía: Información sobre edad, género, ocupación y otras características relevantes.
+Personalidad: Descripción de las características de personalidad y cómo estas influyen en el comportamiento del usuario.
+Motivaciones: Razones que impulsan al usuario a buscar o utilizar servicios legales.
+Preferencias: Gustos y expectativas en cuanto a la plataforma y sus funcionalidades.
+Objetivos: Metas que el usuario desea alcanzar a través de la plataforma.
+Desafíos: Obstáculos y problemas que enfrentan los usuarios en su búsqueda de asesoría legal.
+Comportamientos: Patrones de uso y cómo interactúan con productos similares.
+Estos datos están fundamentados en las entrevistas realizadas y se han desarrollado utilizando la herramienta UXPressia, que facilita la creación de user personas detallados.
 User Persona 1:
 ![image](https://github.com/user-attachments/assets/af54f787-b721-4b5b-992b-befd2d332001)
 User Persona 2: 
@@ -269,7 +543,23 @@ User Persona 2:
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high.
+En esta sección se presenta el User Task Matrix, una herramienta clave centrada en los segmentos objetivos que permite identificar las tareas y objetivos principales de los usuarios. Esta matriz facilita la priorización de características y funcionalidades al momento de elaborar el product backlog.
+
+La matriz incluye:
+
+Tareas: Listado de las tareas que los usuarios necesitan realizar dentro de la plataforma.
+Objetivos: Metas que los usuarios buscan alcanzar al llevar a cabo cada tarea.
+Frecuencia: Clasificación de la frecuencia con la que los usuarios realizan cada tarea, utilizando las opciones:
+Never (Nunca)
+Rarely (Raramente)
+Sometimes (A veces)
+Often (A menudo)
+Always (Siempre)
+Importancia: Evaluación de la importancia de cada tarea para los usuarios, con las opciones:
+Low (Baja)
+Medium (Media)
+High (Alta)
+Esta herramienta ayuda a visualizar qué tareas y objetivos son más relevantes para los usuarios, permitiendo así una mejor planificación y priorización en el desarrollo del producto.
 ![image](https://github.com/user-attachments/assets/2cfba5d1-6f5e-46f9-a4da-62e1289a350b)
 
 
@@ -280,14 +570,32 @@ User Journey Mapping 2: Cliente
 ![image](https://github.com/user-attachments/assets/874f8a08-92f5-4d44-8725-1a34fe7d37c9)
 
 ### 2.3.4. Empathy Mapping
-En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los User Personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para realizar los diagramas, se ha utilizado UXPressia
+
+En esta sección se presenta el Empathy Mapping, una herramienta que facilita la creación de un perfil detallado de los User Personas y permite desarrollar una comprensión profunda de su perspectiva y experiencia. Los diagramas de empatía proporcionan una visión completa de cómo los usuarios piensan, sienten, dicen y hacen, ayudando a captar mejor sus emociones, preocupaciones y necesidades.
+
+Para la elaboración de estos diagramas, se ha utilizado la herramienta UXPressia, que ofrece facilidades para desarrollar mapas de empatía detallados y precisos. Estos mapas incluyen:
+
+Lo que el usuario piensa: Reflexiones internas, creencias y actitudes.
+Lo que el usuario siente: Emociones y sentimientos predominantes.
+Lo que el usuario dice: Declaraciones y comentarios que el usuario hace sobre su experiencia.
+Lo que el usuario hace: Acciones y comportamientos observables.
+Este enfoque permite una comprensión más rica y matizada de los usuarios, facilitando la creación de soluciones que realmente respondan a sus necesidades y expectativas.
 Empathy Mapping 1: Abogado
 ![image](https://github.com/user-attachments/assets/d6fe033f-e245-413e-a171-89079b2f3708)
 Empathy Mapping 2: Cliente
 ![image](https://github.com/user-attachments/assets/c0e2cb7b-8d78-4b38-a0ce-10bae5ed7fc2)
 
 ### 2.3.5. As-is Scenario Mapping
-En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se identifican y comprenden los puntos de contacto entre el usuario y el software. 
+
+En esta sección se presentan los As-Is Scenario Mapping para ambos segmentos objetivos. Estos mapas detallan los escenarios actuales en los que los usuarios interactúan con el software, identificando y comprendiendo los puntos de contacto y las experiencias a lo largo del proceso.
+
+El As-Is Scenario Mapping incluye:
+
+Puntos de Contacto: Momentos clave donde los usuarios interactúan con la plataforma, como la búsqueda de información, la selección de abogados y la gestión de consultas.
+Experiencias del Usuario: Cómo los usuarios perciben y experimentan cada punto de contacto, incluyendo sus emociones y niveles de satisfacción.
+Problemas y Obstáculos: Dificultades y fricciones que los usuarios enfrentan en su interacción con el software actual.
+Oportunidades de Mejora: Áreas donde se pueden realizar mejoras para optimizar la experiencia del usuario y resolver los problemas identificados.
+Estos mapas ayudan a visualizar el flujo actual de interacción del usuario, permitiendo identificar áreas críticas que necesitan ser optimizadas para mejorar la experiencia general del usuario.
 
 As-is Scenario Mapping 1: Abogado
 ![image](https://github.com/user-attachments/assets/e360594c-17eb-4d20-bd17-cc1f12a2a856)
@@ -1525,31 +1833,407 @@ Veremos el diagrama en base a nuestro base de datos, posterior a esto abra corre
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+En esta sección describimos los productos de software que hemos usado en el proyecto. 
 ### 5.1.1. Software Development Environment Configuration
-
+* Project Management
+  - Github: (https://github.com/)
+    <p>Es donde organizamos el proyecto. Aquí está la organización, la cual contiene 4 repositorios: Informe, Landing Page, Frontend y Backend</p>
+* Requirements Management
+  - Pivotal Tracker: (https://www.pivotaltracker.com/)
+    <p>Es un software que usamos para gestionar los proyectos y establecer las historias de usuario del proyecto</p>
+* Product UX/UI Design
+  - UXPressia: (https://uxpressia.com/)
+    <p>Acá diseñamos las User Persona, User Journey Mapping y Empathy Mapping</p>
+  - Figma: (https://www.figma.com/es-es/)
+    <p>Acá hicimos los diseños de la landing page y de la aplicación web (wireframes, mockups y prototipos)</p>
+* Software Development
+  - Git: Es un software de control de versiones para desarrollar el proyecto
+  - Github: Es un sistema de control de versiones de Git
+  - HTML5: Es un lenguaje de marcado que sirve para estructurar la página
+  - CSS3: Es un lenguaje de hojas de estilo en cascada que le da estilo a la página (hace que una página sea visualmente más atractiva)
+  - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una página web
+  - VSCode: Es el editor de código fuente para el desarrollo de la landing page
+  - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
+* Software Deployment
+  - Github Pages: Plataforma para desplegar la landing page
 ### 5.1.2. Source Code Management
+<p>Utilizamos Github como plataforma, así como un sistema de control de versiones.</p>
+<p>Para ello se creó una organización para el proyecto del equipo. En esta organización, se crearon 4 repositorios, los cuales corresponden al informe del proyecto, la landing page, el frontend y el backend.</p>
 
-### 5.1.3. Source Code Style Guide & Conventions
+* Organización del proyecto: [https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum)
+* Informe: [https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Informe](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report)
+* Landing page: [https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Landing-Page](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Landing-page)
+* Frontend: [https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Frontend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend)
+* Backend: [https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend)
+
+<p>Usamos Gitflow para tener un mejor manejo del código usado en el proyecto. En Gitflow se establecieron dos ramas principales, las cuales son "main" y "Develop".</p>
+<p>La rama "main" contiene la versión final del informe y de la landing page.</p>
+<p>La rama "Develop" se usa para realizar los cambios hechos en el código sin afectar al "main". También se usa para integrar nuevas funcionalidades del proyecto.</p>
+<p>Además, usamos la rama temporal "Feature" para llevar a cabo las nuevas funciones del proyecto sin que este afecte a las ramas principales. En nuestro caso, dividimos las "Feature" por capítulos para el informe. De esa manera tendremos un mejor orden y estructura del proyecto. Los "Feature" los nombramos de la siguiente manera: "Feature/Chapter#" donde el signo "#" representa el número del capítulo que se trabajó.</p>
+
+<h3>Semantic Versioning 2.0.0</h3>
+<p>Según el Semantic Versioning 2.0.0 (https://semver.org/), los "Releases" se nombran de la siguiente manera:</p>
+
+* <b>MAJOR version</b>: Al realizar los cambios de APIs incompatibles
+* <b>MINOR version</b>: Al agregar funcionalidades compatibles con versiones anteriores
+* <b>PATCH version</b>: Al realizar correcciones de errores compatibles con versiones anteriores
+
+<h3>Conventional Commits</h3>
+<p>Para los textos de mensajes en commits se aplican los "Conventional Commits" (https://www.conventionalcommits.org/) de la siguiente manera (omitir las comillas simples):</p>
+
+* <'type'>[optional scope]: <'description'>
+
+Donde:
+* <'type'>: Representa la palabra inicial que indica la clase de commit a emplear. Ejemplos: fix, feat, build, chore, docs, refactor, etc.
+* [optional scope]: Representa el alcance del commit y no es obligatorio.
+* <'description'>: Representa la descripción detallada del commit, así como las acciones realizadas
+
+### 5.1.3. Guía de Estilo y Convenciones del Código Fuente
+En este apartado se indicarán las referencias que adoptaremos para nombrar elementos y algunas convenciones que emplearemos durante el desarrollo del proyecto utilizando Angular y Spring Boot:
+
+#### HTML
+
+* Utilizar letras en minúscula para nombrar elementos y atributos.
+* Colocar siempre entre comillas los valores de los atributos, especialmente si contienen espacios.
+* Especificar los atributos `alt` (nombre alternativo), `width` (ancho) y `height` (alto) para las imágenes.
+* No usar espacios en blanco alrededor del signo "=".
+* Usar cuatro espacios de sangría.
+* No omitir nunca el elemento `<title></title>`.
+* Eliminar los espacios en blanco finales.
+* Usar la sintaxis de HTML5.
+* Evitar el uso innecesario de atributos "id". En su lugar, usar atributos "class" para estilos y el atributo "data" para scripts.
+* Usar una nueva línea para cada elemento de bloque, lista o tabla, y aplicar sangría a cada elemento secundario.
+
+Referencias:
+- [HTML5 Syntax - W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+#### CSS
+
+* Usar nombres de clase genéricos o significativos, que representen el propósito del elemento.
+* Separar las palabras en nombres de clases con un guión (-) cuando el nombre tenga más de una palabra.
+* Incluir siempre el número cero inicial en los valores decimales. Ejemplo: `font-size: 0.7em`.
+* Preferir la notación hexadecimal de 3 caracteres cuando sea posible.
+* Evitar el uso de la declaración `!important`. En su lugar, usar la especificidad del selector.
+* Usar punto y coma (`;`) al final de cada declaración.
+* Colocar un espacio después de los dos puntos (`:`) en el nombre de la propiedad.
+* Preferir las comillas simples (`' '`) sobre las dobles (`" "`) para selectores de atributos y valores de propiedades.
+
+Referencia: [Google CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+#### JavaScript con Angular
+
+* Usar camelCase para nombrar funciones, métodos, variables, propiedades de objetos y al definir instancias de objetos mediante constructores.
+* Usar PascalCase para nombrar clases.
+* Utilizar UPPERCASE para nombrar constantes como `PI`.
+* Aplicar la herencia utilizando `extends`.
+* Usar operadores de igualdad estricta (`===`) y desigualdad estricta (`!==`) en lugar de los operadores de igualdad simple (`==`) y desigualdad simple (`!=`).
+* Mantener espacios en blanco alrededor de los operadores (=, +, -, *, /) y después de las comas.
+* Terminar cada declaración con un punto y coma (`;`).
+
+Referencias:
+- [Angular Style Guide](https://angular.io/guide/styleguide)
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
+#### Java con Spring Boot
+
+* Usar camelCase para nombrar métodos y variables.
+* Usar PascalCase para nombrar clases y interfaces.
+* Preferir los tipos de datos primitivos sobre sus contrapartes de objetos cuando sea posible. Ejemplo: usar `int` en lugar de `Integer`.
+* Utilizar la anotación `@Autowired` para la inyección de dependencias.
+* Usar `@GetMapping`, `@PostMapping`, `@PutMapping`, y `@DeleteMapping` para mapear las solicitudes HTTP a los métodos del controlador.
+* Organizar las aplicaciones en paquetes que reflejen su funcionalidad.
+* Utilizar Lombok para minimizar el código repetitivo de getters, setters, y constructores.
+
+Referencias:
+- [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Java Nut and Bolts](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 
 ### 5.1.4. Software Deployment Configuration
+<p>Para desplegar el landing page, se usará Github Pages, herramienta que nos permitirá desplegar la página a partir de un repositorio.</p> 
+<p>Para ello creamos el repositorio de la landing page, luego configuramos aquel repositorio en el que se desplegará la landing page, subimos los archivos con su respectivo commit y copiamos el nombre del repositorio que se encuentra en la página de configuración. Ya estaría listo para visualizarse en el navegador.</p>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-#### 5.2.1.2. Sprint Backlog 1
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            2024/08/28
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            03:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Lorem Ipsum
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - La Madrid Lozano, Ivan Jeanpierre <br/>
+            - Avellaneda Ramos, Carlos Edward <br/>
+            - Loli Ramirez, Camila Cristina <br/>    
+            - Pariona Lucas, Jose Manuel <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las historias de usuario para la landing page y para la aplicación web Law Connect.
+            </br></br>
+            La Landing Page se implementó exitosamente.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Hubo una buena comunicación entre los integrantes y cada uno de ellos aportó con ideas para el proyecto.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            Desarrollar la landing page del proyecto
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
 
+#### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+<table>
+  <tr>
+   <td><strong>Repository</strong>
+   </td>
+   <td><strong>Branch</strong>
+   </td>
+   <td><strong>Commit Id</strong>
+   </td>
+   <td><strong>Commit Message</strong>
+   </td>
+   <td><strong>Commit Message Body</strong>
+   </td>
+   <td><strong>Commited on (Date)</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>8bda2cc
+   </td>
+   <td>feature:
+   </td>
+   <td>feat(repo): add README
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>e07f6e5
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add about us and img
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>f552720
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add scrollrevel.min.js
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>6024458
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add main.js
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>2337505
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add images
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>f1a0a7c
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add style.css
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+  <tr>
+   <td>Landing-Page
+   </td>
+   <td>main
+   </td>
+   <td>8bda2cc
+   </td>
+   <td>feature:
+   </td>
+   <td>feat: add index.html
+   </td>
+   <td>05/09/2024
+   </td>
+  </tr>
+</table>
 
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En este sprint todavía no se desarrolla el Testing, solo la landing page
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Por este primer sprint, se muestra las capturas de la landing page
+
+## Home
+
+<td><img src="https://i.imgur.com/RXF1n5d.png" width="1500"></td>
+
+## About Us
+
+<td><img src="https://i.imgur.com/BRHgs8y.png" width="1500"></td>
+<td><img src="https://i.imgur.com/9nPaCj6.png" width="1500"></td>
+
+## Benefits 
+
+<td><img src="https://i.imgur.com/notIOVp.png" width="1500"></td>
+
+## Testimonies
+
+<td><img src="https://i.imgur.com/in3Dk75.png" width="1500"></td>
+
+## Contact Us
+
+<td><img src="https://i.imgur.com/kDG9bEb.png" width="1500"></td>
+
+## Footer
+
+<td><img src="https://i.imgur.com/Tdz8Tka.png" width="1500"></td>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+**Link de la landing page desployada:** [https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/](https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/)
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el desarrollo de la landing page, se usó lo siguiente:
+
+* HTML: Para la estructura de la página web
+* CSS: Para darle estilos a la página web
+* JS: Para darle dinamismo a la página web
+* Git: Es el sistema de control de versiones
+* Github: Software online para almacenar repositorios Git
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Aquí se encuentra la captura de las contribuciones de la landing page
+
+<td><img src="https://i.imgur.com/RRyyff6.png" width="1500"></td>
 
 # Conclusiones
 ### Conclusiones y recomendaciones
