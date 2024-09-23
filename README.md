@@ -2243,7 +2243,7 @@ Los archivos .feature desempeñan un papel fundamental a la hora de las practica
 
 README.MD
 23/09/2024
-![Commits-report-tb1](https://github.com/user-attachments/assets/2af17b75-7095-4097-b0ed-738453bb3684)
+![image](https://github.com/user-attachments/assets/c9d6406a-225a-43dc-ba59-053ab1197cd5)
 
 5.2.2.8. Team Collaboration Insights during Sprint
 
