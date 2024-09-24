@@ -2250,6 +2250,8 @@ README.MD
 Repositorio del Fronted: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend/graphs/contributors
 
 ![image](https://github.com/user-attachments/assets/72ff525b-65f3-48e2-8eee-88fd5b8bb06d)
+![image](https://github.com/user-attachments/assets/d87db1ab-42e5-45c9-9c90-536c64879a09)
+
 Repositorio del Report: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/graphs/contributors
 
 ![image](https://github.com/user-attachments/assets/9bde2cfb-6e92-4392-9f1f-7bce07a6c1fb)
