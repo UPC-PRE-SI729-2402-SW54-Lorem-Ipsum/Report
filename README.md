@@ -631,57 +631,96 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr> 
         <td>EP01</td> 
         <td>Funciones de Usuario</td> 
-        <td>Como Abogado, deseo tener funciones y opciones relacionadas con mi perfil para manejar mis datos, presentar 
-            mis casos de éxito y gestionar mi portafolio de servicios. Como cliente, deseo poder crear una cuenta, buscar
-            abogados según mis necesidades legales, y gestionar mis consultas y preferencias. Como desarrollador, deseo 
-            implementar un sistema de registro y autenticación seguro y funcional para ambos tipos de usuarios.</td> 
+        <td>
+            Descripción: 
+            Como Abogado, deseo tener funciones y opciones relacionadas con mi perfil para manejar mis datos, presentar mis casos de éxito y gestionar mi portafolio de servicios. Como cliente, deseo poder crear una cuenta, buscar abogados según mis necesidades legales, y gestionar mis consultas y preferencias. 
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo implementar un sistema de autenticación seguro con OAuth2, para proteger los datos de los usuarios.</li>
+                <li>Como desarrollador, deseo crear una API RESTful para gestionar el registro, autenticación y modificación de perfiles de usuarios.</li>
+                <li>Como desarrollador, deseo integrar la plataforma con un servicio de email para el envío automático de correos de verificación y recuperación de cuentas.</li>
+            </ul>
+        </td> 
     </tr> 
     <tr> 
         <td>EP02</td> 
         <td>Visualización de Apartados</td> 
-        <td>Como abogado, deseo tener un dashboard donde pueda visualizar y gestionar todos mis casos activos, revisar 
-            la documentación recibida y programar mis actividades. Como cliente, deseo acceder fácilmente a los apartados
-            donde pueda ver el progreso de mis consultas, gestionar mis documentos legales, y realizar pagos de manera 
-            sencilla. Como desarrollador, deseo crear una interfaz intuitiva que organice y muestre claramente todas las 
-            secciones relevantes para los usuarios.</td>
+        <td>
+            Descripción: 
+            Como abogado, deseo tener un dashboard donde pueda visualizar y gestionar todos mis casos activos, revisar la documentación recibida y programar mis actividades. Como cliente, deseo acceder fácilmente a los apartados donde pueda ver el progreso de mis consultas, gestionar mis documentos legales, y realizar pagos de manera sencilla.
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo implementar una base de datos NoSQL para almacenar los casos y consultas, permitiendo una rápida visualización en el dashboard.</li>
+                <li>Como desarrollador, deseo integrar un sistema de reportes automáticos para que los abogados puedan descargar informes mensuales de sus casos activos.</li>
+                <li>Como desarrollador, deseo optimizar el backend para la actualización en tiempo real de los casos activos en el dashboard.</li>
+            </ul>
+        </td>
     </tr> 
     <tr> 
         <td>EP03</td> 
         <td>Landing Page</td> 
-        <td>Como abogado, deseo que la landing page comunique claramente los beneficios de LawConnect y cómo puede ayudarme 
-            a atraer clientes de alto perfil. Como cliente, deseo entender rápidamente cómo LawConnect puede ayudarme a encontrar el 
-            abogado adecuado para mis necesidades. Como desarrollador, deseo diseñar y desarrollar una página de inicio atractiva y 
-            optimizada que ofrezca una experiencia de usuario fluida y esté bien posicionada en los motores de búsqueda.
+        <td>
+            Descripción: 
+            Como abogado, deseo que la landing page comunique claramente los beneficios de LawConnect y cómo puede ayudarme a atraer clientes de alto perfil. Como cliente, deseo entender rápidamente cómo LawConnect puede ayudarme a encontrar el abogado adecuado para mis necesidades.
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo optimizar la landing page para SEO y mejorar el posicionamiento en motores de búsqueda.</li>
+                <li>Como desarrollador, deseo crear endpoints para cargar dinámicamente testimonios y servicios destacados desde el backend.</li>
+                <li>Como desarrollador, deseo mejorar el tiempo de carga de la landing page utilizando técnicas de lazy loading y optimización de imágenes.</li>
+            </ul>
         </td> 
     </tr> 
     <tr> 
         <td>EP04</td> 
         <td>Interacción Abogado/Cliente</td> 
-        <td>Como abogado, deseo poder interactuar fácilmente con mis clientes a través de la plataforma, 
-            programando citas, enviando mensajes seguros, y realizando videollamadas. Como cliente, deseo poder 
-            contactar a mi abogado de manera rápida y segura, y recibir asesoramiento legal a través de la plataforma 
-            en tiempo real. Como desarrollador, deseo implementar funcionalidades de mensajería, videollamadas, 
-            y notificaciones en tiempo real que faciliten la interacción entre abogados y clientes.</td> 
+        <td>
+            Descripción: 
+            Como abogado, deseo poder interactuar fácilmente con mis clientes a través de la plataforma, programando citas, enviando mensajes seguros, y realizando videollamadas. Como cliente, deseo poder contactar a mi abogado de manera rápida y segura, y recibir asesoramiento legal a través de la plataforma en tiempo real.
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo implementar WebSockets para habilitar la mensajería en tiempo real entre abogados y clientes.</li>
+                <li>Como desarrollador, deseo crear una API para gestionar las citas y sincronizar la disponibilidad de los abogados.</li>
+                <li>Como desarrollador, deseo integrar un servicio de videollamadas mediante WebRTC para permitir videoconferencias seguras entre abogados y clientes.</li>
+            </ul>
+        </td> 
     </tr> 
     <tr> 
         <td>EP05</td> 
         <td>Infraestructura y Seguridad</td> 
-        <td>Como administrador, deseo asegurarme de que la plataforma sea segura, confiable y escalable, 
-            implementando medidas de seguridad como la autenticación de dos factores, el cifrado de datos, y 
-            la realización de backups automáticos. También deseo que la infraestructura soporte un crecimiento 
-            sostenido de usuarios y datos sin comprometer el rendimiento.</td>
+        <td>
+            Descripción: 
+            Como administrador, deseo asegurarme de que la plataforma sea segura, confiable y escalable, implementando medidas de seguridad como la autenticación de dos factores, el cifrado de datos, y la realización de backups automáticos.
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo implementar autenticación multifactor (MFA) para asegurar el acceso a la plataforma.</li>
+                <li>Como desarrollador, deseo utilizar cifrado AES-256 para proteger los datos sensibles en la base de datos.</li>
+                <li>Como desarrollador, deseo configurar un sistema de backups automáticos para prevenir la pérdida de datos.</li>
+                <li>Como administrador, deseo escalar la infraestructura utilizando contenedores Docker y Kubernetes para garantizar que el sistema soporte más usuarios sin afectar el rendimiento.</li>
+            </ul>
+        </td>
     </tr> 
     <tr> 
         <td>EP06</td> 
         <td>Interacción y Accesibilidad</td> 
-        <td>Como desarrollador, deseo asegurarme de que la plataforma cumpla con los estándares de 
-            accesibilidad (WCAG) y ofrezca una experiencia de usuario coherente y satisfactoria en todos los 
-            dispositivos. También deseo implementar opciones de personalización de la interfaz, como ajustes 
-            de tamaño de fuente y contraste, y crear tutoriales y guías que ayuden a los usuarios a aprovechar 
-            al máximo las funcionalidades de la plataforma.
+        <td>
+            Descripción: 
+            Como desarrollador, deseo asegurarme de que la plataforma cumpla con los estándares de accesibilidad (WCAG) y ofrezca una experiencia de usuario coherente y satisfactoria en todos los dispositivos.
+            <br><br>
+            Technical Stories:
+            <ul>
+                <li>Como desarrollador, deseo optimizar la plataforma para que sea compatible con tecnologías de asistencia, como lectores de pantalla, usando etiquetas ARIA.</li>
+                <li>Como desarrollador, deseo implementar un diseño responsivo que se adapte a múltiples dispositivos y tamaños de pantalla.</li>
+                <li>Como desarrollador, deseo realizar pruebas de compatibilidad en diferentes navegadores y dispositivos para asegurar una experiencia de usuario fluida.</li>
+            </ul>
         </td>
     </tr> 
 </table>
+
 
 # User Stories
 
