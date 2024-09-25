@@ -306,13 +306,13 @@ El estado actual de la búsqueda de servicios legales en el Perú se ha centrado
 
 **Business Outcomes:**
 
-* **Creo que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
+* **Creemos que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
 * **Estas necesidades se pueden resolver** una aplicación web amigable que conecte a las personas con serios problemas legales con abogados egresados que estén interesados en ofrecer sus servicios.
-* **Mis clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
-* **El valor #1 que un cliente requiere de mi servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
+* **Nuestros clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
+* **El valor #1 que un cliente requiere de nuestro servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
 * **El cliente también puede obtener estos beneficios adicionales** como accesibilidad a servicios legales a precios asequibles y seguimiento de sus respectivos casos.
-* **Adquiriremos a mis clientes a través del** uso de una landing page que explique el funcionamiento de nuestra aplicación, que ofrecemos, formas de contactarnos y como la LawConnect implica una mejora exponencial para su currículum (en el caso de los abogados) o varias formas disponibles de resolver un problema legal de manera rápida, sencilla e intuitiva. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos estudiantes de derecho.
-* **Haré dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
+* **Adquiriremos a nuestros clientes a través del** uso de una landing page que explique el funcionamiento de nuestra aplicación, que ofrecemos, formas de contactarnos y como la LawConnect implica una mejora exponencial para su currículum (en el caso de los abogados) o varias formas disponibles de resolver un problema legal de manera rápida, sencilla e intuitiva. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos estudiantes de derecho.
+* **Haremos dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
 * **Nuestra competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
 * **Los venceremos debido a que** ofrecemos una solución accesible y enfocada a los últimos cambios en la tecnología. De esta forma, mantenemos una aplicación relevante en un mundo tan avanzado tecnológicamente.
 * **Nuestros mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
@@ -403,14 +403,15 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 En esta parte se describirá los segmentos objetivos a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
 
+**Personas con problemas legales**
+
+Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible. En este caso, los problemas legales pueden ser de cualquier tipo: familiar, laboral, corporativo, entre otros. Buscan un abogado calificado para evitar errores durante el caso y tener una defensa sólida en los posibles juicios.
+
+
 **Abogados egresados**
 
-Abogados egresados en búsqueda de trabajo debido a la alta demanda presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.
+Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía. Esta experiencia es necesaria para fortalecer su perfil profesional, tener más oportunidades laborales en el futuro. Pero, esto va a ser acorde a la especialización que decidan; por ejemplo, si son abogados familiares, solamente se enfocarán en ello dentro de la aplicación.
 
-
-**Personas con problemas legales** 
-
-Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
