@@ -277,7 +277,7 @@ Para realizar los antecedentes y problemáticas, se realizó con anticipación l
 
 Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hecho por Sunedu (2022) para analizar el estado de los estudiantes universitarios - incluye de todo tipo de instituciones, sea privada o pública y a los de otros departamentos en el país - antes, durante y después de su formación superior académica, se pueden analizar dos gráficos estadísticos que explican la gravedad de la situación de los egresados.
 
-Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página X del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
+Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página 10 del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
 
 ![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/img/Chapter-01/Estadistica-01.png)
 
@@ -307,19 +307,19 @@ El estado actual de la búsqueda de servicios legales en el Perú se ha centrado
 
 **Business Outcomes:**
 
-* **Creo que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
+* **Creemos que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
 * **Estas necesidades se pueden resolver** una aplicación web amigable que conecte a las personas con serios problemas legales con abogados egresados que estén interesados en ofrecer sus servicios.
-* **Mis clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
-* **El valor #1 que un cliente requiere de mi servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
+* **Nuestros clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
+* **El valor #1 que un cliente requiere de nuestro servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
 * **El cliente también puede obtener estos beneficios adicionales** como accesibilidad a servicios legales a precios asequibles y seguimiento de sus respectivos casos.
-* **Voy a adquirir a mis clientes a través de** estrategias de marketing digital en las aplicaciones más utilizadas dentro del rango de edad delimitado para ambos segmentos objetivos. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos.
-* **Haré dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
-* **Mi competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
+* **Adquiriremos a nuestros clientes a través del** uso de una landing page que explique el funcionamiento de nuestra aplicación, que ofrecemos, formas de contactarnos y como la LawConnect implica una mejora exponencial para su currículum (en el caso de los abogados) o varias formas disponibles de resolver un problema legal de manera rápida, sencilla e intuitiva. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos estudiantes de derecho.
+* **Haremos dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
+* **Nuestra competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
 * **Los venceremos debido a que** ofrecemos una solución accesible y enfocada a los últimos cambios en la tecnología. De esta forma, mantenemos una aplicación relevante en un mundo tan avanzado tecnológicamente.
-* **Mis mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
+* **Nuestros mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
 * **Resolveremos esto mediante** campañas de sensibilización sobre la seguridad, consejos para reconocer cuando una aplicación es confiable y cuando no.
 * **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** incremento en la tasa de abogados recientemente egresados contratados y de clientes en nuestra aplicación debido a que confían en nosotros.
-* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que la un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
+* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que da un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
 
 **User Outcomes**
 
@@ -404,14 +404,15 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 En esta parte se describirá los segmentos objetivos a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
 
+**Personas con problemas legales**
+
+Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible. En este caso, los problemas legales pueden ser de cualquier tipo: familiar, laboral, corporativo, entre otros. Buscan un abogado calificado para evitar errores durante el caso y tener una defensa sólida en los posibles juicios.
+
+
 **Abogados egresados**
 
-Abogados egresados en búsqueda de trabajo debido a la alta demanda presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.
+Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía. Esta experiencia es necesaria para fortalecer su perfil profesional, tener más oportunidades laborales en el futuro. Pero, esto va a ser acorde a la especialización que decidan; por ejemplo, si son abogados familiares, solamente se enfocarán en ello dentro de la aplicación.
 
-
-**Personas con problemas legales** 
-
-Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -2283,7 +2284,16 @@ definitivamente importante para lograr un buen avance en el proyecto.
 ---
 # Bibliografía
 
+
+Gobierno del Perú. (17 de marzo de 2022). _III Informe bienal sobre la realidad universitaria_. Sunedu. [https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf](https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf)
+
+Gobierno del Perú. (12 de agosto de 2020). _II Informe bienal sobre la realidad universitaria_. Sunedu.
+https://cdn.www.gob.pe/uploads/document/file/1230044/Informe%20Bienal.pdf?v=1603336820
+
+Vallecilla, C. (21 de marzo de 2024). El desempleo en Perú dic. 2023 - feb. 2024 no varió, pero se recuperaron casi 640 mil empleos. _tyba- ¡La app de las inversiones en el Perú!_ [https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/](https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/)
+
 https://www.youtube.com/watch?v=2UPnAfuECNk
+
 
 ---
 # Anexos
