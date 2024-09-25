@@ -694,530 +694,610 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <th>Relacionado con (Epic ID)</th> 
     </tr> 
     <tr> 
-        <td>HU01</td> 
-        <td>Registro de Abogado</td> 
-        <td>Como abogado, quiero registrarme en la plataforma para ofrecer mis servicios.</td> 
-        <td>
-            Scenario: Registro de Abogado
-            <br> <br>
-            GIVEN un abogado nuevo
-            <br> <br>
-            WHEN completa el formulario de registro
-            <br> <br>
-            THEN su perfil es creado y puede acceder a la plataforma
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU02</td> 
-        <td>Completar Perfil de Abogado</td> 
-        <td>Como abogado, quiero completar mi perfil con información detallada sobre mi experiencia y áreas de especialización para atraer clientes.</td> 
-        <td>
-            Scenario: Completar Perfil
-            <br> <br>
-            GIVEN un abogado registrado
-            <br> <br>
-            WHEN agrega información adicional a su perfil
-            <br> <br>
-            THEN la información se guarda y muestra a los clientes
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU03</td> 
-        <td>Gestión de Casos Activos</td> 
-        <td>Como abogado, quiero gestionar mis casos activos en la plataforma para mantener un registro organizado de mi trabajo.</td> 
-        <td>
-            Scenario: Gestión de Casos Activos
-            <br> <br>
-            GIVEN un abogado con casos activos
-            <br> <br>
-            WHEN accede al apartado de casos
-            <br> <br>
-            THEN puede ver, actualizar y organizar sus casos
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU04</td> 
-        <td>Publicación de Casos de Éxito</td> 
-        <td>Como abogado, quiero publicar casos de éxito en mi perfil para demostrar mi experiencia a potenciales clientes.</td> 
-        <td>
-            Scenario: Publicación de Casos de Éxito
-            <br> <br>
-            GIVEN un abogado con casos de éxito
-            <br> <br>
-            WHEN publica un nuevo caso de éxito
-            <br> <br>
-            THEN el caso se muestra en su perfil público
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU05</td> 
-        <td>Configuración de Disponibilidad</td> 
-        <td>Como abogado, quiero configurar mi disponibilidad en la plataforma para que los clientes puedan agendar citas conmigo.</td> 
-        <td>
-            Scenario: Configuración de Disponibilidad
-            <br> <br>
-            GIVEN un abogado con un perfil completo
-            <br> <br>
-            WHEN configura su disponibilidad
-            <br> <br>
-            THEN los clientes pueden ver y agendar citas en los horarios disponibles
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU06</td> 
-        <td>Gestión de Documentos Personales</td> 
-        <td>Como abogado, quiero poder subir y gestionar documentos personales relacionados con mis casos para tener todo centralizado en un solo lugar.</td> 
-        <td>
-            Scenario: Gestión de Documentos Personales
-            <br> <br>
-            GIVEN un abogado con un caso activo
-            <br> <br>
-            WHEN sube documentos a la plataforma
-            <br> <br>
-            THEN los documentos se guardan y están disponibles para su consulta
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU07</td> 
-        <td>Registro de Cliente</td> 
-        <td>Como cliente, quiero registrarme en la plataforma para poder contactar a abogados que me ayuden con mis necesidades legales.</td> 
-        <td>
+    <td>HU01</td> 
+    <td>Registro de Abogado</td> 
+    <td>Como abogado, quiero registrarme en la plataforma para ofrecer mis servicios de manera segura y organizada, para captar clientes y gestionar mi trabajo de forma más eficiente.</td> 
+    <td>
+        Scenario: Registro de Abogado
+        <br><br>
+        GIVEN un abogado nuevo
+        <br><br>
+        WHEN completa el formulario de registro con su información
+        <br><br>
+        THEN su perfil es creado y puede acceder a la plataforma
+        <br><br>
+        AND recibe un correo de confirmación con los detalles de su cuenta.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU02</td> 
+    <td>Completar Perfil de Abogado</td> 
+    <td>Como abogado, quiero completar mi perfil con información detallada sobre mi experiencia y áreas de especialización para atraer clientes de manera más efectiva.</td> 
+    <td>
+        Scenario: Completar Perfil
+        <br><br>
+        GIVEN un abogado registrado
+        <br><br>
+        WHEN agrega información adicional a su perfil (experiencia, especialización, etc.)
+        <br><br>
+        THEN la información se guarda y está disponible públicamente para los clientes
+        <br><br>
+        AND el abogado recibe una notificación de que su perfil está listo para ser visto por clientes.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU03</td> 
+    <td>Gestión de Casos Activos</td> 
+    <td>Como abogado, quiero gestionar mis casos activos en la plataforma para mantener un registro organizado y actualizado de mi trabajo, lo que me permitirá priorizar mis tareas eficientemente.</td> 
+    <td>
+        Scenario: Gestión de Casos Activos
+        <br><br>
+        GIVEN un abogado con casos activos
+        <br><br>
+        WHEN accede al apartado de casos
+        <br><br>
+        THEN puede ver, actualizar y organizar sus casos por prioridad o fecha de vencimiento
+        <br><br>
+        AND puede generar reportes mensuales de su progreso.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU04</td> 
+    <td>Publicación de Casos de Éxito</td> 
+    <td>Como abogado, quiero publicar casos de éxito en mi perfil para demostrar mi experiencia y atraer a más clientes interesados en mis servicios.</td> 
+    <td>
+        Scenario: Publicación de Casos de Éxito
+        <br><br>
+        GIVEN un abogado con casos de éxito
+        <br><br>
+        WHEN publica un nuevo caso de éxito
+        <br><br>
+        THEN el caso se muestra en su perfil público
+        <br><br>
+        AND se solicita automáticamente al cliente que califique el servicio.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU05</td> 
+    <td>Configuración de Disponibilidad</td> 
+    <td>Como abogado, quiero configurar mi disponibilidad en la plataforma para que los clientes puedan agendar citas conmigo en los horarios correctos, para maximizar el uso eficiente de mi tiempo.</td> 
+    <td>
+        Scenario: Configuración de Disponibilidad
+        <br><br>
+        GIVEN un abogado con un perfil completo
+        <br><br>
+        WHEN configura su disponibilidad en la sección de horarios
+        <br><br>
+        THEN los clientes pueden ver y agendar citas en los horarios disponibles
+        <br><br>
+        AND el abogado recibe notificaciones de las citas programadas.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU06</td> 
+    <td>Gestión de Documentos Personales</td> 
+    <td>Como abogado, quiero poder subir y gestionar documentos personales relacionados con mis casos para tener todo centralizado en un solo lugar, para acceder de forma rápida y eficiente a la documentación relevante.</td> 
+    <td>
+        Scenario: Gestión de Documentos Personales
+        <br><br>
+        GIVEN un abogado con un caso activo
+        <br><br>
+        WHEN sube documentos a la plataforma
+        <br><br>
+        THEN los documentos se guardan y están disponibles para su consulta
+        <br><br>
+        AND el abogado puede asignar permisos de acceso a los clientes o compañeros.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU07</td> 
+    <td>Registro de Cliente</td> 
+    <td>Como visitante, quiero poder registrarme en la plataforma como cliente para poder contactar abogados y gestionar mis casos legales de manera eficiente.</td> 
+    <td>
         Scenario: Registro de Cliente
-        <br> <br>
+        <br><br>
         GIVEN un cliente nuevo
-        <br> <br>
+        <br><br>
         WHEN completa el formulario de registro
-        <br> <br>
+        <br><br>
         THEN su perfil es creado y puede acceder a la plataforma para buscar abogados
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU08</td> 
-        <td>Búsqueda de Abogado</td> 
-        <td>Como cliente, quiero buscar abogados según su especialización y experiencia para elegir al más adecuado para mi caso.</td> 
-        <td>
-            Scenario: Búsqueda de Abogado
-            <br> <br>
-            GIVEN un cliente registrado
-            <br> <br>
-            WHEN ingresa criterios de búsqueda (especialización, experiencia, ubicación)
-            <br> <br>
-            THEN se muestran abogados que coinciden con esos criterios
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU09</td> 
-        <td>Consulta de Perfil de Abogado</td> 
-        <td>Como cliente, quiero poder ver el perfil completo de un abogado, incluyendo sus casos de éxito, para evaluar si es el adecuado para mi caso.</td> 
-        <td>
-            Scenario: Consulta de Perfil de Abogado
-            <br> <br>
-            GIVEN un cliente buscando abogado
-            <br> <br>
-            WHEN selecciona un abogado en los resultados de búsqueda
-            <br> <br>
-            THEN se muestra su perfil completo con información detallada y casos de éxito
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU10</td> 
-        <td>Agendamiento de Cita</td> 
-        <td>Como cliente, quiero poder agendar una cita con un abogado para discutir mi caso en un horario conveniente.</td> 
-        <td>
-            Scenario: Agendamiento de Cita
-            <br> <br>
-            GIVEN un cliente ha seleccionado un abogado
-            <br> <br>
-            WHEN elige un horario disponible para la cita
-            <br> <br>
-            THEN la cita se agenda y ambas partes reciben una confirmación
-        </td> 
-        <td>EP01</td> 
-    </tr>
-    <tr> 
-        <td>HU11</td> 
-        <td>Visualización de Consultas Pendientes</td> 
-        <td>Como abogado, quiero ver una lista de todas las consultas pendientes para gestionar mejor mi tiempo y priorizar mis tareas.</td> 
-        <td>
-            Scenario: Visualización de Consultas Pendientes
-            <br> <br>
-            GIVEN un abogado con consultas pendientes
-            <br> <br>
-            WHEN accede a su panel de usuario
-            <br> <br>
-            THEN se muestra una lista detallada de todas las consultas pendientes, incluyendo fechas y detalles relevantes
-        </td> 
-        <td>EP02</td> 
-    </tr>
-    <tr> 
-        <td>HU12</td> 
-        <td>Visualización de Historial de Consultas</td> 
-        <td>Como cliente, quiero ver el historial de todas las consultas anteriores para tener un registro de mis interacciones legales y casos tratados.</td> 
-        <td>
-            Scenario: Visualización de Historial de Consultas
-            <br> <br>
-            GIVEN un cliente registrado con consultas previas
-            <br> <br>
-            WHEN accede a su perfil
-            <br> <br>
-            THEN se muestra un historial completo de todas las consultas anteriores con detalles de cada una
-        </td> 
-        <td>EP02</td> 
-    </tr>
-    <tr> 
-        <td>HU13</td> 
-        <td>Visualización de Progreso de Caso</td> 
-        <td>Como cliente, quiero ver el progreso actual de mi caso en tiempo real para estar al tanto de los avances y próximos pasos.</td> 
-        <td>
-            Scenario: Visualización de Progreso de Caso
-            <br> <br>
-            GIVEN un cliente con un caso activo
-            <br> <br>
-            WHEN accede a la sección de su caso
-            <br> <br>
-            THEN se muestra el progreso actual, incluyendo hitos alcanzados y próximos pasos
-        </td> 
-        <td>EP02</td> 
-    </tr>
-    <tr> 
-        <td>HU14</td> 
-        <td>Acceso a Documentos Relevantes</td> 
-        <td>Como cliente, quiero acceder a todos los documentos relevantes de mi caso en un solo lugar para facilitar su revisión y seguimiento.</td> 
-        <td>
-            Scenario: Acceso a Documentos Relevantes
-            <br> <br>
-            GIVEN un cliente con documentos cargados por su abogado
-            <br> <br>
-            WHEN accede a su perfil y selecciona su caso
-            <br> <br>
-            THEN se muestra una lista organizada de todos los documentos relevantes disponibles para descargar o revisar en línea
-        </td> 
-        <td>EP02</td> 
-    </tr>
-    <tr> 
-        <td>HU15</td> 
-        <td>Notificaciones de Actualizaciones</td> 
-        <td>Como cliente, quiero recibir notificaciones cuando haya actualizaciones importantes en mi caso para estar al tanto de cualquier cambio o avance.</td> 
-        <td>
-            Scenario: Notificaciones de Actualizaciones
-            <br> <br>
-            GIVEN un cliente con un caso activo
-            <br> <br>
-            WHEN hay una actualización en su caso
-            <br> <br>
-            THEN recibe una notificación inmediata, tanto en la plataforma como por correo electrónico
-        </td> 
-        <td>EP02</td> 
-    </tr>
-    <tr> 
-        <td>HU16</td> 
-        <td>Visualización de Servicios Destacados</td> 
-        <td>Como cliente, quiero ver los servicios legales más destacados en la landing page para entender rápidamente cómo la plataforma puede ayudarme.</td> 
-        <td>
-            Scenario: Visualización de Servicios Destacados
-            <br> <br>
-            GIVEN un cliente potencial visitando la landing page
-            <br> <br>
-            WHEN accede al sitio web
-            <br> <br>
-            THEN se muestran los servicios legales más relevantes y populares en un formato atractivo y fácil de entender
-        </td> 
-        <td>EP03</td> 
-    </tr> 
-    <tr> 
-        <td>HU17</td> 
-        <td>Testimonios de Clientes Satisfechos</td> 
-        <td>Como cliente, quiero leer testimonios de otros clientes satisfechos en la landing page para sentirme más confiado al contratar los servicios.</td> 
-        <td>
-            Scenario: Visualización de Testimonios
-            <br> <br>
-            GIVEN un cliente potencial interesado en los servicios
-            <br> <br>
-            WHEN navega por la landing page
-            <br> <br>
-            THEN se muestra una sección con testimonios auténticos de clientes satisfechos para generar confianza
-        </td> 
-        <td>EP03</td> 
-    </tr>
-    <tr> 
-        <td>HU18</td> 
-        <td>Acceso Rápido a Funcionalidades Principales</td> 
-        <td>Como cliente, quiero tener accesos rápidos a las funcionalidades principales desde la landing page para encontrar fácilmente lo que necesito.</td> 
-        <td>
-            Scenario: Acceso Rápido desde la Landing Page
-            <br> <br>
-            GIVEN un cliente potencial explorando el sitio web
-            <br> <br>
-            WHEN llega a la landing page
-            <br> <br>
-            THEN se muestran accesos directos claros a las funcionalidades clave como registro, búsqueda de abogados, y contacto
-        </td> 
-        <td>EP03</td> 
-    </tr>
-    <tr> 
-        <td>HU19</td> 
-        <td>Información Clara y Concisa sobre el Servicio</td> 
-        <td>Como cliente, quiero encontrar una descripción clara y concisa de los servicios ofrecidos en la landing page para entender de qué se trata la plataforma sin complicaciones.</td> 
-        <td>
-            Scenario: Información sobre el Servicio
-            <br> <br>
-            GIVEN un cliente potencial sin experiencia previa con la plataforma
-            <br> <br>
-            WHEN accede a la landing page
-            <br> <br>
-            THEN se presenta una descripción clara y simple de los servicios y beneficios de la plataforma
-        </td> 
-        <td>EP03</td> 
-    </tr>
-    <tr> 
-        <td>HU20</td> 
-        <td>Diseño Atractivo y Responsivo</td> 
-        <td>Como cliente, quiero que la landing page tenga un diseño atractivo y sea responsivo para una experiencia de usuario agradable desde cualquier dispositivo.</td> 
-        <td>
-            Scenario: Diseño de la Landing Page
-            <br> <br>
-            GIVEN un cliente potencial utilizando diferentes dispositivos
-            <br> <br>
-            WHEN visita la landing page
-            <br> <br>
-            THEN la página se adapta perfectamente al dispositivo, con un diseño atractivo que facilita la navegación
-        </td> 
-        <td>EP03</td> 
-    </tr>
-    <tr> 
-        <td>HU21</td> 
-        <td>Consulta de Disponibilidad de Abogados</td> 
-        <td>Como cliente, quiero poder consultar la disponibilidad de los abogados en la plataforma para agendar una cita en el momento que mejor me convenga.</td> 
-        <td>
-            Scenario: Consulta de Disponibilidad
-            <br> <br>
-            GIVEN un cliente buscando asesoría legal
-            <br> <br>
-            WHEN navega por la lista de abogados en la plataforma
-            <br> <br>
-            THEN puede ver las fechas y horarios disponibles de cada abogado para agendar una cita
-        </td> 
-        <td>EP04</td> 
-    </tr>
-    <tr> 
-        <td>HU22</td> 
-        <td>Solicitud de Cita con Abogado</td> 
-        <td>Como cliente, quiero solicitar una cita con un abogado a través de la plataforma para discutir mi caso legal de manera conveniente.</td> 
-        <td>
-            Scenario: Solicitud de Cita
-            <br> <br>
-            GIVEN un cliente interesado en un abogado específico
-            <br> <br>
-            WHEN elige una fecha y hora disponible
-            <br> <br>
-            THEN puede enviar una solicitud de cita al abogado seleccionado
-        </td> 
-        <td>EP04</td> 
-    </tr>
-    <tr> 
-        <td>HU23</td> 
-        <td>Chat en Tiempo Real con Abogado</td> 
-        <td>Como cliente, quiero tener la opción de chatear en tiempo real con un abogado para obtener respuestas rápidas a mis preguntas antes de agendar una consulta formal.</td> 
-        <td>
-            Scenario: Chat en Tiempo Real
-            <br> <br>
-            GIVEN un cliente interesado en obtener más información de un abogado
-            <br> <br>
-            WHEN está navegando en la plataforma
-            <br> <br>
-            THEN puede iniciar un chat en tiempo real con el abogado para hacer consultas rápidas
-        </td> 
-        <td>EP04</td> 
-    </tr>
-    <tr> 
-        <td>HU24</td> 
-        <td>Revisión del Progreso del Caso</td> 
-        <td>Como cliente, quiero poder revisar el progreso de mi caso a través de la plataforma para estar al tanto de los avances realizados por el abogado.</td> 
-        <td>
-            Scenario: Revisión del Progreso
-            <br> <br>
-            GIVEN un cliente con un caso en proceso
-            <br> <br>
-            WHEN inicia sesión en la plataforma
-            <br> <br>
-            THEN puede ver una actualización del progreso de su caso en su perfil
-        </td> 
-        <td>EP04</td> 
-    </tr>
-    <tr> 
-        <td>HU25</td> 
-        <td>Evaluación y Calificación del Abogado</td> 
-        <td>Como cliente, quiero poder evaluar y calificar al abogado después de la consulta para contribuir a la retroalimentación y calidad del servicio.</td> 
-        <td>
-            Scenario: Evaluación y Calificación
-            <br> <br>
-            GIVEN un cliente que ha completado una consulta con un abogado
-            <br> <br>
-            WHEN finaliza la consulta
-            <br> <br>
-            THEN puede evaluar y dejar una calificación del abogado en la plataforma
-        </td> 
-        <td>EP04</td> 
-    </tr>
-    <tr> 
-        <td>HU26</td> 
-        <td>Gestión de Roles y Permisos</td> 
-        <td>Como administrador, quiero gestionar los roles y permisos de los usuarios en la plataforma para garantizar que cada usuario tenga acceso solo a la información y funcionalidades necesarias.</td> 
-        <td>
-            Scenario: Gestión de Roles y Permisos
-            <br> <br>
-            GIVEN un administrador con acceso al panel de administración
-            <br> <br>
-            WHEN accede a la sección de roles y permisos
-            <br> <br>
-            THEN puede crear, modificar o eliminar roles y asignar permisos específicos a cada uno
-        </td> 
-        <td>EP05</td> 
-    </tr> 
-    <tr> 
-        <td>HU27</td> 
-        <td>Monitorización de Actividad</td> 
-        <td>Como administrador, quiero monitorizar la actividad de los usuarios en la plataforma para detectar comportamientos inusuales o potenciales amenazas de seguridad.</td> 
-        <td>
-            Scenario: Monitorización de Actividad
-            <br> <br>
-            GIVEN un administrador preocupado por la seguridad
-            <br> <br>
-            WHEN accede al panel de administración
-            <br> <br>
-            THEN puede ver registros detallados de la actividad de los usuarios y recibir alertas sobre comportamientos inusuales
-        </td> 
-        <td>EP05</td> 
-    </tr> 
-    <tr> 
-        <td>HU28</td> 
-        <td>Implementación de Autenticación Multifactor</td> 
-        <td>Como administrador, quiero implementar la autenticación multifactor para aumentar la seguridad del acceso a la plataforma y proteger la información sensible.</td> 
-        <td>
-            Scenario: Implementación de Autenticación Multifactor
-            <br> <br>
-            GIVEN un administrador responsable de la seguridad
-            <br> <br>
-            WHEN configura la autenticación de los usuarios
-            <br> <br>
-            THEN puede activar y exigir la autenticación multifactor para todos los usuarios al iniciar sesión
-        </td> 
-        <td>EP05</td> 
-    </tr> 
-    <tr> 
-        <td>HU29</td> 
-        <td>Respaldo y Recuperación de Datos</td> 
-        <td>Como administrador, quiero asegurar que la plataforma realice respaldos automáticos de todos los datos importantes y cuente con un sistema de recuperación para prevenir la pérdida de información.</td> 
-        <td>
-            Scenario: Respaldo y Recuperación de Datos
-            <br> <br>
-            GIVEN un administrador encargado de la integridad de datos
-            <br> <br>
-            WHEN accede al panel de configuración
-            <br> <br>
-            THEN puede establecer la frecuencia de respaldos automáticos y configurar procedimientos de recuperación en caso de fallos
-        </td> 
-        <td>EP05</td> 
-    </tr> 
-    <tr> 
-        <td>HU30</td> 
-        <td>Actualización de Seguridad</td> 
-        <td>Como administrador, quiero poder aplicar actualizaciones de seguridad a la plataforma para protegerla contra vulnerabilidades emergentes.</td> 
-        <td>
-            Scenario: Actualización de Seguridad
-            <br> <br>
-            GIVEN un administrador responsable de la protección de la plataforma
-            <br> <br>
-            WHEN recibe alertas sobre nuevas vulnerabilidades
-            <br> <br>
-            THEN puede aplicar parches y actualizaciones de seguridad para mantener la plataforma protegida
-        </td> 
-        <td>EP05</td> 
-    </tr>
-    <tr> 
-        <td>HU31</td> 
-        <td>Implementación de Diseño Responsivo</td> 
-        <td>Como desarrollador, quiero implementar un diseño responsivo en la plataforma para asegurar que los usuarios puedan acceder y utilizar la plataforma desde cualquier dispositivo con facilidad.</td> 
-        <td>
-            Scenario: Implementación de Diseño Responsivo
-            <br> <br>
-            GIVEN una plataforma web que debe ser accesible en diferentes dispositivos
-            <br> <br>
-            WHEN un usuario accede a la plataforma desde un dispositivo móvil, tableta o escritorio
-            <br> <br>
-            THEN el diseño se adapta automáticamente para proporcionar una experiencia de usuario óptima en cualquier tamaño de pantalla
-        </td> 
-        <td>EP06</td> 
-    </tr> 
-    <tr> 
-        <td>HU32</td> 
-        <td>Compatibilidad con Tecnologías de Asistencia</td> 
-        <td>Como desarrollador, quiero asegurar que la plataforma sea compatible con tecnologías de asistencia, como lectores de pantalla, para que sea accesible a usuarios con discapacidades.</td> 
-        <td>
-            Scenario: Compatibilidad con Tecnologías de Asistencia
-            <br> <br>
-            GIVEN un usuario que depende de tecnologías de asistencia
-            <br> <br>
-            WHEN accede a la plataforma usando un lector de pantalla
-            <br> <br>
-            THEN la plataforma debe ser completamente navegable e interactiva, con descripciones alternativas para todos los elementos visuales
-        </td> 
-        <td>EP06</td> 
-    </tr> 
-    <tr> 
-        <td>HU33</td> 
-        <td>Mejoras en la Interacción del Usuario</td> 
-        <td>Como desarrollador, quiero optimizar la interacción del usuario con la plataforma para que las acciones sean intuitivas y rápidas, mejorando la experiencia general.</td> 
-        <td>
-            Scenario: Mejoras en la Interacción del Usuario
-            <br> <br>
-            GIVEN una plataforma que necesita ser intuitiva y fácil de usar
-            <br> <br>
-            WHEN un usuario interactúa con la plataforma
-            <br> <br>
-            THEN las interacciones deben ser suaves, con tiempos de respuesta rápidos y una navegación clara
-        </td> 
-        <td>EP06</td> 
-    </tr> 
-    <tr> 
-        <td>HU34</td> 
-        <td>Internacionalización de la Plataforma</td> 
-        <td>Como desarrollador, quiero implementar la internacionalización en la plataforma para que sea accesible en múltiples idiomas, expandiendo el alcance a usuarios de diferentes regiones.</td> 
-        <td>
-            Scenario: Internacionalización de la Plataforma
-            <br> <br>
-            GIVEN una plataforma con usuarios de diferentes regiones
-            <br> <br>
-            WHEN un usuario selecciona su idioma preferido
-            <br> <br>
-            THEN la plataforma debe mostrar todo el contenido en el idioma seleccionado sin pérdida de funcionalidad
-        </td> 
-        <td>EP06</td> 
-    </tr> 
-    <tr> 
-        <td>HU35</td> 
-        <td>Accesibilidad del Teclado</td> 
-        <td>Como desarrollador, quiero asegurar que todas las funciones de la plataforma sean accesibles mediante el teclado para que los usuarios que no pueden usar un mouse puedan navegar fácilmente.</td> 
-        <td>
-            Scenario: Accesibilidad del Teclado
-            <br> <br>
-            GIVEN un usuario que navega utilizando solo el teclado
-            <br> <br>
-            WHEN interactúa con cualquier parte de la plataforma
-            <br> <br>
-            THEN debe poder realizar todas las acciones necesarias usando combinaciones de teclas y sin necesidad de un mouse
-        </td> 
-        <td>EP06</td> 
-    </tr>
+        <br><br>
+        AND recibe recomendaciones automáticas de abogados basadas en su perfil y necesidades.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU08</td> 
+    <td>Búsqueda de Abogado</td> 
+    <td>Como cliente, quiero buscar abogados según su especialización, experiencia y ubicación para elegir al más adecuado para mi caso y agilizar el proceso de contratación de servicios legales.</td> 
+    <td>
+        Scenario: Búsqueda de Abogado
+        <br><br>
+        GIVEN un cliente registrado
+        <br><br>
+        WHEN ingresa criterios de búsqueda (especialización, experiencia, ubicación)
+        <br><br>
+        THEN se muestran abogados que coinciden con esos criterios
+        <br><br>
+        AND puede filtrar los resultados por calificación y costo.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU09</td> 
+    <td>Consulta de Perfil de Abogado</td> 
+    <td>Como cliente, quiero poder ver el perfil completo de un abogado, incluyendo sus casos de éxito y calificaciones, para evaluar si es el adecuado para mi caso y tomar una decisión informada.</td> 
+    <td>
+        Scenario: Consulta de Perfil de Abogado
+        <br><br>
+        GIVEN un cliente buscando abogado
+        <br><br>
+        WHEN selecciona un abogado en los resultados de búsqueda
+        <br><br>
+        THEN se muestra su perfil completo con información detallada y casos de éxito
+        <br><br>
+        AND el cliente puede ver las calificaciones de otros usuarios sobre ese abogado.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU10</td> 
+    <td>Agendamiento de Cita</td> 
+    <td>Como cliente, quiero poder agendar una cita con un abogado para discutir mi caso en un horario conveniente, con la posibilidad de recibir una confirmación automática y reprogramar si es necesario.</td> 
+    <td>
+        Scenario: Agendamiento de Cita
+        <br><br>
+        GIVEN un cliente ha seleccionado un abogado
+        <br><br>
+        WHEN elige un horario disponible para la cita
+        <br><br>
+        THEN la cita se agenda y ambas partes reciben una confirmación automática por correo y notificación en la plataforma
+        <br><br>
+        AND la plataforma permite reprogramar la cita si es necesario.
+    </td> 
+    <td>EP01</td> 
+</tr>
+<tr> 
+    <td>HU11</td> 
+    <td>Visualización de Consultas Pendientes</td> 
+    <td>Como abogado, quiero ver una lista de todas las consultas pendientes para gestionar mejor mi tiempo y priorizar mis tareas, para evitar retrasos en la atención de mis clientes.</td> 
+    <td>
+        Scenario: Visualización de Consultas Pendientes
+        <br><br>
+        GIVEN un abogado con consultas pendientes
+        <br><br>
+        WHEN accede a su panel de usuario
+        <br><br>
+        THEN se muestra una lista detallada de todas las consultas pendientes, incluyendo fechas, detalles relevantes y el estado de cada consulta
+        <br><br>
+        AND puede marcar consultas como "resueltas" o "en progreso".
+    </td> 
+    <td>EP02</td> 
+</tr>
+
+<tr> 
+    <td>HU12</td> 
+    <td>Visualización de Historial de Consultas</td> 
+    <td>Como cliente, quiero ver el historial de todas las consultas anteriores para tener un registro de mis interacciones legales y casos tratados, lo que me permitirá dar seguimiento a cada proceso de manera más eficiente.</td> 
+    <td>
+        Scenario: Visualización de Historial de Consultas
+        <br><br>
+        GIVEN un cliente registrado con consultas previas
+        <br><br>
+        WHEN accede a su perfil
+        <br><br>
+        THEN se muestra un historial completo de todas las consultas anteriores con detalles de cada una
+        <br><br>
+        AND puede descargar o compartir los detalles de sus consultas.
+    </td> 
+    <td>EP02</td> 
+</tr>
+
+<tr> 
+    <td>HU13</td> 
+    <td>Visualización de Progreso de Caso</td> 
+    <td>Como cliente, quiero ver el progreso actual de mi caso en tiempo real para estar al tanto de los avances y próximos pasos, para poder tomar decisiones informadas.</td> 
+    <td>
+        Scenario: Visualización de Progreso de Caso
+        <br><br>
+        GIVEN un cliente con un caso activo
+        <br><br>
+        WHEN accede a la sección de su caso
+        <br><br>
+        THEN se muestra el progreso actual, incluyendo hitos alcanzados y próximos pasos con fechas estimadas de conclusión
+        <br><br>
+        AND recibe notificaciones de los cambios más importantes.
+    </td> 
+    <td>EP02</td> 
+</tr>
+
+<tr> 
+    <td>HU14</td> 
+    <td>Acceso a Documentos Relevantes</td> 
+    <td>Como cliente, quiero acceder a todos los documentos relevantes de mi caso en un solo lugar para facilitar su revisión y seguimiento, lo que me permitirá tener toda la información centralizada.</td> 
+    <td>
+        Scenario: Acceso a Documentos Relevantes
+        <br><br>
+        GIVEN un cliente con documentos cargados por su abogado
+        <br><br>
+        WHEN accede a su perfil y selecciona su caso
+        <br><br>
+        THEN se muestra una lista organizada de todos los documentos relevantes, con opciones de búsqueda y descarga
+        <br><br>
+        AND puede solicitar actualizaciones directamente a través de la plataforma.
+    </td> 
+    <td>EP02</td> 
+</tr>
+
+<tr> 
+    <td>HU15</td> 
+    <td>Notificaciones de Actualizaciones</td> 
+    <td>Como cliente, quiero recibir notificaciones cuando haya actualizaciones importantes en mi caso para estar al tanto de cualquier cambio o avance y tomar medidas rápidas si es necesario.</td> 
+    <td>
+        Scenario: Notificaciones de Actualizaciones
+        <br><br>
+        GIVEN un cliente con un caso activo
+        <br><br>
+        WHEN hay una actualización en su caso
+        <br><br>
+        THEN recibe una notificación inmediata, tanto en la plataforma como por correo electrónico
+        <br><br>
+        AND las notificaciones incluyen un resumen de los cambios o próximos pasos.
+    </td> 
+    <td>EP02</td> 
+</tr>
+
+<tr> 
+    <td>HU16</td> 
+    <td>Visualización de Servicios Destacados</td> 
+    <td>Como cliente, quiero ver los servicios legales más destacados en la landing page para entender rápidamente cómo la plataforma puede ayudarme a resolver mis problemas legales.</td> 
+    <td>
+        Scenario: Visualización de Servicios Destacados
+        <br><br>
+        GIVEN un cliente potencial visitando la landing page
+        <br><br>
+        WHEN accede al sitio web
+        <br><br>
+        THEN se muestran los servicios legales más relevantes y populares en un formato atractivo, organizado por categorías para facilitar la navegación
+        <br><br>
+        AND puede hacer clic directamente en los servicios para obtener más información.
+    </td> 
+    <td>EP03</td> 
+</tr> 
+
+<tr> 
+    <td>HU17</td> 
+    <td>Testimonios de Clientes Satisfechos</td> 
+    <td>Como cliente, quiero leer testimonios de otros clientes satisfechos en la landing page para sentirme más confiado al contratar los servicios, lo que me ayudará a tomar una decisión informada.</td> 
+    <td>
+        Scenario: Visualización de Testimonios
+        <br><br>
+        GIVEN un cliente potencial interesado en los servicios
+        <br><br>
+        WHEN navega por la landing page
+        <br><br>
+        THEN se muestra una sección con testimonios auténticos de clientes satisfechos, ordenados por relevancia
+        <br><br>
+        AND puede filtrar los testimonios por el tipo de servicio o abogado contratado.
+    </td> 
+    <td>EP03</td> 
+</tr>
+
+<tr> 
+    <td>HU18</td> 
+    <td>Acceso Rápido a Funcionalidades Principales</td> 
+    <td>Como cliente, quiero tener accesos rápidos a las funcionalidades principales desde la landing page para encontrar fácilmente lo que necesito, sin tener que hacer clics innecesarios.</td> 
+    <td>
+        Scenario: Acceso Rápido desde la Landing Page
+        <br><br>
+        GIVEN un cliente potencial explorando el sitio web
+        <br><br>
+        WHEN llega a la landing page
+        <br><br>
+        THEN se muestran accesos directos claros a las funcionalidades clave como registro, búsqueda de abogados y contacto, con un diseño intuitivo y responsivo
+        <br><br>
+        AND puede realizar una acción en 3 clics o menos.
+    </td> 
+    <td>EP03</td> 
+</tr>
+
+<tr> 
+    <td>HU19</td> 
+    <td>Información Clara y Concisa sobre el Servicio</td> 
+    <td>Como cliente, quiero encontrar una descripción clara y concisa de los servicios ofrecidos en la landing page para entender de qué se trata la plataforma sin complicaciones.</td> 
+    <td>
+        Scenario: Información sobre el Servicio
+        <br><br>
+        GIVEN un cliente potencial sin experiencia previa con la plataforma
+        <br><br>
+        WHEN accede a la landing page
+        <br><br>
+        THEN se presenta una descripción clara y simple de los servicios y beneficios de la plataforma
+        <br><br>
+        AND puede acceder a más información sin tener que navegar por varias páginas.
+    </td> 
+    <td>EP03</td> 
+</tr>
+
+<tr> 
+    <td>HU20</td> 
+    <td>Diseño Atractivo y Responsivo</td> 
+    <td>Como cliente, quiero que la landing page tenga un diseño atractivo y sea responsivo para una experiencia de usuario agradable desde cualquier dispositivo.</td> 
+    <td>
+        Scenario: Diseño de la Landing Page
+        <br><br>
+        GIVEN un cliente potencial utilizando diferentes dispositivos
+        <br><br>
+        WHEN visita la landing page
+        <br><br>
+        THEN la página se adapta perfectamente al dispositivo, con un diseño atractivo que facilita la navegación
+        <br><br>
+        AND las principales funcionalidades son accesibles sin problemas desde móviles y tablets.
+    </td> 
+    <td>EP03</td> 
+</tr>
+<tr> 
+    <td>HU21</td> 
+    <td>Consulta de Disponibilidad de Abogados</td> 
+    <td>Como cliente, quiero poder consultar la disponibilidad de los abogados en tiempo real para agendar una cita en el momento que mejor me convenga, para que pueda organizar mis consultas de manera eficiente.</td> 
+    <td>
+        Scenario: Consulta de Disponibilidad
+        <br><br>
+        GIVEN un cliente buscando asesoría legal
+        <br><br>
+        WHEN navega por la lista de abogados en la plataforma
+        <br><br>
+        THEN puede ver las fechas y horarios disponibles de cada abogado, con opciones para filtrar por disponibilidad
+        <br><br>
+        AND puede seleccionar una fecha para agendar directamente desde el calendario.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr> 
+    <td>HU22</td> 
+    <td>Solicitud de Cita con Abogado</td> 
+    <td>Como cliente, quiero solicitar una cita con un abogado a través de la plataforma para discutir mi caso legal de manera conveniente, para recibir asesoría legal en el menor tiempo posible.</td> 
+    <td>
+        Scenario: Solicitud de Cita
+        <br><br>
+        GIVEN un cliente interesado en un abogado específico
+        <br><br>
+        WHEN elige una fecha y hora disponible
+        <br><br>
+        THEN puede enviar una solicitud de cita al abogado, y ambas partes reciben una confirmación por correo y en la plataforma.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr> 
+    <td>HU23</td> 
+    <td>Chat en Tiempo Real con Abogado</td> 
+    <td>Como cliente, quiero tener la opción de chatear en tiempo real con un abogado para obtener respuestas rápidas a mis preguntas antes de agendar una consulta formal, lo que me permitirá aclarar dudas sin necesidad de agendar una cita formal.</td> 
+    <td>
+        Scenario: Chat en Tiempo Real
+        <br><br>
+        GIVEN un cliente interesado en obtener más información de un abogado
+        <br><br>
+        WHEN está navegando en la plataforma
+        <br><br>
+        THEN puede iniciar un chat en tiempo real con el abogado para hacer consultas rápidas
+        <br><br>
+        AND el abogado puede aceptar o rechazar la solicitud de chat en función de su disponibilidad.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr> 
+    <td>HU24</td> 
+    <td>Revisión del Progreso del Caso</td> 
+    <td>Como cliente, quiero poder revisar el progreso de mi caso a través de la plataforma para estar al tanto de los avances realizados por el abogado, para tener control y visibilidad del estado de mi caso en cualquier momento.</td> 
+    <td>
+        Scenario: Revisión del Progreso
+        <br><br>
+        GIVEN un cliente con un caso en proceso
+        <br><br>
+        WHEN inicia sesión en la plataforma
+        <br><br>
+        THEN puede ver una actualización del progreso de su caso en su perfil, con hitos y fechas esperadas para los próximos pasos.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr> 
+    <td>HU25</td> 
+    <td>Evaluación y Calificación del Abogado</td> 
+    <td>Como cliente, quiero poder evaluar y calificar al abogado después de la consulta para contribuir a la retroalimentación y calidad del servicio, para que otros clientes puedan tomar decisiones informadas.</td> 
+    <td>
+        Scenario: Evaluación y Calificación
+        <br><br>
+        GIVEN un cliente que ha completado una consulta con un abogado
+        <br><br>
+        WHEN finaliza la consulta
+        <br><br>
+        THEN puede evaluar y dejar una calificación del abogado en la plataforma, con comentarios opcionales para mejorar la calidad del servicio.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr> 
+    <td>HU26</td> 
+    <td>Gestión de Roles y Permisos</td> 
+    <td>Como administrador, quiero gestionar los roles y permisos de los usuarios en la plataforma para garantizar que cada usuario tenga acceso solo a la información y funcionalidades necesarias, para mantener la seguridad y el control de los datos.</td> 
+    <td>
+        Scenario: Gestión de Roles y Permisos
+        <br><br>
+        GIVEN un administrador con acceso al panel de administración
+        <br><br>
+        WHEN accede a la sección de roles y permisos
+        <br><br>
+        THEN puede crear, modificar o eliminar roles y asignar permisos específicos a cada uno
+        <br><br>
+        AND puede ver un registro de cambios en los permisos asignados.
+    </td> 
+    <td>EP05</td> 
+</tr> 
+
+<tr> 
+    <td>HU27</td> 
+    <td>Monitorización de Actividad</td> 
+    <td>Como administrador, quiero monitorizar la actividad de los usuarios en la plataforma para detectar comportamientos inusuales o potenciales amenazas de seguridad, para proteger los datos de los usuarios y prevenir accesos no autorizados.</td> 
+    <td>
+        Scenario: Monitorización de Actividad
+        <br><br>
+        GIVEN un administrador preocupado por la seguridad
+        <br><br>
+        WHEN accede al panel de administración
+        <br><br>
+        THEN puede ver registros detallados de la actividad de los usuarios, con alertas automáticas de actividades inusuales o intentos de acceso no autorizados.
+    </td> 
+    <td>EP05</td> 
+</tr> 
+
+<tr> 
+    <td>HU28</td> 
+    <td>Implementación de Autenticación Multifactor</td> 
+    <td>Como administrador, quiero implementar la autenticación multifactor para aumentar la seguridad del acceso a la plataforma y proteger la información sensible, para evitar accesos no autorizados y aumentar la protección de los datos.</td> 
+    <td>
+        Scenario: Implementación de Autenticación Multifactor
+        <br><br>
+        GIVEN un administrador responsable de la seguridad
+        <br><br>
+        WHEN configura la autenticación de los usuarios
+        <br><br>
+        THEN puede activar y exigir la autenticación multifactor para todos los usuarios al iniciar sesión, con verificación por correo electrónico o SMS.
+    </td> 
+    <td>EP05</td> 
+</tr> 
+
+<tr> 
+    <td>HU29</td> 
+    <td>Respaldo y Recuperación de Datos</td> 
+    <td>Como administrador, quiero asegurar que la plataforma realice respaldos automáticos de todos los datos importantes y cuente con un sistema de recuperación para prevenir la pérdida de información, garantizando la disponibilidad de los datos ante cualquier eventualidad.</td> 
+    <td>
+        Scenario: Respaldo y Recuperación de Datos
+        <br><br>
+        GIVEN un administrador encargado de la integridad de datos
+        <br><br>
+        WHEN accede al panel de configuración
+        <br><br>
+        THEN puede establecer la frecuencia de respaldos automáticos y configurar procedimientos de recuperación en caso de fallos o pérdida de datos
+        <br><br>
+        AND puede probar el sistema de recuperación sin afectar los datos actuales.
+    </td> 
+    <td>EP05</td> 
+</tr> 
+
+<tr> 
+    <td>HU30</td> 
+    <td>Actualización de Seguridad</td> 
+    <td>Como administrador, quiero poder aplicar actualizaciones de seguridad a la plataforma para protegerla contra vulnerabilidades emergentes, para mantener la integridad y seguridad de los sistemas y datos.</td> 
+    <td>
+        Scenario: Actualización de Seguridad
+        <br><br>
+        GIVEN un administrador responsable de la protección de la plataforma
+        <br><br>
+        WHEN recibe alertas sobre nuevas vulnerabilidades
+        <br><br>
+        THEN puede aplicar parches y actualizaciones de seguridad sin interrumpir el servicio para mantener la plataforma protegida.
+    </td> 
+    <td>EP05</td> 
+</tr>
+<tr> 
+    <td>HU31</td> 
+    <td>Implementación de Diseño Responsivo</td> 
+    <td>Como desarrollador, quiero implementar un diseño responsivo en la plataforma para asegurar que los usuarios puedan acceder y utilizar la plataforma desde cualquier dispositivo con facilidad, para mejorar la accesibilidad y la experiencia de usuario en diferentes pantallas.</td> 
+    <td>
+        Scenario: Implementación de Diseño Responsivo
+        <br><br>
+        GIVEN una plataforma web que debe ser accesible en diferentes dispositivos
+        <br><br>
+        WHEN un usuario accede a la plataforma desde un dispositivo móvil, tableta o escritorio
+        <br><br>
+        THEN el diseño se adapta automáticamente para proporcionar una experiencia de usuario óptima en cualquier tamaño de pantalla
+        <br><br>
+        AND las pruebas de diseño se realizarán en múltiples navegadores y resoluciones para asegurar la compatibilidad.
+    </td> 
+    <td>EP06</td> 
+</tr> 
+
+<tr> 
+    <td>HU32</td> 
+    <td>Compatibilidad con Tecnologías de Asistencia</td> 
+    <td>Como desarrollador, quiero asegurar que la plataforma sea compatible con tecnologías de asistencia, como lectores de pantalla, para que sea accesible a usuarios con discapacidades, para cumplir con los estándares de accesibilidad y ofrecer una experiencia inclusiva.</td> 
+    <td>
+        Scenario: Compatibilidad con Tecnologías de Asistencia
+        <br><br>
+        GIVEN un usuario que depende de tecnologías de asistencia
+        <br><br>
+        WHEN accede a la plataforma usando un lector de pantalla
+        <br><br>
+        THEN la plataforma debe ser completamente navegable e interactiva, con descripciones alternativas para todos los elementos visuales
+        <br><br>
+        AND las etiquetas ARIA deben ser implementadas para mejorar la accesibilidad en todos los formularios e interacciones.
+    </td> 
+    <td>EP06</td> 
+</tr> 
+
+<tr> 
+    <td>HU33</td> 
+    <td>Mejoras en la Interacción del Usuario</td> 
+    <td>Como desarrollador, quiero optimizar la interacción del usuario con la plataforma para que las acciones sean intuitivas y rápidas, mejorando la experiencia general y haciendo que la navegación sea más eficiente.</td> 
+    <td>
+        Scenario: Mejoras en la Interacción del Usuario
+        <br><br>
+        GIVEN una plataforma que necesita ser intuitiva y fácil de usar
+        <br><br>
+        WHEN un usuario interactúa con la plataforma
+        <br><br>
+        THEN las interacciones deben ser suaves, con tiempos de respuesta rápidos y una navegación clara
+        <br><br>
+        AND las animaciones y transiciones deben ser optimizadas para no afectar el rendimiento de la página.
+    </td> 
+    <td>EP06</td> 
+</tr> 
+
+<tr> 
+    <td>HU34</td> 
+    <td>Internacionalización de la Plataforma</td> 
+    <td>Como desarrollador, quiero implementar la internacionalización en la plataforma para que sea accesible en múltiples idiomas, expandiendo el alcance a usuarios de diferentes regiones y permitiendo una experiencia personalizada para cada usuario.</td> 
+    <td>
+        Scenario: Internacionalización de la Plataforma
+        <br><br>
+        GIVEN una plataforma con usuarios de diferentes regiones
+        <br><br>
+        WHEN un usuario selecciona su idioma preferido
+        <br><br>
+        THEN la plataforma debe mostrar todo el contenido en el idioma seleccionado sin pérdida de funcionalidad
+        <br><br>
+        AND la selección de idioma debe guardarse para futuras sesiones y aplicarse uniformemente a todo el contenido.
+    </td> 
+    <td>EP06</td> 
+</tr> 
+
+<tr> 
+    <td>HU35</td> 
+    <td>Accesibilidad del Teclado</td> 
+    <td>Como desarrollador, quiero asegurar que todas las funciones de la plataforma sean accesibles mediante el teclado para que los usuarios que no pueden usar un mouse puedan navegar fácilmente, mejorando la accesibilidad general de la plataforma.</td> 
+    <td>
+        Scenario: Accesibilidad del Teclado
+        <br><br>
+        GIVEN un usuario que navega utilizando solo el teclado
+        <br><br>
+        WHEN interactúa con cualquier parte de la plataforma
+        <br><br>
+        THEN debe poder realizar todas las acciones necesarias usando combinaciones de teclas y sin necesidad de un mouse
+        <br><br>
+        AND todas las funciones críticas, como formularios y navegación, deben poder ser accesibles usando "tab" y "enter".
+    </td> 
+    <td>EP06</td> 
+</tr>
 </table>
 
 ## 3.3. Impact Mapping
