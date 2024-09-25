@@ -95,8 +95,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br>                                                      | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br>                                                              |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5 | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita  | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
+
 
 ---
 # Contenido
@@ -413,9 +414,22 @@ Personas mayores de 18 años que se encuentren en medio de problemas legales. Bu
 Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía. Esta experiencia es necesaria para fortalecer su perfil profesional, tener más oportunidades laborales en el futuro. Pero, esto va a ser acorde a la especialización que decidan; por ejemplo, si son abogados familiares, solamente se enfocarán en ello dentro de la aplicación.
 
 
-# Capítulo II: Requirements Elicitation & Analysis
-## 2.1 Competidores
-## 2.2. Entrevistas
+## Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+## 2.1.1. Análisis competitivo
+![image](https://github.com/user-attachments/assets/b2b5e4ba-3004-4f64-a1e3-c0fd82d290a8)
+![image](https://github.com/user-attachments/assets/4f281a33-886c-4b00-a6e1-684574394071)
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+Entre las principales tácticas para superar a la competencia se encuentran:
+
+Personalización del Servicio: Mejorar la atención al cliente, ajustando nuestras soluciones a las necesidades particulares de cada usuario.
+Estructura de Precios Atractiva: Implementar un esquema de precios más asequible, con alternativas flexibles que se adapten a diferentes demandas.
+Ampliación de Servicios: Extender nuestra oferta a nuevas áreas legales y establecer alianzas con instituciones educativas, brindando prácticas a futuros abogados para enriquecer su experiencia.
+Marketing de Contenidos: Crear contenido valioso que consolide nuestra plataforma como líder en el sector legal, mediante blogs, seminarios web y guías legales gratuitas.
+
+##2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 Segmento objetivo 1: 
 Preguntas Generales
@@ -457,26 +471,28 @@ Entrevista 6: https://youtu.be/Qmlv9eSNM8M
 
 
 Segmento objetivo 1: Personas en Busca de Asesoría Legal
-Entrevista 1: Martin expresó una necesidad clara por una plataforma que no solo facilite el acceso a listados de abogados, sino que también provea herramientas detalladas para verificar la autenticidad y el historial de éxito de cada abogado. Señaló que su decisión a menudo se basa en la reputación académica y profesional, subrayando la importancia de una sección dedicada a revisar las calificaciones y reseñas de otros clientes. Martin también sugirió que la plataforma podría incluir un sistema de insignias o certificaciones que destaque a los abogados con logros notables o especializaciones únicas.
+Entrevista 1: En la primera entrevista, Martín manifestó una demanda clara por una plataforma que, además de proporcionar un listado de abogados, ofrezca herramientas avanzadas para verificar la autenticidad y el historial de éxito de cada uno. Él destacó que su decisión suele basarse en la reputación académica y profesional de los abogados, remarcando la relevancia de incluir una sección que permita revisar las calificaciones y opiniones de otros clientes. Además, sugirió la implementación de un sistema de insignias o certificaciones que resalte a los abogados con logros sobresalientes o especializaciones distintivas.
 ![image](https://github.com/user-attachments/assets/809ab637-fe84-41b7-9452-b08fdd37e371)
 
 
-Entrevista 2:  Yamile resaltó su frustración con la demora y la complejidad de los procesos tradicionales de búsqueda legal. Ella apreciaría una plataforma que consolide rápidamente entidades legales confiables y permita programar consultas inmediatas en línea. Propuso que la plataforma ofrezca un sistema de respuesta rápida donde los usuarios puedan recibir asesoría legal preliminar de manera instantánea a través de chat en vivo o video llamadas, lo que sería especialmente útil en situaciones de urgencia legal.
+Entrevista 2: En su entrevista, Yamile destacó su frustración por la lentitud y la complejidad de los métodos tradicionales para buscar asesoría legal. Valoraría una plataforma que reúna rápidamente entidades legales confiables y permita agendar consultas inmediatas en línea. Sugirió que la plataforma incluya un sistema de respuesta rápida, en el que los usuarios puedan recibir asesoría legal preliminar de forma instantánea a través de chat en vivo o videollamadas, lo cual sería especialmente útil en situaciones de emergencia legal.
 ![image](https://github.com/user-attachments/assets/563e35d9-fb8a-403d-a4ee-7f7df5f60c1a)
 
 
-Entrevista 3: Sandra describió las dificultades en encontrar abogados competentes y cómo una plataforma digital podría simplificar este proceso. Está interesada en funcionalidades que permitan comparar tarifas, leer testimonios de clientes anteriores y ver el historial de casos de los abogados. Sandra considera que un sistema de recomendaciones personalizadas basado en casos anteriores similares y la transparencia en la estructura de tarifas serían altamente beneficiosos. Además, sugirió la integración de un asistente virtual que guíe a los usuarios a través de sus opciones legales basadas en su situación específica.
+Entrevista 3: 
+Sandra expresó las dificultades que enfrenta al buscar abogados competentes y cómo una plataforma digital podría facilitar este proceso. Está interesada en herramientas que permitan comparar tarifas, leer testimonios de clientes anteriores y revisar el historial de casos de los abogados. Considera que un sistema de recomendaciones personalizadas, basado en casos similares, y la transparencia en la estructura de tarifas serían altamente útiles. Además, sugirió la inclusión de un asistente virtual que oriente a los usuarios según su situación específica, ayudándolos a explorar sus opciones legales de manera más efectiva.
 ![image](https://github.com/user-attachments/assets/7f330e69-0cec-4ea2-bcd1-075575fdbd58)
 
 
-Entrevista 4: Jonathan, quien es relativamente nuevo en la búsqueda de servicios legales, destacó la necesidad de un acceso fácil y directo a asesoría legal. Valora una interfaz intuitiva que simplifique el proceso para aquellos no familiarizados con el sistema legal. Propuso que la aplicación debería tener funcionalidades que eduquen al usuario sobre el proceso legal básico y cómo proceder en distintos escenarios legales. Jonathan también mencionó la importancia de tener opciones de soporte al cliente en la plataforma para resolver cualquier duda que pueda surgir durante el proceso.
+Entrevista 4: 
+Jonathan, siendo relativamente nuevo en la búsqueda de servicios legales, subrayó la importancia de contar con un acceso fácil y directo a la asesoría legal. Valora una interfaz sencilla que facilite el proceso para quienes no están familiarizados con el sistema legal. Propuso que la aplicación incluya funcionalidades que eduquen a los usuarios sobre los aspectos básicos del proceso legal y cómo proceder en distintos escenarios. Además, destacó la relevancia de contar con opciones de soporte al cliente dentro de la plataforma, para resolver cualquier duda que pueda surgir durante el proceso.
 ![image](https://github.com/user-attachments/assets/8b07685b-ec51-457e-ad6a-1408032d0043)
 
 Segmento objetivo 2: Abogados Buscando Expandir su Clientela
-Entrevista 5: Hugo expresó su deseo de utilizar tecnología para mejorar la visibilidad y la eficiencia operativa de su firma legal. Está especialmente interesado en una aplicación que permita no solo la promoción efectiva de su firma, sino también la gestión de casos y documentación de forma digital. Hugo sugirió la implementación de herramientas de análisis que le permitan seguir la efectividad de su perfil dentro de la plataforma, incluyendo el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
+Entrevista 5: Hugo manifestó su interés en utilizar la tecnología para mejorar la visibilidad y eficiencia operativa de su firma legal. Está particularmente interesado en una aplicación que no solo facilite la promoción de su firma, sino que también permita la gestión digital de casos y documentación. Además, sugirió incorporar herramientas de análisis que le permitan monitorear el rendimiento de su perfil dentro de la plataforma, como el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
 ![image](https://github.com/user-attachments/assets/91d5fee1-63a5-4972-b17d-5220b55a878b)
 
-Entrevista 6: Victor compartió sus retos como abogado independiente, particularmente en términos de marketing y gestión de clientes. Está interesado en una plataforma que ofrezca robustas herramientas de gestión de clientes que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Victor valoraría especialmente características que promuevan una mayor interacción y personalización en la comunicación con los clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones de casos a través de la plataforma.
+Entrevista 6: Víctor compartió los desafíos que enfrenta como abogado independiente, especialmente en lo relacionado con el marketing y la gestión de clientes. Está interesado en una plataforma que ofrezca herramientas robustas para la gestión de clientes, que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Valoraría particularmente funciones que fomenten una mayor interacción y personalización en la comunicación con sus clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones sobre los casos directamente a través de la plataforma.
 ![image](https://github.com/user-attachments/assets/e69b59fa-a687-4bfc-bbc5-42d49be0a17e)
 
 
@@ -484,22 +500,42 @@ Entrevista 6: Victor compartió sus retos como abogado independiente, particular
 ### 2.2.3. Análisis de entrevistas
 Análisis general del segmento 1: 
 
-Las entrevistas con Martin, Yamile, Sandra y Jonathan reflejan un patrón común: la necesidad de una plataforma confiable para encontrar asesoramiento legal. Una preocupación recurrente es la dificultad de verificar la competencia y credenciales de los abogados. Los usuarios buscan transparencia, facilidad de uso y accesibilidad en sus interacciones con los servicios legales. La confianza se erige como un factor decisivo, influenciada fuertemente por la reputación y recomendaciones de otros clientes.
 
-La demografía joven de los entrevistados indica una inclinación hacia soluciones tecnológicas intuitivas. Todos muestran un dominio competente de la tecnología y están acostumbrados a las interacciones digitales, sugiriendo que una plataforma bien diseñada que facilite la búsqueda y verificación de abogados tiene el potencial de ser muy bien recibida en este segmento.
+Las entrevistas con Martín, Yamile, Sandra y Jonathan revelan un patrón claro: la necesidad de una plataforma confiable para acceder a asesoramiento legal. Un tema recurrente es la dificultad para verificar la competencia y las credenciales de los abogados. Los usuarios buscan transparencia, simplicidad y accesibilidad en sus interacciones con los servicios legales. La confianza es un factor clave, influenciada por la reputación y las recomendaciones de otros clientes.
+
+Dado que los entrevistados pertenecen a una demografía joven, se observa una clara preferencia por soluciones tecnológicas intuitivas. Todos demuestran un uso competente de la tecnología y están familiarizados con las interacciones digitales, lo que sugiere que una plataforma bien diseñada, que facilite la búsqueda y validación de abogados, podría ser muy bien acogida por este segmento.
 
 Análisis general del segmento 2: 
 
-Los abogados Hugo y Víctor expresan un claro interés en plataformas digitales que les permitan llegar a una clientela más amplia. La digitalización de sus prácticas es una tendencia en ascenso, y ambos buscan medios más efectivos que los métodos tradicionales para conectar con posibles clientes. Hugo ya emplea una mezcla de canales digitales y físicos, mientras que Víctor siente la presión de modernizar sus métodos de promoción y comunicación.
+Los abogados Hugo y Víctor manifiestan un claro interés en plataformas digitales que les permitan ampliar su clientela. La digitalización de sus prácticas es una tendencia creciente, y ambos buscan alternativas más eficaces que los métodos tradicionales para atraer a nuevos clientes. Mientras que Hugo ya utiliza una combinación de canales digitales y físicos, Víctor siente la presión de modernizar sus métodos de promoción y comunicación.
 
-Un punto destacado es la adaptabilidad a las nuevas condiciones de mercado, marcadas por una mayor interacción digital. Ambos abogados reconocen el valor de las herramientas que facilitan el contacto inmediato y la gestión de casos. Hay una necesidad de plataformas que no solo les proporcionen visibilidad, sino que también les ayuden a manejar eficientemente su trabajo y relaciones con los clientes. La experiencia y la seriedad son características importantes para ellos, lo que sugiere que una plataforma que destaque estos atributos podría ayudarles a diferenciarse en un mercado competitivo.
-
+Un aspecto clave es la capacidad de adaptarse a las nuevas condiciones del mercado, caracterizado por una mayor interacción digital. Ambos reconocen el valor de herramientas que permitan el contacto inmediato y la gestión eficiente de casos. Existe una necesidad de plataformas que no solo les brinden visibilidad, sino que también faciliten la administración de su trabajo y las relaciones con sus clientes. La experiencia y la profesionalidad son aspectos cruciales para ellos, lo que sugiere que una plataforma que ponga énfasis en estos atributos podría ayudarles a destacarse en un entorno altamente competitivo.
 
 ### 2.3. Needfinding
-En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
+En esta sección se presentarán los artefactos generados a partir del análisis de la información recolectada de los segmentos objetivos. Los artefactos incluyen:
+
+User Personas: Representaciones detalladas de los perfiles de los usuarios típicos, basadas en los datos recopilados. Estas descripciones incluyen sus necesidades, objetivos, comportamientos y puntos de dolor.
+
+User Task Matrix: Una tabla que vincula las tareas específicas que los usuarios deben realizar con las funcionalidades de la plataforma, identificando cómo cada tarea se alinea con las necesidades del usuario.
+
+User Journey Maps: Diagramas que ilustran el recorrido de los usuarios a través de la plataforma, desde el primer contacto hasta la realización de sus objetivos, destacando las interacciones, emociones y posibles puntos de fricción.
+
+Empathy Mapping: Herramientas que ayudan a comprender mejor las emociones, pensamientos, preocupaciones y necesidades de los usuarios, proporcionando una visión más profunda de sus experiencias y perspectivas.
+
+As-Is Scenario Mapping: Mapas que muestran cómo los usuarios actualmente interactúan con los sistemas o procesos existentes, identificando áreas de mejora y oportunidades para la optimización.
 
 ### 2.3.1. User Personas
-En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados a través de user personas. Los datos que se colocan incluye demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, así como también detalles sobre cómo el usuario interactúa con productos similares. Los datos se justifican con las entrevistas que hemos realizado anteriormente. Para el desarrollo de esta sección se ha utilizado la herramienta UXPressia que ofrece facilidades para generar los user personas.
+En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas. Los datos incluidos abarcan:
+
+Demografía: Información sobre edad, género, ocupación y otras características relevantes.
+Personalidad: Descripción de las características de personalidad y cómo estas influyen en el comportamiento del usuario.
+Motivaciones: Razones que impulsan al usuario a buscar o utilizar servicios legales.
+Preferencias: Gustos y expectativas en cuanto a la plataforma y sus funcionalidades.
+Objetivos: Metas que el usuario desea alcanzar a través de la plataforma.
+Desafíos: Obstáculos y problemas que enfrentan los usuarios en su búsqueda de asesoría legal.
+Comportamientos: Patrones de uso y cómo interactúan con productos similares.
+Estos datos están fundamentados en las entrevistas realizadas y se han desarrollado utilizando la herramienta UXPressia, que facilita la creación de user personas detallados.
 User Persona 1:
 ![image](https://github.com/user-attachments/assets/af54f787-b721-4b5b-992b-befd2d332001)
 User Persona 2: 
@@ -508,7 +544,23 @@ User Persona 2:
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high.
+En esta sección se presenta el User Task Matrix, una herramienta clave centrada en los segmentos objetivos que permite identificar las tareas y objetivos principales de los usuarios. Esta matriz facilita la priorización de características y funcionalidades al momento de elaborar el product backlog.
+
+La matriz incluye:
+
+Tareas: Listado de las tareas que los usuarios necesitan realizar dentro de la plataforma.
+Objetivos: Metas que los usuarios buscan alcanzar al llevar a cabo cada tarea.
+Frecuencia: Clasificación de la frecuencia con la que los usuarios realizan cada tarea, utilizando las opciones:
+Never (Nunca)
+Rarely (Raramente)
+Sometimes (A veces)
+Often (A menudo)
+Always (Siempre)
+Importancia: Evaluación de la importancia de cada tarea para los usuarios, con las opciones:
+Low (Baja)
+Medium (Media)
+High (Alta)
+Esta herramienta ayuda a visualizar qué tareas y objetivos son más relevantes para los usuarios, permitiendo así una mejor planificación y priorización en el desarrollo del producto.
 ![image](https://github.com/user-attachments/assets/2cfba5d1-6f5e-46f9-a4da-62e1289a350b)
 
 
@@ -519,14 +571,32 @@ User Journey Mapping 2: Cliente
 ![image](https://github.com/user-attachments/assets/874f8a08-92f5-4d44-8725-1a34fe7d37c9)
 
 ### 2.3.4. Empathy Mapping
-En esta sección se presenta el Empathy Mapping, herramienta para crear un perfil detallado de los User Personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para realizar los diagramas, se ha utilizado UXPressia
+
+En esta sección se presenta el Empathy Mapping, una herramienta que facilita la creación de un perfil detallado de los User Personas y permite desarrollar una comprensión profunda de su perspectiva y experiencia. Los diagramas de empatía proporcionan una visión completa de cómo los usuarios piensan, sienten, dicen y hacen, ayudando a captar mejor sus emociones, preocupaciones y necesidades.
+
+Para la elaboración de estos diagramas, se ha utilizado la herramienta UXPressia, que ofrece facilidades para desarrollar mapas de empatía detallados y precisos. Estos mapas incluyen:
+
+Lo que el usuario piensa: Reflexiones internas, creencias y actitudes.
+Lo que el usuario siente: Emociones y sentimientos predominantes.
+Lo que el usuario dice: Declaraciones y comentarios que el usuario hace sobre su experiencia.
+Lo que el usuario hace: Acciones y comportamientos observables.
+Este enfoque permite una comprensión más rica y matizada de los usuarios, facilitando la creación de soluciones que realmente respondan a sus necesidades y expectativas.
 Empathy Mapping 1: Abogado
 ![image](https://github.com/user-attachments/assets/d6fe033f-e245-413e-a171-89079b2f3708)
 Empathy Mapping 2: Cliente
 ![image](https://github.com/user-attachments/assets/c0e2cb7b-8d78-4b38-a0ce-10bae5ed7fc2)
 
 ### 2.3.5. As-is Scenario Mapping
-En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se identifican y comprenden los puntos de contacto entre el usuario y el software. 
+
+En esta sección se presentan los As-Is Scenario Mapping para ambos segmentos objetivos. Estos mapas detallan los escenarios actuales en los que los usuarios interactúan con el software, identificando y comprendiendo los puntos de contacto y las experiencias a lo largo del proceso.
+
+El As-Is Scenario Mapping incluye:
+
+Puntos de Contacto: Momentos clave donde los usuarios interactúan con la plataforma, como la búsqueda de información, la selección de abogados y la gestión de consultas.
+Experiencias del Usuario: Cómo los usuarios perciben y experimentan cada punto de contacto, incluyendo sus emociones y niveles de satisfacción.
+Problemas y Obstáculos: Dificultades y fricciones que los usuarios enfrentan en su interacción con el software actual.
+Oportunidades de Mejora: Áreas donde se pueden realizar mejoras para optimizar la experiencia del usuario y resolver los problemas identificados.
+Estos mapas ayudan a visualizar el flujo actual de interacción del usuario, permitiendo identificar áreas críticas que necesitan ser optimizadas para mejorar la experiencia general del usuario.
 
 As-is Scenario Mapping 1: Abogado
 ![image](https://github.com/user-attachments/assets/e360594c-17eb-4d20-bd17-cc1f12a2a856)
@@ -2124,28 +2194,27 @@ Por este primer sprint, se muestra las capturas de la landing page
 
 ## Home
 
-<td><img src="https://i.imgur.com/RXF1n5d.png" width="1500"></td>
+<td><img src="https://i.imgur.com/s0nDVkW.png" width="1500"></td>
 
 ## About Us
 
-<td><img src="https://i.imgur.com/BRHgs8y.png" width="1500"></td>
-<td><img src="https://i.imgur.com/9nPaCj6.png" width="1500"></td>
+<td><img src="https://i.imgur.com/LM9kLk4.png" width="1500"></td>
 
 ## Benefits 
 
-<td><img src="https://i.imgur.com/notIOVp.png" width="1500"></td>
+<td><img src="https://i.imgur.com/79ZTogJ.png" width="1500"></td>
 
 ## Testimonies
 
-<td><img src="https://i.imgur.com/in3Dk75.png" width="1500"></td>
+<td><img src="https://i.imgur.com/fHr2H8O.png" width="1500"></td>
 
-## Contact Us
+## Videos
 
-<td><img src="https://i.imgur.com/kDG9bEb.png" width="1500"></td>
+<td><img src="https://i.imgur.com/rLYsRPk.png" width="1500"></td>
 
 ## Footer
 
-<td><img src="https://i.imgur.com/Tdz8Tka.png" width="1500"></td>
+<td><img src="https://i.imgur.com/0LAyeFO.png" width="1500"></td>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2166,12 +2235,55 @@ Aquí se encuentra la captura de las contribuciones de la landing page
 
 <td><img src="https://i.imgur.com/RRyyff6.png" width="1500"></td>
 
+
+
+5.2.2.4. Testing Suite Evidence for Sprint Review
+Los archivos .feature desempeñan un papel fundamental a la hora de las practicas de desarrollo de software orientadas al comportamiento, como el Desarrollo Guiado por Comportamiento (BDD). Donde tienen la funcion de transmitir y automatizar las especificaciones encontradas en las historias de usuario ( User Stories). Para el Sprint 2 se  se abordaron 35 historias de usuario para el Landing Page.
+
+![Captura de pantalla 2024-09-23 131855](https://github.com/user-attachments/assets/0171e01c-dd23-486e-ac2f-98bf96b62df9)
+
+README.MD
+23/09/2024
+![image](https://github.com/user-attachments/assets/c9d6406a-225a-43dc-ba59-053ab1197cd5)
+
+5.2.2.8. Team Collaboration Insights during Sprint
+
+Repositorio del Fronted: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/72ff525b-65f3-48e2-8eee-88fd5b8bb06d)
+![image](https://github.com/user-attachments/assets/d87db1ab-42e5-45c9-9c90-536c64879a09)
+
+Repositorio del Report: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/9bde2cfb-6e92-4392-9f1f-7bce07a6c1fb)
+
+Repositorio del Landing Page: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Landing-Page/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/b0b25048-002d-4d12-892c-04a3d43bfd74)
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+A partir del proceso para completar la primera entrega del proyecto, entendemos que necesitamos una base concisa y clara 
+para poder empezar con la creación de nuestro producto. Tuvimos que realizar distintas investigaciones para determinar 
+nuestro flujo de trabajo. Empezamos con el Lean UX Process, lo que nos permitió conocer de forma exacta nuestro público 
+objetivo, lo que buscamos ofrecer para aplacar sus necesidades y nuestros objetivos como startup. Continuamos con los gráficos 
+AS-IS y TO-BE, de esta manera pudimos representar el estado actual y futuro del flujo que habrá dentro de la aplicación. 
+Así, tendremos la oportunidad de identificar cómo optimizar los procesos. Asimismo, con las entrevistas a nuestros segmentos 
+objetivos previamente identificados, logramos entender sus necesidades y reforzar nuestro diseño de aplicación web. A 
+partir de ello, pudimos crear nuestras User Stories que definirán cómo continuaremos el proyecto y qué debemos cumplir 
+al momento de finalizarlo. Sin embargo, solo para la primera entrega tuvimos en cuenta los que hicimos para la landing 
+page debido a que necesitamos crear un web site que atraiga a los usuarios y mostrarles la razón por la cual nuestra 
+aplicación será una solución viable. En resumen, este primer sprint nos permitió tener una base firme, que se alinea con 
+nuestras metas como empresa y los beneficios que esperamos brindar a los usuarios. Además, el trabajo colaborativo es 
+definitivamente importante para lograr un buen avance en el proyecto.
+
 ### Video About-the-Team
 
 ---
 # Bibliografía
+
 
 Gobierno del Perú. (17 de marzo de 2022). _III Informe bienal sobre la realidad universitaria_. Sunedu. [https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf](https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf)
 
@@ -2179,6 +2291,9 @@ Gobierno del Perú. (12 de agosto de 2020). _II Informe bienal sobre la realidad
 https://cdn.www.gob.pe/uploads/document/file/1230044/Informe%20Bienal.pdf?v=1603336820
 
 Vallecilla, C. (21 de marzo de 2024). El desempleo en Perú dic. 2023 - feb. 2024 no varió, pero se recuperaron casi 640 mil empleos. _tyba- ¡La app de las inversiones en el Perú!_ [https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/](https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/)
+
+https://www.youtube.com/watch?v=2UPnAfuECNk
+
 
 ---
 # Anexos
