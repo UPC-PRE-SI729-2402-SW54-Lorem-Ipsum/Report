@@ -179,34 +179,75 @@ TB1: Mi principal avance fue realizar todo el capitulo II del trabajo final. ***
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+
+
 ## Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
+En este apartado explicaremos quienes son nuestros competidores y su descripción principal. Como una buena estrategia y planeación de un producto, es importante saber a lo que nos vamos a enfrentar en el rubro.
+
+| EMPRESA             | DESCRIPCIÓN                                                                                                                                                                                                                                                                                                                                                             | IMAGEN                                                              |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Lawyered            | Una plataforma que permite el acceso a ayuda legal en India. Permite a los usuarios conectarse con distintos abogados verificados, a un precio razonable. Está disponible 24/7, recomendaciones legales y manejo de documentación.                                                                                                                                      | ![Lawyered Logo](assets/images/lawyered-logo.png)                   |
+| Linkea tu Abogado   | Es una plataforma legal donde los usuarios pueden encontrar distintos tipos de abogados (familiar, laboral, corporativo). Brinda a los usuarios una experiencia transparente debido a que muestra las credenciales de cada abogado y los comentarios de los clientes respecto a estos.                                                                                  | ![Linkea tu Abogado Logo](assets/images/linkea-tu-abogado-logo.png) |
+| Abogado Agil        | Es una aplicación móvil, diseñada para abogados que ayuden a manejar los casos de sus clientes y documentaciones, para mantener un orden. Permite organizar llamadas, grabar notas de voz, tener recordatorios de las presentaciones, monitorea los pagos. Mejora la forma de documentar los archivos del casos, y organización de los calendarios con Google Calendar. | ![Abogado Agil](assets/images/abogado-agil-logo.png)                |
+| Legal Help Abogados | Es una firma de abogados de Colombia que provee servicios legales a distintas compañías. Brindan diferentes soluciones laborales como auditorías legales, propiedad intelectual, entre otros.                                                                                                                                                                           | ![Legal Help Abogados](assets/images/legal-help-abogados.png)       |
+
 ## 2.1.1. Análisis competitivo
-![image](https://github.com/user-attachments/assets/b2b5e4ba-3004-4f64-a1e3-c0fd82d290a8)
-![image](https://github.com/user-attachments/assets/4f281a33-886c-4b00-a6e1-684574394071)
+
+En esta sección analizaremos nuestros competidores de manera profunda. Investigaremos sobre sus fortalezas, debilidades, oportunidades, amenazas, el perfil la empresa y de la solución, lo que brindan. Así, podemos refinar nuestras características y saber que es lo que tenemos en nuestro producto que capte más la atención de nuestro mercado objetivo.
+
+
+|                                             |                                       | Lawyered                                                                                                                             | Linkea tu Abogado                                                                                                                                | Abogado Agil                                                                                                                            | Legal Help Abogados                                                                                                                                     |
+|---------------------------------------------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre y Logo**                           |                                       | ![Lawyered Logo](assets/images/lawyered-logo.png)                                                                                    | ![Linkea tu Abogado Logo](assets/images/linkea-tu-abogado-logo.png)                                                                              | ![Abogado Agil](assets/images/abogado-agil-logo.png)                                                                                    | ![Legal Help Abogados](assets/images/legal-help-abogados.png)                                                                                           |
+| **Perfil**                                  | **Overview**                          | Una aplicación web diseñada para simplificar la búsqueda de abogados, ofreciendo una solución directa y eficiente para los usuarios. | Un sitio web que facilita a los abogados el registro y promoción de sus servicios, permitiendo además recibir contactos de potenciales clientes. | Una aplicación móvil orientada a abogados para el manejo y seguimiento eficaz de sus casos y clientes.                                  | Un portal que mediante una suscripción ofrece servicios legales a empresas, conectando a abogados con corporaciones en busca de asesoría legal.         |
+| **Ventaja competitiva**                     | **¿Qué valor ofrece a los clientes?** | Facilita una amplia red de abogados especializados para una búsqueda rápida y precisa según las necesidades legales del usuario.     | Ofrece una plataforma intuitiva que conecta a los usuarios directamente con abogados locales, fomentando una comunicación eficiente.             | Destaca por su sistema de gestión de casos en tiempo real, permitiendo a los abogados optimizar su productividad y servicio al cliente. | Proporciona acceso a asesoría legal integral para empresas y particulares, con énfasis en la personalización del servicio y la experiencia del usuario. |
+| **Perfil de Marketing**                     | **Mercado objetivo**                  | Individuos y pymes buscando asesoría especializada.                                                                                  | Personas y pequeños negocios que prefieren abogados locales.                                                                                     | Abogados y bufetes enfocados en eficiencia.                                                                                             | Empresas de todos los tamaños que requieren servicios personalizados.                                                                                   |
+| **Perfil de Marketing**                     | **Estrategias de marketing**          | SEO, publicidad en redes sociales, colaboraciones profesionales.                                                                     | Testimonios, marketing local en redes sociales, eventos comunitarios.                                                                            | Demostraciones de producto, publicidad PPC, alianzas con colegios de abogados.                                                          | Contenido de calidad, webinars, marketing de entrada.                                                                                                   |
+| **Perfil de Producto**                      | **Productos & Servicios**             | Plataforma web con amplia selección de abogados especializados.                                                                      | Conexión directa con abogados locales mediante plataforma web.                                                                                   | Aplicación móvil para la gestión eficiente de casos y seguimiento de clientes.                                                          | Asesoría legal integral para empresas a través de una plataforma web.                                                                                   |
+| **Precios & Costos**                        |                                       | Modelo basado en suscripción o tarifas por servicio.                                                                                 | Posible tarifa por conexión o membresía para usuarios.                                                                                           | Suscripción para abogados con opción de prueba gratuita.                                                                                | Modelos de suscripción mensual o anual, con tarifas basadas en servicios específicos.                                                                   |
+| **Canales de distribución (Web y/o Móvil)** |                                       | Aplicación Web                                                                                                                       | Aplicación Web                                                                                                                                   | Aplicación Móvil                                                                                                                        | Aplicación Web                                                                                                                                          |
+| **Análisis SWOT**                           | **Fortalezas**                        | Amplia gama de abogados especializados; interfaz fácil de usar.                                                                      | Conexión directa y personal con abogados locales; fácil acceso.                                                                                  | Optimización de la gestión de casos para abogados; aplicación móvil dedicada.                                                           | Especialización en servicios para empresas; asesoría integral.                                                                                          |
+| **Análisis SWOT**                           | **Debilidades**                       | Puede tener altas tarifas; limitado a la web.                                                                                        | Menor alcance en áreas menos pobladas; dependencia de la web.                                                                                    | Enfoque limitado a abogados, no a clientes directamente; puede requerir curva de aprendizaje.                                           | Puede ser percibido como caro; enfoque limitado al sector empresarial.                                                                                  |
+| **Análisis SWOT**                           | **Oportunidades**                     | Expandir a móvil; añadir más áreas de especialización.                                                                               | Expandirse a áreas rurales; desarrollar una app móvil.                                                                                           | Integración con otras plataformas; expansión a web.                                                                                     | Ampliar servicios a startups y emprendedores; ofrecer paquetes escalables.                                                                              |
+| **Análisis SWOT**                           | **Amenazas**                          | Nuevos competidores; cambios en la regulación legal.                                                                                 | Competencia de plataformas más grandes; variabilidad en la calidad del servicio.                                                                 | Soluciones de gestión de casos integradas por competidores; resistencia al cambio por parte de abogados tradicionales.                  | Firmas de abogados tradicionales; plataformas con modelos de precios más flexibles.                                                                     |
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
 Entre las principales tácticas para superar a la competencia se encuentran:
 
 Personalización del Servicio: Mejorar la atención al cliente, ajustando nuestras soluciones a las necesidades particulares de cada usuario.
+
 Estructura de Precios Atractiva: Implementar un esquema de precios más asequible, con alternativas flexibles que se adapten a diferentes demandas.
+
 Ampliación de Servicios: Extender nuestra oferta a nuevas áreas legales y establecer alianzas con instituciones educativas, brindando prácticas a futuros abogados para enriquecer su experiencia.
+
 Marketing de Contenidos: Crear contenido valioso que consolide nuestra plataforma como líder en el sector legal, mediante blogs, seminarios web y guías legales gratuitas.
-##2.2. Entrevistas
+
+## 2.2. Entrevistas
+
+En este apartado se presentarán las entrevistas realizadas a los segmentos objetivos identificados en los anteriores capítulos. Con la información brindada, podremos conocer más a fondo las necesidades y expectativas de nuestros usuarios, lo que nos permitirá diseñar una solución más efectiva y centrada en sus requerimientos.
+
 ### 2.2.1. Diseño de entrevistas
-Segmento objetivo 1: 
+**Segmento objetivo 1:**
+Personas con problemas legales
+
 Preguntas Generales
 1.	¿Con qué frecuencia necesita servicios legales?
 2.	¿Cómo describiría su experiencia general al buscar asesoría legal?
 3.	¿Qué medios utiliza habitualmente para informarse sobre cuestiones legales?
+
 Preguntas Específicas
 1.	¿Qué características considera esenciales en una plataforma digital para buscar asistencia legal?
 2.	¿Qué dificultades ha encontrado al usar plataformas en línea para asuntos legales?
 3.	¿Cómo prefiere comunicarse con un abogado a través de una plataforma digital? ¿Chat en vivo, email, llamadas telefónicas?
 4.	¿Hay algún servicio adicional que le gustaría que ofreciera una plataforma de asistencia legal que no haya visto disponible actualmente?
 
-Segmento objetivo 2: 
+**Segmento objetivo 2:** 
+Abogados egresados
+
 Preguntas Generales
 1.	¿Qué recursos ha encontrado más útiles en su búsqueda de empleo hasta ahora?
 2.	¿Qué desafíos específicos enfrenta al buscar oportunidades laborales en el campo legal?
@@ -220,56 +261,88 @@ Preguntas Específicas
 5.	¿Considera importante la capacitación continua ofrecida por la plataforma? ¿Qué tipo de cursos o formaciones le gustaría recibir?
 
 ### 2.2.2. Registro de entrevistas
-URL del Entrevistas
-Entrevista 1: https://youtu.be/Ftfy3RGAxzs
 
-Entrevista 2: https://youtu.be/1ytO93D4SMI
-
-Entrevista 3: https://www.youtube.com/watch?v=RZXSZvZ8xoI
-
-Entrevista 4: https://youtu.be/zcJc5LXgo8k
-
-Entrevista 5: https://youtu.be/M2B33WgmdzM
-
-Entrevista 6: https://youtu.be/Qmlv9eSNM8M
+**Segmento objetivo 1:** Personas con problemas legales
 
 
-Segmento objetivo 1: Personas en Busca de Asesoría Legal
-Entrevista 1: En la primera entrevista, Martín manifestó una demanda clara por una plataforma que, además de proporcionar un listado de abogados, ofrezca herramientas avanzadas para verificar la autenticidad y el historial de éxito de cada uno. Él destacó que su decisión suele basarse en la reputación académica y profesional de los abogados, remarcando la relevancia de incluir una sección que permita revisar las calificaciones y opiniones de otros clientes. Además, sugirió la implementación de un sistema de insignias o certificaciones que resalte a los abogados con logros sobresalientes o especializaciones distintivas.
+**Entrevista 1:**
+
+En la primera entrevista, Martín manifestó una demanda clara por una plataforma que, además de proporcionar un listado de abogados, ofrezca herramientas avanzadas para verificar la autenticidad y el historial de éxito de cada uno. Él destacó que su decisión suele basarse en la reputación académica y profesional de los abogados, remarcando la relevancia de incluir una sección que permita revisar las calificaciones y opiniones de otros clientes. Además, sugirió la implementación de un sistema de insignias o certificaciones que resalte a los abogados con logros sobresalientes o especializaciones distintivas.
+
+Enlace de la Entrevista 1: https://youtu.be/Ftfy3RGAxzs
+
 ![image](https://github.com/user-attachments/assets/809ab637-fe84-41b7-9452-b08fdd37e371)
 
+<br>
 
-Entrevista 2: En su entrevista, Yamile destacó su frustración por la lentitud y la complejidad de los métodos tradicionales para buscar asesoría legal. Valoraría una plataforma que reúna rápidamente entidades legales confiables y permita agendar consultas inmediatas en línea. Sugirió que la plataforma incluya un sistema de respuesta rápida, en el que los usuarios puedan recibir asesoría legal preliminar de forma instantánea a través de chat en vivo o videollamadas, lo cual sería especialmente útil en situaciones de emergencia legal.
+
+**Entrevista 2:**
+
+En su entrevista, Yamile destacó su frustración por la lentitud y la complejidad de los métodos tradicionales para buscar asesoría legal. Valoraría una plataforma que reúna rápidamente entidades legales confiables y permita agendar consultas inmediatas en línea. Sugirió que la plataforma incluya un sistema de respuesta rápida, en el que los usuarios puedan recibir asesoría legal preliminar de forma instantánea a través de chat en vivo o videollamadas, lo cual sería especialmente útil en situaciones de emergencia legal.
+
+Enlace de la Entrevista 2: https://youtu.be/1ytO93D4SMI
+
 ![image](https://github.com/user-attachments/assets/563e35d9-fb8a-403d-a4ee-7f7df5f60c1a)
 
+<br>
 
-Entrevista 3: 
+
+**Entrevista 3:**
+
 Sandra expresó las dificultades que enfrenta al buscar abogados competentes y cómo una plataforma digital podría facilitar este proceso. Está interesada en herramientas que permitan comparar tarifas, leer testimonios de clientes anteriores y revisar el historial de casos de los abogados. Considera que un sistema de recomendaciones personalizadas, basado en casos similares, y la transparencia en la estructura de tarifas serían altamente útiles. Además, sugirió la inclusión de un asistente virtual que oriente a los usuarios según su situación específica, ayudándolos a explorar sus opciones legales de manera más efectiva.
+
+Enlace de la Entrevista 3: https://www.youtube.com/watch?v=RZXSZvZ8xoI
+
 ![image](https://github.com/user-attachments/assets/7f330e69-0cec-4ea2-bcd1-075575fdbd58)
 
+<br>
 
-Entrevista 4: 
+
+**Entrevista 4:**
+
 Jonathan, siendo relativamente nuevo en la búsqueda de servicios legales, subrayó la importancia de contar con un acceso fácil y directo a la asesoría legal. Valora una interfaz sencilla que facilite el proceso para quienes no están familiarizados con el sistema legal. Propuso que la aplicación incluya funcionalidades que eduquen a los usuarios sobre los aspectos básicos del proceso legal y cómo proceder en distintos escenarios. Además, destacó la relevancia de contar con opciones de soporte al cliente dentro de la plataforma, para resolver cualquier duda que pueda surgir durante el proceso.
+
+Enlace de la Entrevista 4: https://youtu.be/zcJc5LXgo8k
+
 ![image](https://github.com/user-attachments/assets/8b07685b-ec51-457e-ad6a-1408032d0043)
 
-Segmento objetivo 2: Abogados Buscando Expandir su Clientela
-Entrevista 5: Hugo manifestó su interés en utilizar la tecnología para mejorar la visibilidad y eficiencia operativa de su firma legal. Está particularmente interesado en una aplicación que no solo facilite la promoción de su firma, sino que también permita la gestión digital de casos y documentación. Además, sugirió incorporar herramientas de análisis que le permitan monitorear el rendimiento de su perfil dentro de la plataforma, como el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
+<br>
+
+
+**Segmento objetivo 2:** Abogados Buscando Expandir su Clientela
+
+**Entrevista 5:** 
+
+Hugo manifestó su interés en utilizar la tecnología para mejorar la visibilidad y eficiencia operativa de su firma legal. Está particularmente interesado en una aplicación que no solo facilite la promoción de su firma, sino que también permita la gestión digital de casos y documentación. Además, sugirió incorporar herramientas de análisis que le permitan monitorear el rendimiento de su perfil dentro de la plataforma, como el número de consultas recibidas, la tasa de conversión de clientes y el feedback de los usuarios.
+
+Enlace de la Entrevista 5: https://youtu.be/M2B33WgmdzM
+
 ![image](https://github.com/user-attachments/assets/91d5fee1-63a5-4972-b17d-5220b55a878b)
 
-Entrevista 6: Víctor compartió los desafíos que enfrenta como abogado independiente, especialmente en lo relacionado con el marketing y la gestión de clientes. Está interesado en una plataforma que ofrezca herramientas robustas para la gestión de clientes, que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Valoraría particularmente funciones que fomenten una mayor interacción y personalización en la comunicación con sus clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones sobre los casos directamente a través de la plataforma.
+<br>
+
+
+**Entrevista 6:** 
+
+Víctor compartió los desafíos que enfrenta como abogado independiente, especialmente en lo relacionado con el marketing y la gestión de clientes. Está interesado en una plataforma que ofrezca herramientas robustas para la gestión de clientes, que incluyan seguimiento de casos, programación de citas y comunicaciones automatizadas. Valoraría particularmente funciones que fomenten una mayor interacción y personalización en la comunicación con sus clientes, como notificaciones personalizadas y la capacidad de enviar actualizaciones sobre los casos directamente a través de la plataforma.
+
+Enlace de la Entrevista 6: https://youtu.be/Qmlv9eSNM8M
+
 ![image](https://github.com/user-attachments/assets/e69b59fa-a687-4bfc-bbc5-42d49be0a17e)
+
+<br>
 
 
 
 ### 2.2.3. Análisis de entrevistas
-Análisis general del segmento 1: 
+**Análisis general del segmento objetivo 1 - Personas con problemas legales:** 
 
 
 Las entrevistas con Martín, Yamile, Sandra y Jonathan revelan un patrón claro: la necesidad de una plataforma confiable para acceder a asesoramiento legal. Un tema recurrente es la dificultad para verificar la competencia y las credenciales de los abogados. Los usuarios buscan transparencia, simplicidad y accesibilidad en sus interacciones con los servicios legales. La confianza es un factor clave, influenciada por la reputación y las recomendaciones de otros clientes.
 
 Dado que los entrevistados pertenecen a una demografía joven, se observa una clara preferencia por soluciones tecnológicas intuitivas. Todos demuestran un uso competente de la tecnología y están familiarizados con las interacciones digitales, lo que sugiere que una plataforma bien diseñada, que facilite la búsqueda y validación de abogados, podría ser muy bien acogida por este segmento.
 
-Análisis general del segmento 2: 
+**Análisis general del segmento objetivo 2 - Abogados Buscando Expandir su Clientela:**
 
 Los abogados Hugo y Víctor manifiestan un claro interés en plataformas digitales que les permitan ampliar su clientela. La digitalización de sus prácticas es una tendencia creciente, y ambos buscan alternativas más eficaces que los métodos tradicionales para atraer a nuevos clientes. Mientras que Hugo ya utiliza una combinación de canales digitales y físicos, Víctor siente la presión de modernizar sus métodos de promoción y comunicación.
 
@@ -279,7 +352,7 @@ Un aspecto clave es la capacidad de adaptarse a las nuevas condiciones del merca
 
 En esta sección se presentarán los artefactos generados a partir del análisis de la información recolectada de los segmentos objetivos. Los artefactos incluyen:
 
-User Personas: Representaciones detalladas de los perfiles de los usuarios típicos, basadas en los datos recopilados. Estas descripciones incluyen sus necesidades, objetivos, comportamientos y puntos de dolor.
+User Persona: Representaciones detalladas de los perfiles de los usuarios típicos, basadas en los datos recopilados. Estas descripciones incluyen sus necesidades, objetivos, comportamientos y puntos de dolor.
 
 User Task Matrix: Una tabla que vincula las tareas específicas que los usuarios deben realizar con las funcionalidades de la plataforma, identificando cómo cada tarea se alinea con las necesidades del usuario.
 
@@ -292,17 +365,27 @@ As-Is Scenario Mapping: Mapas que muestran cómo los usuarios actualmente intera
 ### 2.3.1. User Personas
 En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados mediante user personas. Los datos incluidos abarcan:
 
-Demografía: Información sobre edad, género, ocupación y otras características relevantes.
-Personalidad: Descripción de las características de personalidad y cómo estas influyen en el comportamiento del usuario.
-Motivaciones: Razones que impulsan al usuario a buscar o utilizar servicios legales.
-Preferencias: Gustos y expectativas en cuanto a la plataforma y sus funcionalidades.
-Objetivos: Metas que el usuario desea alcanzar a través de la plataforma.
-Desafíos: Obstáculos y problemas que enfrentan los usuarios en su búsqueda de asesoría legal.
-Comportamientos: Patrones de uso y cómo interactúan con productos similares.
+**Demografía:** Información sobre edad, género, ocupación y otras características relevantes.
+
+**Personalidad:** Descripción de las características de personalidad y cómo estas influyen en el comportamiento del usuario.
+
+**Motivaciones:** Razones que impulsan al usuario a buscar o utilizar servicios legales.
+
+**Preferencias:** Gustos y expectativas en cuanto a la plataforma y sus funcionalidades.
+
+**Objetivos:** Metas que el usuario desea alcanzar a través de la plataforma.
+
+**Desafíos:** Obstáculos y problemas que enfrentan los usuarios en su búsqueda de asesoría legal.
+
+**Comportamientos:** Patrones de uso y cómo interactúan con productos similares.
 Estos datos están fundamentados en las entrevistas realizadas y se han desarrollado utilizando la herramienta UXPressia, que facilita la creación de user personas detallados.
-User Persona 1:
-![image](https://github.com/user-attachments/assets/af54f787-b721-4b5b-992b-befd2d332001)
-User Persona 2: 
+
+**User Persona 1:**
+
+![Lucia Martinez](assets/images/lucia-martinez.png)
+
+**User Persona 2:** 
+
 ![image](https://github.com/user-attachments/assets/fd859fe0-f6bf-4f73-b6a5-965054dc4f37)
 
 
@@ -310,28 +393,48 @@ User Persona 2:
 
 En esta sección se presenta el User Task Matrix, una herramienta clave centrada en los segmentos objetivos que permite identificar las tareas y objetivos principales de los usuarios. Esta matriz facilita la priorización de características y funcionalidades al momento de elaborar el product backlog.
 
-La matriz incluye:
+**La matriz incluye:**
 
-Tareas: Listado de las tareas que los usuarios necesitan realizar dentro de la plataforma.
-Objetivos: Metas que los usuarios buscan alcanzar al llevar a cabo cada tarea.
-Frecuencia: Clasificación de la frecuencia con la que los usuarios realizan cada tarea, utilizando las opciones:
+**Tareas:** Listado de las tareas que los usuarios necesitan realizar dentro de la plataforma.
+
+**Objetivos:** Metas que los usuarios buscan alcanzar al llevar a cabo cada tarea.
+
+**Frecuencia:** Clasificación de la frecuencia con la que los usuarios realizan cada tarea, utilizando las opciones:
+
 Never (Nunca)
 Rarely (Raramente)
 Sometimes (A veces)
 Often (A menudo)
 Always (Siempre)
-Importancia: Evaluación de la importancia de cada tarea para los usuarios, con las opciones:
+
+**Importancia:** Evaluación de la importancia de cada tarea para los usuarios, con las opciones:
+
 Low (Baja)
 Medium (Media)
 High (Alta)
-Esta herramienta ayuda a visualizar qué tareas y objetivos son más relevantes para los usuarios, permitiendo así una mejor planificación y priorización en el desarrollo del producto.
-![image](https://github.com/user-attachments/assets/2cfba5d1-6f5e-46f9-a4da-62e1289a350b)
 
+Esta herramienta ayuda a visualizar qué tareas y objetivos son más relevantes para los usuarios, permitiendo así una mejor planificación y priorización en el desarrollo del producto.
+
+|                                                    | Jean          | Persona en busca de asesorías legales | Lucía         | Abogada        |
+|----------------------------------------------------|---------------|---------------------------------------|---------------|----------------|
+| **User Task**                                      | **Frequency** | **Importance**                        | **Frequency** | **Importance** |
+| Buscar a abogados para asesoramiento legal         | Sometimes     | High                                  | Never         | Medium         |
+| Evaluar la experiencia de cada abogado             | Sometimes     | Medium                                | Never         | Medium         |
+| Valorar a abogados por los servicios realizados    | Rarely        | Low                                   | Never         | High           |
+| Contactar con abogado/cliente                      | Always        | High                                  | Always        | High           |
+| Explicar/escuchar problema o necesidad del cliente | Always        | High                                  | Always        | High           |
+| Ofrecer servicio por plataformas                   | Never         | Low                                   | Often         | High           |
+| Promocionar servicios ofrecidos                    | Never         | Low                                   | Sometimes     | Medium         |
+| Realizar el servicio solicitado                    | Never         | Low                                   | Sometimes     | High           |
 
 ### 2.3.3. User Journey Mapping
+
 User Journey Mapping 1: Abogado
+
 ![image](https://github.com/user-attachments/assets/caec16fb-5167-4d00-8d9c-c6f0114ee9f0)
+
 User Journey Mapping 2: Cliente
+
 ![image](https://github.com/user-attachments/assets/874f8a08-92f5-4d44-8725-1a34fe7d37c9)
 
 ### 2.3.4. Empathy Mapping
@@ -340,14 +443,23 @@ En esta sección se presenta el Empathy Mapping, una herramienta que facilita la
 
 Para la elaboración de estos diagramas, se ha utilizado la herramienta UXPressia, que ofrece facilidades para desarrollar mapas de empatía detallados y precisos. Estos mapas incluyen:
 
-Lo que el usuario piensa: Reflexiones internas, creencias y actitudes.
-Lo que el usuario siente: Emociones y sentimientos predominantes.
-Lo que el usuario dice: Declaraciones y comentarios que el usuario hace sobre su experiencia.
-Lo que el usuario hace: Acciones y comportamientos observables.
+**Lo que el usuario piensa:** Reflexiones internas, creencias y actitudes.
+
+**Lo que el usuario siente:** Emociones y sentimientos predominantes.
+
+**Lo que el usuario dice:** Declaraciones y comentarios que el usuario hace sobre su experiencia.
+
+**Lo que el usuario hace:** Acciones y comportamientos observables.
+
 Este enfoque permite una comprensión más rica y matizada de los usuarios, facilitando la creación de soluciones que realmente respondan a sus necesidades y expectativas.
-Empathy Mapping 1: Abogado
+
+**Empathy Mapping 1:** Abogado que busca expandir su clientela
+
+
 ![image](https://github.com/user-attachments/assets/d6fe033f-e245-413e-a171-89079b2f3708)
-Empathy Mapping 2: Cliente
+
+**Empathy Mapping 2:** Cliente en busca de asesoría legal
+
 ![image](https://github.com/user-attachments/assets/c0e2cb7b-8d78-4b38-a0ce-10bae5ed7fc2)
 
 ### 2.3.5. As-is Scenario Mapping
@@ -356,32 +468,62 @@ En esta sección se presentan los As-Is Scenario Mapping para ambos segmentos ob
 
 El As-Is Scenario Mapping incluye:
 
-Puntos de Contacto: Momentos clave donde los usuarios interactúan con la plataforma, como la búsqueda de información, la selección de abogados y la gestión de consultas.
-Experiencias del Usuario: Cómo los usuarios perciben y experimentan cada punto de contacto, incluyendo sus emociones y niveles de satisfacción.
-Problemas y Obstáculos: Dificultades y fricciones que los usuarios enfrentan en su interacción con el software actual.
-Oportunidades de Mejora: Áreas donde se pueden realizar mejoras para optimizar la experiencia del usuario y resolver los problemas identificados.
+**Puntos de Contacto:** Momentos clave donde los usuarios interactúan con la plataforma, como la búsqueda de información, la selección de abogados y la gestión de consultas.
+
+**Experiencias del Usuario:** Cómo los usuarios perciben y experimentan cada punto de contacto, incluyendo sus emociones y niveles de satisfacción.
+
+**Problemas y Obstáculos:** Dificultades y fricciones que los usuarios enfrentan en su interacción con el software actual.
+
+**Oportunidades de Mejora:** Áreas donde se pueden realizar mejoras para optimizar la experiencia del usuario y resolver los problemas identificados.
+
 Estos mapas ayudan a visualizar el flujo actual de interacción del usuario, permitiendo identificar áreas críticas que necesitan ser optimizadas para mejorar la experiencia general del usuario.
 
-As-is Scenario Mapping 1: Abogado
+**As-is Scenario Mapping 1:** Abogado que busca expandir su clientela
+
 ![image](https://github.com/user-attachments/assets/e360594c-17eb-4d20-bd17-cc1f12a2a856)
-As-is Scenario Mapping 2: Cliente
+
+**As-is Scenario Mapping 2:** Cliente en busca de asesoría legal
+
 ![image](https://github.com/user-attachments/assets/79f9b306-eff5-4eb1-a9d8-e2c2cc7f7584)
 
 ### 2.4. Ubiquitous Language
+
+**Lawyer (Abogado):**
+
+Definición: Es un usuario que está registrado en la aplicación con su respectivo rol (Lawyer/Abogado) que ofrece servicios legales en la plataforma y puede gestionar sus casos respecto a cada cliente que obtenga. El abogado se encarga de definir su horarios, el precio de sus servicios y subir la documentación de cada caso que resuelva o esté en proceso.
+
+**Clients (Clientes):**
+
+Definición: Es un usuario que busca asesoría legal para resolver sus problemas legales y se registra en la plataforma para contactar con abogados. Es posible que vea el desarrollo de su caso en conjunto con el abogado. Tiene la opción de comentar y calificar a cada abogado para mejorar la experiencia en la aplicación.
+
+**Cases (Caso):**
+
+Definición: Es el conjunto de consultas y documentación relacionados con caso específico de un cliente gestionado por un abogado. Es visible para ambos usuarios, de esta manera el proceso es transparente.
+
+**Consultation (Consultas):**
+
+Definición: Es una solicitud de un cliente con un abogado para obtener asesoría o resolver dudas legales, se conversa dentro de la aplicación con el abogado para determinar la cita y determinar cómo se va a llevar a cabo la estructuración del caso o defensa del cliente.
+
+**Appointment (Cita):**
+
+Definición: Se refiere a una reunión programada entre un cliente y un abogado para discutir un caso o consulta dentro de la aplicación. Estos horarios son previamente definidos por el abogado y el cliente escoge uno que se adapte a su propio tiempo.
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
 Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron nuevos procesos enfocados en mejorar las fases de los segmentos objetivos con nuestro proyecto.
 
 **_Segmento Objetivo 1: Lucía Martinez - Abogada_**
-<img src="images/To-Be-mapping-abogado.jpg" alt="Segmento Objetivo 1: Lucía Martinez - Abogada"/>
+
+<img src="assets/images/To-Be-mapping-abogado.jpg" alt="Segmento Objetivo 1: Lucía Martinez - Abogada"/>
 
 **_Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente_**
-<img src="images/To-Be-mapping-cliente.jpg" alt="Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente"/>
+<img src="assets/images/To-Be-mapping-cliente.jpg" alt="Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente"/>
 
 
 Link en miro:
 https://miro.com/app/board/uXjVKlph1rQ=/?share_link_id=13813214961
+
 ## 3.2. User Stories
 Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
 
