@@ -76,16 +76,16 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
 **Contributors Insights report:**
-![alt text](images/Commits-report-tb1.png)
+![alt text](assets/images/Commits-report-tb1.png)
 
 **Contributors Insights landing page:**
-![alt text](images/Commits-Landing-tb1.png)
+![alt text](assets/images/Commits-Landing-tb1.png)
 
 **Network Insights report:**
-![alt text](images/Network-report-tb1.png)
+![alt text](assets/images/Network-report-tb1.png)
 
 **Network Insights report:**
-![alt text](images/Network-landing-tb1.png)
+![alt text](assets/images/Network-landing-tb1.png)
 
 ---
 # Student Outcome
@@ -239,15 +239,15 @@ Lorem Ipsum es una startup conformada por un grupo de estudiantes de la carrera 
 
 |                             **U201923994**                             |                                                                                                                                                                                                                                                                                             Avellaneda Ramos, Carlos Edward                                                                                                                                                                                                                                                                                             |
 |:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **![Charlie Avellanada](assets/img/Chapter-01/CharlieAvellanada.png)** |                                                                                                          *Ingeniería de Software*<br><br>Soy una persona amigable, me gusta hacer creación de contenido, y también me agrada el trabajo en equipo. Tengo experiencia en Frontend y Backend, he realizado proyectos para empresas pequeñas. Me especializo en la programación y tengo conocimientos en la creación de páginas web y videojuegos. Además de usar herramientas para edición de imágenes o videos.                                                                                                          |
+| **![Charlie Avellanada](assets/images/Chapter-01/CharlieAvellanada.png)** |                                                                                                          *Ingeniería de Software*<br><br>Soy una persona amigable, me gusta hacer creación de contenido, y también me agrada el trabajo en equipo. Tengo experiencia en Frontend y Backend, he realizado proyectos para empresas pequeñas. Me especializo en la programación y tengo conocimientos en la creación de páginas web y videojuegos. Además de usar herramientas para edición de imágenes o videos.                                                                                                          |
 |                             **U202118946**                             |                                                                                                                                                                                                                                                                                          **La Madrid Lozano, Ivan Jeanpierre**                                                                                                                                                                                                                                                                                          |
-|       ![Ivan La Madrid](assets/img/Chapter-01/IvanLaMadrid.png)        |                                                                                                                              *Ingeniería de Software*<br><br>Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.                                                                                                                              |
+|       ![Ivan La Madrid](assets/images/Chapter-01/IvanLaMadrid.png)        |                                                                                                                              *Ingeniería de Software*<br><br>Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.                                                                                                                              |
 |                             **U20211A118**                             |                                                                                                                                                                                                                                                                                          **Condori Lozano, Alessandro Ramiro**                                                                                                                                                                                                                                                                                          |
-| **![Alessandro Condori](assets/img/Chapter-01/AlessandroCondori.jpg)** |                                                                                                                        *Ingeniería de Software*<br><br>Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.                                                                                                                         |
+| **![Alessandro Condori](assets/images/Chapter-01/AlessandroCondori.jpg)** |                                                                                                                        *Ingeniería de Software*<br><br>Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.                                                                                                                         |
 |                             **U202110385**                             |                                                                                                                                                                                                                                                                                            **Loli Ramirez, Camila Cristina**                                                                                                                                                                                                                                                                                            |
-|        **![Camila Loli](assets/img/Chapter-01/CamilaLoli.jpg)**        |                         *Ingeniería de Software*<br><br>Soy Camila Cristina Loli Ramirez, tengo 20 años y soy alumna de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.                          |
+|        **![Camila Loli](assets/images/Chapter-01/CamilaLoli.jpg)**        |                         *Ingeniería de Software*<br><br>Soy Camila Cristina Loli Ramirez, tengo 20 años y soy alumna de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.                          |
 |                             **U202119257**                             |                                                                                                                                                                                                                                                                                             **Pariona Lucas, Jose Manuel**                                                                                                                                                                                                                                                                                              |
-|       **![Jose Pariona](assets/img/Chapter-01/JosePariona.png)**       | *Ingeniería de Software*<br><br>Tengo 18 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar. |
+|       **![Jose Pariona](assets/images/Chapter-01/JosePariona.png)**       | *Ingeniería de Software*<br><br>Tengo 18 años. En la actualidad estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios y avanzados en algunos lenguajes de programación. HTML, CSS, JAVASCRIPT (Avanzado) C++, JAVA, PYTHON (Intermedio) Esto con respecto a la programación, además también de conocimientos con desarrollo web y desarrollo de apps. Me considero una persona responsable, que inspira confianza en el trabajo en grupo. Además, soy bastante adaptativo a la presión y los problemas que pueden llegar a pasar. |
 
 ## 1.2 Solution Profile
 
@@ -279,13 +279,13 @@ Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hech
 
 Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página 10 del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
 
-![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/img/Chapter-01/Estadistica-01.png)
+![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/images/Chapter-01/Estadistica-01.png)
 
 *Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera. Fuente: Sunedu, 2022.*
 
 En el segundo gráfico se muestra el tiempo que demora a los egresados encontrar trabajo luego de su graduación acorde a su experiencia laboral. A los egresados sin experiencia previa en el rubro les toma 9,4 meses encontrar un puesto para laborar; la cantidad de meses disminuye a medida que la cantidad de tiempo trabajado en prácticas pre profesionales es mayor. Al tener en cuenta estos números, se comprueba que hay más dificultad al momento de buscar trabajo sin experiencia previa.
 
-**![Estadística sobre el tiempo que le toma a los egresados encontrar trabajo considerando su experiencia previa](assets/img/Chapter-01/Estadistica-02.png)**
+**![Estadística sobre el tiempo que le toma a los egresados encontrar trabajo considerando su experiencia previa](assets/images/Chapter-01/Estadistica-02.png)**
 
 *Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera acorde a su experiencia laboral durante su carrera. Fuente: Sunedu 2022.*
 
@@ -747,11 +747,12 @@ Definición: Se refiere a una reunión programada entre un cliente y un abogado 
 Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron nuevos procesos enfocados en mejorar las fases de los segmentos objetivos con nuestro proyecto.
 
 **_Segmento Objetivo 1: Lucía Martinez - Abogada_**
-<img src="images/To-Be-mapping-abogado.jpg" alt="Segmento Objetivo 1: Lucía Martinez - Abogada"/>
+
+![To-Be Scenario Mapping 1](assets/images/To-Be-mapping-abogado.jpg)
 
 **_Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente_**
-<img src="images/To-Be-mapping-cliente.jpg" alt="Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente"/>
 
+![To-Be Scenario Mapping 2](assets/images/To-Be-mapping-cliente.jpg)
 
 Link en miro:
 https://miro.com/app/board/uXjVKlph1rQ=/?share_link_id=13813214961
@@ -1482,11 +1483,11 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
 **_Segmento Objetivo 1: Lucía Martinez - Abogada_**
-<img src="images/Impact-map-abogado.png" alt="Segmento Objetivo 1: Lucía Martinez - Abogada"/>
+![Impact Mapping](assets/images/To-Be-mapping-abogado.jpg)
+
 
 **_Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente_**
-<img src="images/Impact-map-cliente.png" alt="Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente"/>
-
+![Impact Mapping](assets/images/To-Be-mapping-cliente.jpg)
 
 ## 3.4. Product Backlog
 
