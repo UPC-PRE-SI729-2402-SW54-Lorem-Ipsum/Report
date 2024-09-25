@@ -95,8 +95,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5 | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita  | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5 | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita  | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
 
 
 ---
@@ -277,7 +277,7 @@ Para realizar los antecedentes y problemáticas, se realizó con anticipación l
 
 Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hecho por Sunedu (2022) para analizar el estado de los estudiantes universitarios - incluye de todo tipo de instituciones, sea privada o pública y a los de otros departamentos en el país - antes, durante y después de su formación superior académica, se pueden analizar dos gráficos estadísticos que explican la gravedad de la situación de los egresados.
 
-Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página X del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
+Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado. A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aun así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página 10 del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
 
 ![Estadística sobre la cantidad de meses que demora a un egresado encontrar su primer trabajo](assets/img/Chapter-01/Estadistica-01.png)
 
@@ -307,19 +307,19 @@ El estado actual de la búsqueda de servicios legales en el Perú se ha centrado
 
 **Business Outcomes:**
 
-* **Creo que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
+* **Creemos que mis usuarios necesitan** una plataforma que les permita encontrar asistencia legal de manera eficiente y confiable con abogados calificados.
 * **Estas necesidades se pueden resolver** una aplicación web amigable que conecte a las personas con serios problemas legales con abogados egresados que estén interesados en ofrecer sus servicios.
-* **Mis clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
-* **El valor #1 que un cliente requiere de mi servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
+* **Nuestros clientes iniciales son** personas con casos legales que desean encontrar asistencia legal para hallar una solución viable y abogados recién graduados en búsqueda de oportunidades laborales.
+* **El valor #1 que un cliente requiere de nuestro servicio es** una comunicación clara, efectiva y rápida entre cliente y abogado.
 * **El cliente también puede obtener estos beneficios adicionales** como accesibilidad a servicios legales a precios asequibles y seguimiento de sus respectivos casos.
-* **Voy a adquirir a mis clientes a través de** estrategias de marketing digital en las aplicaciones más utilizadas dentro del rango de edad delimitado para ambos segmentos objetivos. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos.
-* **Haré dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
-* **Mi competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
+* **Adquiriremos a nuestros clientes a través del** uso de una landing page que explique el funcionamiento de nuestra aplicación, que ofrecemos, formas de contactarnos y como la LawConnect implica una mejora exponencial para su currículum (en el caso de los abogados) o varias formas disponibles de resolver un problema legal de manera rápida, sencilla e intuitiva. Asimismo, esperamos tener la oportunidad de asistir a universidades y mostrar nuestra propuesta a los alumnos estudiantes de derecho.
+* **Haremos dinero a través de** suscripciones premium para servicios adicionales y comisiones por caso resuelto (un monto bastante ligero al tener en cuenta que los abogados van a ser recién egresados de la universidad).
+* **Nuestra competencia de mercado serán** las firmas de abogados cimentadas en el rubro y reconocidas, y plataformas en línea que ofrecen vacantes de trabajo a los egresados.
 * **Los venceremos debido a que** ofrecemos una solución accesible y enfocada a los últimos cambios en la tecnología. De esta forma, mantenemos una aplicación relevante en un mundo tan avanzado tecnológicamente.
-* **Mis mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
+* **Nuestros mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
 * **Resolveremos esto mediante** campañas de sensibilización sobre la seguridad, consejos para reconocer cuando una aplicación es confiable y cuando no.
 * **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** incremento en la tasa de abogados recientemente egresados contratados y de clientes en nuestra aplicación debido a que confían en nosotros.
-* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que la un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
+* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que da un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
 
 **User Outcomes**
 
@@ -404,14 +404,15 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 En esta parte se describirá los segmentos objetivos a los que se enfocará nuestra solución. Se explicará las características de cada segmento y sus necesidades, de esta forma podemos enfocarnos en la forma de cómo satisfacerlas.
 
+**Personas con problemas legales**
+
+Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible. En este caso, los problemas legales pueden ser de cualquier tipo: familiar, laboral, corporativo, entre otros. Buscan un abogado calificado para evitar errores durante el caso y tener una defensa sólida en los posibles juicios.
+
+
 **Abogados egresados**
 
-Abogados egresados en búsqueda de trabajo debido a la alta demanda presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía.
+Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía. Esta experiencia es necesaria para fortalecer su perfil profesional, tener más oportunidades laborales en el futuro. Pero, esto va a ser acorde a la especialización que decidan; por ejemplo, si son abogados familiares, solamente se enfocarán en ello dentro de la aplicación.
 
-
-**Personas con problemas legales** 
-
-Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -2353,6 +2354,33 @@ Aquí se encuentra la captura de las contribuciones de la landing page
 
 <td><img src="https://i.imgur.com/RRyyff6.png" width="1500"></td>
 
+
+
+5.2.2.4. Testing Suite Evidence for Sprint Review
+Los archivos .feature desempeñan un papel fundamental a la hora de las practicas de desarrollo de software orientadas al comportamiento, como el Desarrollo Guiado por Comportamiento (BDD). Donde tienen la funcion de transmitir y automatizar las especificaciones encontradas en las historias de usuario ( User Stories). Para el Sprint 2 se  se abordaron 35 historias de usuario para el Landing Page.
+
+![Captura de pantalla 2024-09-23 131855](https://github.com/user-attachments/assets/0171e01c-dd23-486e-ac2f-98bf96b62df9)
+
+README.MD
+23/09/2024
+![image](https://github.com/user-attachments/assets/c9d6406a-225a-43dc-ba59-053ab1197cd5)
+
+5.2.2.8. Team Collaboration Insights during Sprint
+
+Repositorio del Fronted: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/72ff525b-65f3-48e2-8eee-88fd5b8bb06d)
+![image](https://github.com/user-attachments/assets/d87db1ab-42e5-45c9-9c90-536c64879a09)
+
+Repositorio del Report: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/9bde2cfb-6e92-4392-9f1f-7bce07a6c1fb)
+
+Repositorio del Landing Page: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Landing-Page/graphs/contributors
+
+![image](https://github.com/user-attachments/assets/b0b25048-002d-4d12-892c-04a3d43bfd74)
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
@@ -2375,7 +2403,16 @@ definitivamente importante para lograr un buen avance en el proyecto.
 ---
 # Bibliografía
 
+
+Gobierno del Perú. (17 de marzo de 2022). _III Informe bienal sobre la realidad universitaria_. Sunedu. [https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf](https://cdn.www.gob.pe/uploads/document/file/3018068/III%20Informe%20Bienal.pdf)
+
+Gobierno del Perú. (12 de agosto de 2020). _II Informe bienal sobre la realidad universitaria_. Sunedu.
+https://cdn.www.gob.pe/uploads/document/file/1230044/Informe%20Bienal.pdf?v=1603336820
+
+Vallecilla, C. (21 de marzo de 2024). El desempleo en Perú dic. 2023 - feb. 2024 no varió, pero se recuperaron casi 640 mil empleos. _tyba- ¡La app de las inversiones en el Perú!_ [https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/](https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/)
+
 https://www.youtube.com/watch?v=2UPnAfuECNk
+
 
 ---
 # Anexos
