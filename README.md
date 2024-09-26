@@ -93,10 +93,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5 | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la pagina web. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita  | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Conclusiones                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward** <br> ***TB1:*** Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge <br> <br> **Loli Ramirez, Camila Cristina**<br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas. <br> <br> **Pariona Lucas Jose Manuel** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la sitio web. <br> <br> **Condori Lozano, Alessandro Ramiro** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. <br><br> **La Madrid Lozano Ivan jeanpierre** <br> ***TB1:*** Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5                                                                                                                                                                                                                                   | ***TB1:*** Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. <br><br> | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Avellaneda Ramos Carlos Edward*** <br> ***TB1:*** Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app <br> <br>**Loli Ramirez, Camila Cristina**<br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br> <br> ***Pariona Lucas Jose Manuel*** <br> ***TB1:*** Mi trabajo en la TB1 fue hacer el Capitulo 2. <br> <br> ***TP1:*** Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted del sitio web. <br> <br> ***Condori Lozano, Alessandro Ramiro*** <br> ***TB1:*** En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico. <br> <br>  ***La Madrid Lozano Ivan jeanpierre*** <br> ***TB1:*** Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita | ***TB1:*** En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances. <br><br> |
 
 
 ---
@@ -319,7 +319,7 @@ El estado actual de la búsqueda de servicios legales en el Perú se ha centrado
 * **Nuestros mayores riesgos son** la desconfianza de los usuarios en los servicios legales en línea y la saturación que presenta el rubro de derecho.
 * **Resolveremos esto mediante** campañas de sensibilización sobre la seguridad, consejos para reconocer cuando una aplicación es confiable y cuando no.
 * **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** incremento en la tasa de abogados recientemente egresados contratados y de clientes en nuestra aplicación debido a que confían en nosotros.
-* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que da un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar su servicios mediante una plataforma en línea.
+* **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** los clientes estén dispuestos a darle una oportunidad a una aplicación completamente nueva que da un gran giro a lo tradicional en el rubro y que los abogados estén interesados en brindar sus servicios mediante una plataforma en línea.
 
 **User Outcomes**
 
@@ -358,7 +358,7 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
-* La aplicación debe verse elegante y confiable al ojo de los usuarios. Mayormente, cuando algo está relacionado al derecho, se espera que todo se tome con seriedad y eso es exactamente lo que busca transmitir LawConnect.
+* La aplicación debe verse elegante y confiable al ojo de los usuarios. Mayormente, cuando algo está relacionado con el rubro de derecho, se espera que todo se tome con seriedad y eso es exactamente lo que busca transmitir LawConnect.
 * La aplicación debe estar activa en todo momento debido a la importancia que representa en los clientes. Para los abogados, es su ingreso económico y para las personas con problemas legales, es urgente que encuentren un abogado que les provea un apropiado asesoramiento para sus casos.
 
 **Features**
@@ -366,7 +366,7 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 * Desde la cuenta del abogado:
     * Los abogados deben de tener a su disposición todos los documentos utilizados en cada caso de manera organizada. Esto es para evitar problemas con respecto a la documentación debido a que son archivos muy delicados.
     * Tener la oportunidad de presentar sus casos exitosos en sus cuentas mientras que se mantiene oculta la información de sus clientes. La privacidad es muy importante y LawConnect busca salvaguardarla.
-    * Acorde a su especialidad, que le aparezcan casos en relación a ello; esto se debe a que les permitirá ganar más experiencia durante su trayecto en LawConnect.
+    * Acorde a su especialidad, que le aparezcan casos en relación con ello; esto se debe a que les permitirá ganar más experiencia durante su trayecto en LawConnect.
 * Desde la cuenta de un cliente con problemas legales:
     * Los clientes tendrán la facilidad de hallar a un abogado calificado para su caso debido a los filtros de búsqueda presentes en la aplicación. No solo eso, la comunicación será más directa al momento de interactuar con ellos porque es inmediato y mediante la aplicación.
     * Tener un historial de consultas en este caso es importante para mantener una guía de todos sus casos tratados. Asimismo, se mostrará la información de cada abogado que se encargó del caso, lo que permite que el cliente pueda volver a interactuar con este.
@@ -382,7 +382,7 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
   **Sabremos que** este plan es un éxito cuando la demanda de abogados incremente dentro de la aplicación a un 50% y la satisfacción de los clientes sea palpable con las calificaciones a cada abogado.
 
 * **Creemos que** los abogados egresados se interesarán en LawConnect porque les brinda la facilidad de encontrar un empleo desde la palma de su mano y con distintas herramientas que permitirán un mejor desempeño.
-  **Sabremos que** los abogados prefieren nuestra plataforma cuando más del 80% de egresados prefiera empezar su carrera laboral en LawConnect en vez de esperar a los cupos que raramente suelen haber disponibles en las firmas de abogados.
+  **Sabremos que** los abogados prefieren nuestra plataforma cuando más del 80% de egresados prefiera empezar su carrera laboral en LawConnect en vez de esperar a los cupos que raramente suele haber disponibles en las firmas de abogados.
 
 
 #### 1.2.2.4. Lean UX Canvas
@@ -611,7 +611,7 @@ En esta sección se presentan personajes ficticios que representan los segmentos
 **Desafíos:** Obstáculos y problemas que enfrentan los usuarios en su búsqueda de asesoría legal.
 
 **Comportamientos:** Patrones de uso y cómo interactúan con productos similares.
-Estos datos están fundamentados en las entrevistas realizadas y se han desarrollado utilizando la herramienta UXPressia, que facilita la creación de user personas detallados.
+Estos datos están fundamentados en las entrevistas realizadas y se han desarrollado utilizando la herramienta UXPressia, que facilita la creación de user personas detalladas.
 
 **User Persona 1:**
 
@@ -723,7 +723,7 @@ Estos mapas ayudan a visualizar el flujo actual de interacción del usuario, per
 
 **Lawyer (Abogado):**
 
-Definición: Es un usuario que está registrado en la aplicación con su respectivo rol (Lawyer/Abogado) que ofrece servicios legales en la plataforma y puede gestionar sus casos respecto a cada cliente que obtenga. El abogado se encarga de definir su horarios, el precio de sus servicios y subir la documentación de cada caso que resuelva o esté en proceso.
+Definición: Es un usuario que está registrado en la aplicación con su respectivo rol (Lawyer/Abogado) que ofrece servicios legales en la plataforma y puede gestionar sus casos respecto a cada cliente que obtenga. El abogado se encarga de definir sus horarios, el precio de sus servicios y subir la documentación de cada caso que resuelva o esté en proceso.
 
 **Clients (Clientes):**
 
@@ -731,7 +731,7 @@ Definición: Es un usuario que busca asesoría legal para resolver sus problemas
 
 **Cases (Caso):**
 
-Definición: Es el conjunto de consultas y documentación relacionados con caso específico de un cliente gestionado por un abogado. Es visible para ambos usuarios, de esta manera el proceso es transparente.
+Definición: Es el conjunto de consultas y documentación relacionado con un caso específico de un cliente gestionado por un abogado. Es visible para ambos usuarios, de esta manera el proceso es transparente.
 
 **Consultation (Consultas):**
 
@@ -1793,7 +1793,7 @@ Las etiquetas que emplearemos deben considerar las implicaciones de SEO, lo que 
 ### 4.2.3. SEO Tags and Meta Tags
 En Law Connect, reconocemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Aplicación Web para mejorar la visibilidad en los motores de búsqueda y proporcionar una experiencia de usuario excepcional. A continuación, se describen los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
 - Title (Título): El título de una página es fundamental tanto para los motores de búsqueda como para los usuarios. Implementaremos títulos descriptivos y atractivos para cada página, los cuales reflejarán claramente su contenido y propósito.
-- Meta Tags de Descripción (Meta Description): Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser :”Descubre la forma mas sencilla de resolver tus problema con Law Connect”.
+- Meta Tags de Descripción (Meta Description): Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser: ""Descubre la forma más sencilla de resolver tus problemas con Law Connect“”.
 - Meta Keywords: Aunque el enfoque en las palabras clave ha evolucionado en el ámbito del SEO, aún consideraremos términos relevantes para cada página y los incluiremos en los meta tags de keywords cuando sea pertinente. Esto ayudará a los motores de búsqueda a comprender mejor el contenido de nuestras páginas y mejorar la relevancia.
 - Meta Author Tag: Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo cual puede contribuir a establecer credibilidad y autoridad en la industria.
 ### 4.2.4. Searching Systems
@@ -1815,7 +1815,7 @@ En el presente capitulo veremos la creacion de los Wireframes y Mockups, tanto d
 
 En Law Connect, hemos desarrollado un sistema de navegación intuitivo y efectivo que dirige a nuestros usuarios a través de nuestra Landing Page y aplicaciones, ayudándoles a alcanzar sus objetivos e interactuar de manera satisfactoria con nuestro producto. A continuación, detallamos cómo los usuarios podrán explorar nuestro contenido:
 Barra de Navegación:
-Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones : 
+Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones: 
 - Inicio: Aquí el usuario podrá acceder al inicio principal de la web , en donde encontrará la información más reciente que haya recibido o realizado.
 - Notificaciones: Aquí el usuario puede recibir información sobre su caso en cuestión.
 - Buscar: Aquí el usuario podrá hacer la búsqueda del abogado que desea contratar .
@@ -1863,7 +1863,7 @@ Wireflow LawConnect:
 
 **User Goal #2:** Como usuario quiero visualizar a los abogados ademas de ver sus descripcion y puntucion para escoger al mejor para mi caso.
 
-**User Goal #3:** Como abogado quiero informacion del usuario, para asi ver y estar seguro de que es un usuario confiable.
+**User Goal #3:** Como abogado quiero información del usuario, para asi ver y estar seguro de que es un usuario confiable.
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -2109,7 +2109,7 @@ En esta sección describimos los productos de software que hemos usado en el pro
   - Github: Es un sistema de control de versiones de Git
   - HTML5: Es un lenguaje de marcado que sirve para estructurar la página
   - CSS3: Es un lenguaje de hojas de estilo en cascada que le da estilo a la página (hace que una página sea visualmente más atractiva)
-  - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una página web
+  - JavaScript: Es un lenguje de programación que genera interactividad y dinamismo a una sitio web
   - VSCode: Es el editor de código fuente para el desarrollo de la landing page
   - Angular: Es un framework que usaremos para el desarrollo frontend de la aplicación web
 * Software Deployment
@@ -2476,13 +2476,14 @@ Por este primer sprint, se muestra las capturas de la landing page
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 **Link de la landing page desployada:** [https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/](https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/)
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el desarrollo de la landing page, se usó lo siguiente:
 
-* HTML: Para la estructura de la página web
-* CSS: Para darle estilos a la página web
-* JS: Para darle dinamismo a la página web
+* HTML: Para la estructura de la landing page
+* CSS: Para darle estilos a la landing page
+* JS: Para darle dinamismo a la landing page
 * Git: Es el sistema de control de versiones
 * Github: Software online para almacenar repositorios Git
 
@@ -2494,7 +2495,7 @@ Aquí se encuentra la captura de las contribuciones de la landing page
 
 
 
-5.2.2.4. Testing Suite Evidence for Sprint Review
+## 5.2.2.4. Testing Suite Evidence for Sprint Review
 Los archivos .feature desempeñan un papel fundamental a la hora de las practicas de desarrollo de software orientadas al comportamiento, como el Desarrollo Guiado por Comportamiento (BDD). Donde tienen la funcion de transmitir y automatizar las especificaciones encontradas en las historias de usuario ( User Stories). Para el Sprint 2 se  se abordaron 35 historias de usuario para el Landing Page.
 
 ![Captura de pantalla 2024-09-23 131855](https://github.com/user-attachments/assets/0171e01c-dd23-486e-ac2f-98bf96b62df9)
@@ -2503,7 +2504,7 @@ README.MD
 23/09/2024
 ![image](https://github.com/user-attachments/assets/c9d6406a-225a-43dc-ba59-053ab1197cd5)
 
-5.2.2.8. Team Collaboration Insights during Sprint
+## 5.2.2.8. Team Collaboration Insights during Sprint
 
 Repositorio del Fronted: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend/graphs/contributors
 
