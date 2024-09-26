@@ -2138,7 +2138,7 @@ Las etiquetas que emplearemos deben considerar las implicaciones de SEO, lo que 
 ### 4.2.3. SEO Tags and Meta Tags
 En Law Connect, reconocemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Aplicación Web para mejorar la visibilidad en los motores de búsqueda y proporcionar una experiencia de usuario excepcional. A continuación, se describen los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
 - Title (Título): El título de una página es fundamental tanto para los motores de búsqueda como para los usuarios. Implementaremos títulos descriptivos y atractivos para cada página, los cuales reflejarán claramente su contenido y propósito.
-- Meta Tags de Descripción (Meta Description): Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser: ""Descubre la forma más sencilla de resolver tus problemas con Law Connect“”.
+- Meta Tags de Descripción (Meta Description): Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser :”Descubre la forma mas sencilla de resolver tus problema con Law Connect”.
 - Meta Keywords: Aunque el enfoque en las palabras clave ha evolucionado en el ámbito del SEO, aún consideraremos términos relevantes para cada página y los incluiremos en los meta tags de keywords cuando sea pertinente. Esto ayudará a los motores de búsqueda a comprender mejor el contenido de nuestras páginas y mejorar la relevancia.
 - Meta Author Tag: Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo cual puede contribuir a establecer credibilidad y autoridad en la industria.
 ### 4.2.4. Searching Systems
@@ -2160,7 +2160,7 @@ En el presente capitulo veremos la creacion de los Wireframes y Mockups, tanto d
 
 En Law Connect, hemos desarrollado un sistema de navegación intuitivo y efectivo que dirige a nuestros usuarios a través de nuestra Landing Page y aplicaciones, ayudándoles a alcanzar sus objetivos e interactuar de manera satisfactoria con nuestro producto. A continuación, detallamos cómo los usuarios podrán explorar nuestro contenido:
 Barra de Navegación:
-Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones: 
+Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones : 
 - Inicio: Aquí el usuario podrá acceder al inicio principal de la web , en donde encontrará la información más reciente que haya recibido o realizado.
 - Notificaciones: Aquí el usuario puede recibir información sobre su caso en cuestión.
 - Buscar: Aquí el usuario podrá hacer la búsqueda del abogado que desea contratar .
@@ -2206,9 +2206,15 @@ Wireflow LawConnect:
 
 **User Goal #1:** Como usuario quiero iniciar sesión para visualizar los servicios que brinda como Abogado o usuario.
 
+![diagrama](https://i.imgur.com/kPx0GDQ.png)
+
 **User Goal #2:** Como usuario quiero visualizar a los abogados ademas de ver sus descripcion y puntucion para escoger al mejor para mi caso.
 
-**User Goal #3:** Como abogado quiero información del usuario, para asi ver y estar seguro de que es un usuario confiable.
+![diagrama](https://i.imgur.com/pIEvcfb.png)
+
+**User Goal #3:** Como abogado quiero informacion del usuario, para asi ver y estar seguro de que es un usuario confiable.
+
+![diagrama](https://i.imgur.com/pIEvcfb.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -2250,22 +2256,45 @@ https://www.figma.com/proto/q0YtVInNQKAmcOW8yNS6Co/Web-Application---Open-y-Web-
 ## 4.6. Domain-Driven Software Architecture
 
 En esta seccion ser vera como ira la arquitectura de nuestro proyecto.
+Para la visualizacion de nuestros diagramas en perfecta calidad dejaremos el link de Structurizr: https://www.structurizr.com/share/95653/1e80feea-5859-48e1-8f8b-0f99a9f36ea7/diagrams#Containers
 
 ### 4.6.1. Software Architecture Context Diagram
 En este apartado se muestra las entidades que trabajan con la aplicación.
 
-![DIAGRAMA](https://i.imgur.com/bolNgVh.png)
+![DIAGRAMA](https://i.imgur.com/xJTB2je.png)
 ### 4.6.2. Software Architecture Container Diagrams
 
 Se mostrará las distintas responsabilidades entre los varios componentes.
 
-![DIAGRAMA](https://i.imgur.com/r1mPIIP.png)
+![DIAGRAMA](https://i.imgur.com/PjDzmRy.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 Se podrá visualizar las distintas dependencias entre los componentes existentes.
 
-![ARCHITECTURE](https://i.imgur.com/aRtezjI.png)
+**Identify and Acces Bounded Context**
+
+![ARCHITECTURE](https://i.imgur.com/3O4qmNS.png)
+
+**Communication Bounded Context**
+
+![ARCHITECTURE](https://i.imgur.com/L7uwbKl.png)
+
+**Consultation Management Bounded Context**
+
+![ARCHITECTURE](https://i.imgur.com/aND1U10.png)
+
+**Feeing Context #FeeingBC**
+
+![ARCHITECTURE](https://i.imgur.com/rKHoRhW.png)
+
+**Follow-up of a case Bounded Context**
+
+![ARCHITECTURE](https://i.imgur.com/3ThxPCp.png)
+
+**Follow-up of a case Bounded Context**
+
+![ARCHITECTURE](https://i.imgur.com/jfpQn0y.png)
 
 ## 4.7. Software Object-Oriented Design
 
@@ -2432,7 +2461,7 @@ Veremos el diagrama en base a nuestro base de datos, posterior a esto abra corre
 
 ### 4.8.1. Database Diagram
 
-![Database_Diagram](https://i.imgur.com/Tlpo7nr.png)
+![Database_Diagram](https://i.imgur.com/9nJRmRD.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
