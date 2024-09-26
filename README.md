@@ -2866,6 +2866,48 @@ Repositorio del Landing Page: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-I
 ![image](https://github.com/user-attachments/assets/b0b25048-002d-4d12-892c-04a3d43bfd74)
 
 
+# 5.2.2. Sprint 2
+
+## 5.2.2.1. Sprint Planning 2
+
+## 5.2.2.2. Sprint Backlog 2
+
+| **User Story**                                 | **Work-item/Task**                                     | **Description**                                                                                                          | **Estimation (Hours)** | **Assigned To** | **Status** |
+| ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------- | --------------- | ---------- |
+| HU03 - Gestión de Casos Activos                | W03 - Management of open cases                         | Permitir al usuario gestionar sus casos activos y su respectiva documentación                                            | 3                      | Alessandro      | Done       |
+| HU04 - Publicación de Casos de Éxito           | W04 - Posting of successful cases of each lawyer       | Mostrar los casos exitosos de los abogados.                                                                              | 2                      | Carlos          | Done       |
+| HU05 - Configuración de Disponibilidad         | W05 - Configuration of available time from the lawyers | Permitir a los abogados determinar un horario para que los clientes puedan visualizarlo                                  | 3                      | Jose            | Done       |
+| HU06 - Gestión de Documentos Personales        | W06 - Management of documentation                      | Permitir al abogado subir archivos importantes a la aplicación                                                           | 4                      | Alessandro      | Done       |
+| HU08 - Búsqueda de Abogado                     | W08 - Search bar for lawyers                           | Habilitar un buscador para los clientes                                                                                  | 3                      | Camila          | Done       |
+| HU09 -Consulta de Perfil de Abogado            | W09 - Consultation of every lawyer profile             | Habilitar una pantalla para los clientes para que puedan visualizar el perfil completo del abogado                       | 4                      | Carlos          | Done       |
+| HU10 - Agendamiento de Cita                    | W10 - Creation of appointment                          | Permitir a los clientes crear una cita con el abogado de su elección                                                     | 2                      | Carlos          | Done       |
+| HU12 - Visualización de Historial de Consultas | W12 - Visualization of history of consults             | Habilitar una pantalla para los clientes para que puedan ver sus consultas anteriores                                    | 2                      | Alessandro      | Done       |
+| HU15 - Notificaciones de Actualizaciones       | W15 - Notifications for case's update                  | Habilitar una sección de notificaciones para que los clientes puedan recibir alarmas de las actualizaciones de sus casos | 2                      | Ivan            | Done       |
+| HU21 - Consulta de Disponibilidad de Abogados  | W21 - Consultation of availability of each lawyer      | Habilitar una pantalla que contenga la disponibilidad de horario de los abogados para los clientes                       | 2.5                    | Jose            | Done       |
+| HU22 - Solicitud de Cita con Abogado           | W22 - Appointment request with lawyer                  | Permitir a los clientes solicitar una cita con el abogado de su elección                                                 | 2                      | Carlos          | Done       |
+| HU25 - Evaluación y Calificación del Abogado   | W25 - Evaluation and rating of the lawyer              | Permitir a los clientes dejar un comentario y calificación de su experiencia con el abogado escogido                     | 2                      | Ivan            | Done       |
+
+## 5.2.2.3. Development Evidence for Sprint Review
+
+## 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.2.5. Execution Evidence for Sprint Review
+
+## 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
+
+* Angular: Utilizamos este framework para el desarrollo del frontend de la aplicación web
+* GitHub: En este sitio web decidimos almacenar nuestros avances en el repositorio netamente reservado para el frontend. De esta forma, permite que tengamos una guía de los avances hechos y que integrante del equipo realizó cada cambio.
+* Webstorm: Utilizamos este IDE para la creación del proyecto.
+* Git: Utilizamos Git para el sistema de control de versiones, así mantenemos un orden por cada avance y qué implicó cada uno.
+
+## 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.2.8. Team Collaboration Insights during Sprint
+
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
