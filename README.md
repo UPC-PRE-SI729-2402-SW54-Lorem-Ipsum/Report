@@ -2967,15 +2967,10 @@ Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
 ## 5.2.3.1. Sprint Planning 3
 
 ## 5.2.3.2. Sprint Backlog 3
-
-| **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| -------------- | ------------------ | --------------- | ---------------------- | --------------- | ---------- |
-| HU11           |                    |                 |                        | Camila          |            |
-| HU21           |                    |                 |                        | Camila          |            |
-| HU22           |                    |                 |                        | Camila          |            |
-
-
-
+| **User Story**                                | **Work-item/Task**                                            | **Description**                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+| --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- |------------|
+| HU21 - Consulta de Disponibilidad de Abogados | HU21 - W1 - Showcase of available options to contact a lawyer | Crear el endpoint para que se muestre la disponibilidad del abogado dependiendo de las formas de comunicación disponible. | 3                      | Camila          | Done       |
+| HU22 - Solicitud de Cita con Abogado          | HU22 - Registration of an appointment with the lawyer         | Crear el endpoint para que se pueda reservar una cita con el abogado dependiendo del tipo de comunicación escogido.       | 3                      | Camila          | Done       |
 ## 5.2.3.3. Development Evidence for Sprint Review
 
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
