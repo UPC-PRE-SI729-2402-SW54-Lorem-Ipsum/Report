@@ -2925,6 +2925,115 @@ Repositorio del Landing Page: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-I
 
 ## 5.2.2.1. Sprint Planning 2
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            2024/10/17
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Lorem Ipsum
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - La Madrid Lozano, Ivan Jeanpierre <br/>
+            - Avellaneda Ramos, Carlos Edward <br/>
+            - Loli Ramirez, Camila Cristina <br/>    
+            - Pariona Lucas, Jose Manuel <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementó la primera parte del frontend, la visualización de los abogados en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Se aseguró de que los estudiantes sepan sus partes a resolver.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+En este sprint se tiene como objetivo desarrollar el frontend de Law Connect porque creemos que permitirá al usuario sentirse confiado al momento de usarla debido a la facilidad de uso, se estructuró de una forma en que la navegación dentro sea entendible. Esto será confirmado cuando los usuarios ingresen a la aplicación web y puedan visualizar los abogados disponibles.
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+</table>
+
 ## 5.2.2.2. Sprint Backlog 2
 
 | **User Story**                                 | **Work-item/Task**                                     | **Description**                                                                                                          | **Estimation (Hours)** | **Assigned To** | **Status** |
