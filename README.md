@@ -3197,6 +3197,8 @@ Se aseguró de que los estudiantes sepan sus partes a resolver.
 
 Para este sprint se desarrolló el backend para la aplicación law connect. Se presentará el enlace para mostrar la estructura y funcionamiento.
 
+Repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend
+
 ![Back End Evidence](assets/images/backend_evidence.png)
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
