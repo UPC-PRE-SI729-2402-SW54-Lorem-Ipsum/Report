@@ -2298,11 +2298,11 @@ Se podrá visualizar las distintas dependencias entre los componentes existentes
 
 ## 4.7. Software Object-Oriented Design
 
-En dicha seccion se vera como sera la creacion de nuestra base de datos que sera reevaluada a lo largo de nuestro proyecto
+En dicha sección se verá la estructuración de nuestra star-up que será reevaluada a lo largo de nuestro proyecto.
 
 ### 4.7.1. Class Diagrams
 
-![Class](https://i.imgur.com/yHIfJW1.png)
+![Class Diagram](assets/images/Class_diagram.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -2457,11 +2457,11 @@ En dicha seccion se vera como sera la creacion de nuestra base de datos que sera
 
 ## 4.8. Database Design
 
-Veremos el diagrama en base a nuestro base de datos, posterior a esto abra correcciones dependiendo a observaciones en nuestro proyecto.
+Veremos el diagrama de nuestra base de datos, posterior a esto abra correcciones dependiendo a observaciones en nuestro proyecto.
 
 ### 4.8.1. Database Diagram
 
-![Database_Diagram](https://i.imgur.com/9nJRmRD.png)
+![Database Diagram](assets/images/Database_diagram.jpeg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
