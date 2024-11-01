@@ -2707,7 +2707,7 @@ Referencias:
             <b>Sprint 1 Goal</b>
         </td>
         <td>
-            Desarrollar la landing page del proyecto
+            En este sprint se tiene como objetivo el desarrollo de la landing page y su despliegue. Creemos que permite al los abogados y clientes tener seguridad en la aplicación web Law Connect. Esto será confirmado cuando los usuarios ingresen a la aplicación web desde los call to action de la landing page.
         </td>
       <tr align="left">
         <td>
