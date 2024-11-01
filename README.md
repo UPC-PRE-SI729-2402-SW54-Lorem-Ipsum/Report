@@ -2962,6 +2962,46 @@ Para el desarrollo del Frontend en nuestra plataforma, utilizamos lo siguiente:
 ## 5.2.2.8. Team Collaboration Insights during Sprint
 
 
+# 5.2.1. Sprint 3
+
+## 5.2.3.1. Sprint Planning 3
+
+## 5.2.3.2. Sprint Backlog 3
+
+| **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| -------------- | ------------------ | --------------- | ---------------------- | --------------- | ---------- |
+| HU11           |                    |                 |                        | Camila          |            |
+| HU21           |                    |                 |                        | Camila          |            |
+| HU22           |                    |                 |                        | Camila          |            |
+
+
+
+## 5.2.3.3. Development Evidence for Sprint Review
+
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+Para este sprint se desarrolló el backend para la aplicación law connect. Se presentará el enlace para mostrar la estructura y funcionamiento.
+
+![Back End Evidence](assets/images/backend_evidence.png)
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo siguiente:
+
+* Angular: Utilizamos este framework para el desarrollo del frontend de la aplicación web
+* GitHub: En este sitio web decidimos almacenar nuestros avances en el repositorio netamente reservado para el frontend. De esta forma, permite que tengamos una guía de los avances hechos y que integrante del equipo realizó cada cambio.
+* Webstorm: Utilizamos este IDE para la creación del proyecto.
+* Git: Utilizamos Git para el sistema de control de versiones, así mantenemos un orden por cada avance y qué implicó cada uno.
+* IntelliJ Idea: Utilizamos este IDE para empezar con el backend de nuestro proyecto.
+* Spring: Este es el framework que se utiliza para el desarrollo de nuestro backend.
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
