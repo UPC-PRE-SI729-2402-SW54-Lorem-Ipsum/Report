@@ -2849,7 +2849,7 @@ Por este primer sprint, se muestra las capturas de la landing page
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Link de la landing page desployada:** [https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/](https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-page/)
+**Link de la landing page desployada:** https://upc-pre-si729-2402-sw54-lorem-ipsum.github.io/Landing-Page/
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
