@@ -3244,7 +3244,7 @@ Preguntas Específicas
 ## 5.3.2. Registro de Entrevistas 
 ![image](https://i.imgur.com/gam7myK.png)
 <br>Enlace: https://www.youtube.com/watch?v=TNfxILYBzyI
-Segmento objetivo 1: Usuarios con necesidades legales (CRISTIAN)
+<br>Segmento objetivo 1: Usuarios con necesidades legales (CRISTIAN)
 Preguntas Generales
 4.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
 La vi interesante resulta que no es o sea para mí no es tan novedoso una aplicación porque ya he navegado en algunas antiguamente, pero la aplicación que me mostraste se ve mucho más fácil para personas que no están familiarizadas con el tema y me interesa usarlo.
@@ -3264,7 +3264,7 @@ Me gustaría más como un chat para todas las personas que estén buscando aboga
 
 ![image](https://i.imgur.com/6rJepGG.png)
 <br>Enlace: https://www.youtube.com/watch?v=Ovyz2XYmXz4 
-Segmento objetivo 1: Usuarios con necesidades legales (ALONSO)
+<br>Segmento objetivo 1: Usuarios con necesidades legales (ALONSO)
 Preguntas Generales
 7.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
 Bueno en primera instancia me pareció algo muy atractivo algo minimalista ya que todas las opciones parecen estar completas así como la información que te da, me parece este lo esencial para poder llevar a cabo los servicios que ofrecen los abogados.
@@ -3283,7 +3283,7 @@ Bueno esencialmente creo que llamada, porque así estableces una mejor comunicac
 Yo recomendaría tal vez una sección de diccionario, En la  información detallada había algunos conceptos que como persona normal no entendería Y como abogado sí, Entonces para evitar esas dudas sería mejor implementar esto .
 ![image](https://i.imgur.com/nLwN6wE.png)
 <br>Enlace: https://www.youtube.com/watch?v=Vkkli8R3DfM
-Segmento objetivo 1: Usuarios con necesidades legales (JOSUE)
+<br>Segmento objetivo 1: Usuarios con necesidades legales (JOSUE)
 Preguntas Generales
 10.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
 Bueno actualmente no he necesitado una ayuda legal frecuentemente. Pero es bueno saber que la plataforma tiene todo preparado para ciertos escenarios en cuales pueda necesitarlo.
@@ -3303,7 +3303,7 @@ Me parecería interesante una sección de preguntas frecuentes sobre temas legal
 
 ![image](https://i.imgur.com/Uhwj95f.png)
 <br>Enlace: https://www.youtube.com/watch?v=eyPHrG_Rypk
-Segmento objetivo 2: Abogados registrados en la plataforma (ARANTXA)
+<br>Segmento objetivo 2: Abogados registrados en la plataforma (ARANTXA)
 Preguntas Generales
 4.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
 Después de revisar la plataforma me generó una muy buena impresión me parece una plataforma muy seria y profesional más que todo también vi que todo estaba muy organizado y de manera muy didáctica.
@@ -3323,7 +3323,7 @@ En sí me parece que puede ser un espacio de foros o preguntas comunes donde los
 
 ![image](https://i.imgur.com/BI55Sw2.png)
 <br>Enlace: https://www.youtube.com/watch?v=D7FcY5M2gEA
-Segmento objetivo 2: Abogados registrados en la plataforma (RODRIGO)
+<br>Segmento objetivo 2: Abogados registrados en la plataforma (RODRIGO)
 Preguntas Generales
 1.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
 En lo personal creo que la plataforma se ve bien estructurada fue fácil moverme entre las secciones no tuve ningún problema y la idea es tener casos resueltos y perfiles uno que otros destacados eso ayuda a dar un poquito más de confianza
@@ -3339,9 +3339,42 @@ Sería útil poder marcar una opción sobre especialidades y que los clientes la
 6.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
 Sería por medio de las video llamadas en general porque o sea es como que genera más confianza en realidad primer momento y ya es una forma también más profesional en todo caso no se pueda ir de una manera presencial  además tienes conectividad con personas que no se encuentran en tu mismo estado o ciudad.
 7.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
-Creo que un recurso sería un pequeño sistema de seguimiento de clientes potenciales donde yo pueda ver si algún cliente ha mostrado interés en mi perfil (en mi experiencia no, tener un seguimiento de quién lo ve.
+Creo que un recurso sería un pequeño sistema de seguimiento de clientes potenciales donde yo pueda ver si algún cliente ha mostrado interés en mi perfil en mi experiencia no, tener un seguimiento de quién lo ve.
 
 ## 5.3.3. Evaluaciones según heurísticas 
+Basado en las entrevistas con abogados registrados y usuarios que buscan asistencia legal en nuestra plataforma, se identificaron áreas clave para la mejora y implementacion de funcionalidades adicionales.<br>
+
+<br>Segmento 1: Usuarios con Necesidades Legales<br>
+1. Impresión General y Navegación
+Los usuarios mencionaron que la plataforma es intuitiva y fácil de navegar, con opciones claras para encontrar abogados y casos resueltos.
+Recomendación: Mantener la simplicidad y claridad de la interfaz, y asegurarse de que las secciones estén bien etiquetadas.
+2. Presentación de Perfiles de Abogados
+La información sobre los perfiles fue considerada clara y suficiente. Sin embargo, se sugirió incluir un sistema de códigos para verificar que los abogados están registrados, similar al sector salud.
+Recomendación: Implementar una verificación visual de credenciales y una etiqueta con el código de registro del abogado para aumentar la confianza del usuario.
+3. Búsqueda de Abogados
+Se mencionó que un filtro por especialidades es útil, pero sería conveniente incluir filtros adicionales por precio, ubicación y cantidad de casos resueltos.
+Recomendación: Ampliar los filtros de búsqueda para incluir criterios como honorarios, región de práctica (presencial o remoto) y cantidad de casos resueltos.
+4. Opciones de Comunicación
+La videollamada fue la opción más popular, seguida del chat. Los usuarios apreciaron la comodidad y profesionalismo que brinda este medio.
+Recomendación: Priorizar la implementación de videollamadas y mejorar la explicación de cuándo utilizar cada método de contacto.
+5. Funcionalidades Adicionales
+Los usuarios sugirieron incorporar un diccionario de términos legales y una sección de preguntas frecuentes para aclarar dudas comunes antes de contactar a un abogado.
+Recomendación: Añadir un glosario de términos y una sección de preguntas frecuentes para mejorar la comprensión del usuario y reducir consultas innecesarias.
+
+<br>Segmento 2: Abogados Registrados en la Plataforma<br>
+1. Impresión General y Navegación
+Los abogados indicaron que la plataforma es bien estructurada y fácil de usar, pero sugirieron agregar testimonios de clientes para aumentar la credibilidad.
+Recomendación: Incluir una sección para agregar testimonios y reseñas de clientes previos, destacando casos exitosos.
+2. Presentación de Credenciales
+Aunque la opción de subir comprobantes fue valorada positivamente, algunos abogados prefieren una sección detallada para describir sus especialidades y experiencias.
+Recomendación: Permitir a los abogados incluir descripciones detalladas de sus especialidades y agregar videos de presentación para mejorar la visibilidad.
+3. Opciones de Comunicación
+La videollamada fue considerada la opción más efectiva para conectar con los clientes, ya que permite una mejor presentación profesional y confianza inicial.
+Recomendación: Fomentar el uso de videollamadas como opción principal de contacto, especialmente para clientes fuera de la región.
+4. Funcionalidades Adicionales
+Los abogados sugirieron incluir una sección de networking y foros para colaborar entre colegas y una herramienta de seguimiento para identificar a los clientes interesados.
+Recomendación: Crear una sección de foros y una herramienta de CRM sencilla para el seguimiento de clientes potenciales.
+
 ## 5.4. Video About-the-Product 
 
 # Conclusiones
