@@ -96,7 +96,7 @@ Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos 
 **Network Insights report:**
 ![Network-report-tb1](assets/images/Network-report-tb1.png)
 
-**Network Insights report:**
+**Network Insights report:** <br>
 ![Network-landing-tb1](assets/images/Network-landing-tb1.png)
 
 **Entrega N°3: TB2**
