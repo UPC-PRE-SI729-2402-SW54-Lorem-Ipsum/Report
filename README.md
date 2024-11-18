@@ -3533,6 +3533,21 @@ Se aseguró de que los estudiantes sepan sus partes a resolver.
 
 ## 5.2.3.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| [UPC-PRE-SI729-2402-SW54-Lorem-Ipsum](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum) | main | 27a97bf92151714931b041adfd7ef30bc6917091 | Update README.md | - | 18/11/2024 |
+| [UPC-PRE-SI729-2402-SW54-Lorem-Ipsum](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum) | main | fb82fbdf8502f39ed4fd2fb9e1a8fe3bb0f5731d | Update Sprint 4.md | - | 18/11/2024 |
+| [UPC-PRE-SI729-2402-SW54-Lorem-Ipsum](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum) | main | 09af2979c246a5a31e457bc0c2a01de3e187188e | Update README.md | - | 18/11/2024 |
+| [Frontend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend) | main | e0c29612472f49826c9971d918cf20099ca951b1 | Update Front end | - | 18/11/2024 |
+| [Frontend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend) | main | 1d5fab47bc20a31d11773428ac1b62b01e38b3f1 | fix filter keeper | - | 18/11/2024 |
+| [Frontend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Frontend) | main | e3802be09019736122d1f1accbaff5ea44ffe489 | Update security | - | 18/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | 1f254c9db2f4051e45fc7ca23c239f8dc1f6322f | Update Backend | - | 17/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | b53b27f54105589d2a7d27e1b7756c0979a02fba | Updated lawyers | - | 18/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | be581c46f0c57e3320a4a997fc8f3c1380ae219e | Updated Profiles | - | 18/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | aace11ab08eb4e4aed489611d977210bfb800451 | Add MensajeriaBackend | - | 18/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | 24a842fa76bea4af662457d64330dc2ab82e312b | Updated Components | - | 18/11/2024 |
+| [Backend](https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend) | main | 37625395371abda69338ec0712a417d0cb469519 | Updated backend | - | 18/11/2024 |
+
 ## 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
