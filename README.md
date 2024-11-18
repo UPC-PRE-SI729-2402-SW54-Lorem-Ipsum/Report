@@ -88,7 +88,7 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
 **Contributors Insights report:**
-![Commits-report-tb1](https://imgur.com/a/q9pliDJ)
+![Commits-report-tb1](https://i.imgur.com/GoczsTB.png)
 
 **Contributors Insights landing page:**
 ![Commits-report-landing-page](assets/images/Commits-Landing-tb1.png)
