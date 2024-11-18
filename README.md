@@ -51,7 +51,7 @@
         <td colspan="3">2da</td>
         <td colspan="3">7/09/2024</td>
         <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
-        <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V</td>
+        <td colspan="5">Capítulo III, Capítulo IV, Capitulo V</td>
     </tr>
     <tr>
         <td colspan="3">3ra</td>
