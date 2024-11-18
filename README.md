@@ -3520,10 +3520,15 @@ Se aseguró de que los estudiantes sepan sus partes a resolver.
 </table>
 
 ## 5.2.4.2. Sprint Backlog 4
-| **User Story**                                | **Work-item/Task**                                            | **Description**                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
-| --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- |------------|
-| HU21 - Consulta de Disponibilidad de Abogados | HU21 - W1 - Showcase of available options to contact a lawyer | Crear el endpoint para que se muestre la disponibilidad del abogado dependiendo de las formas de comunicación disponible. | 3                      | Camila          | Done       |
-| HU22 - Solicitud de Cita con Abogado          | HU22 - Registration of an appointment with the lawyer         | Crear el endpoint para que se pueda reservar una cita con el abogado dependiendo del tipo de comunicación escogido.       | 3                      | Camila          | Done       |
+
+| **User Story**                                | **Work-item/Task**                                  | **Description**                                                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+| --------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ---------- |
+| HU21 - Consulta de Disponibilidad de Abogados | W21 - Endpoint for availability consultation        | Crear el endpoint para mostrar la disponibilidad de los abogados según los métodos de comunicación disponibles. | 3                      | Camila          | Done       |
+|                                               | W22 - Data validation for availability consultation | Implementar validaciones para la disponibilidad y datos de los abogados antes de mostrar la información.        | 2                      | Carlos          | In Progress |
+| **HU22 - Solicitud de Cita con Abogado**      | W23 - Endpoint for appointment booking              | Crear el endpoint para reservar una cita con el abogado según el tipo de comunicación seleccionado.             | 3                      | Camila          | Done       |
+|                                               | W24 - Error handling for appointment request        | Implementar validaciones y manejo de errores (fechas no disponibles, abogado no disponible, etc.).             | 2                      | Carlos          | In Progress      |
+|                                               | W25 - API documentation update                      | Actualizar la documentación de la API con los nuevos endpoints de disponibilidad y solicitud de cita.           | 1                      | Carlos           | In Progress      |
+
 
 
 ## 5.2.3.3. Development Evidence for Sprint Review
