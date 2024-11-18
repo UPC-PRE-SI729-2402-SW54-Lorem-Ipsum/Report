@@ -2223,8 +2223,8 @@ Se ha implementado una barra de navegación en la parte superior de la web la cu
 - Casos: Aquí el usuario podrá ver los casos que ha creado de acuerdo a sus necesidades.
 
 ![Figma](https://i.imgur.com/K4fDWVA.png) 
-Figma link: 
-https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=29-658&t=9xkGGn6yrt7HfHWn-0
+Figma link:
+https://www.figma.com/design/fw4PfsPUrmktDclgGPcCPs/OpenSource-WebApplication?node-id=0-1&t=JXOwejGdJMzKvOQe-1
 
 ### 4.3.2. Landing Page Mock-up. 
 En esta sección se ha implementado el mockup como a ido implementado nuestro landing page.
@@ -2291,8 +2291,7 @@ Pestaña-logear-abogado
 ![ABOGADO](https://i.imgur.com/LFqz3bQ.png)
 
 Link Figma:
-https://www.figma.com/design/q0YtVInNQKAmcOW8yNS6Co/Web-Application---Open-y-Web---TF?node-id=0-1&t=BNgMwgtytNgTpWgN-1
-
+https://www.figma.com/design/fw4PfsPUrmktDclgGPcCPs/OpenSource-WebApplication?node-id=0-1&t=JXOwejGdJMzKvOQe-1
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -3537,9 +3536,15 @@ Para este sprint se finalizó el backend para la aplicación law connect. Asimis
 
 Repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend
 
-![Back End Evidence](assets/images/backend_evidence_tf_1.png)
 
+![Back End Evidence](assets/images/backend_evidence_tf_1.png)
 ![Back End Evidence](assets/images/backend_evidence_tf_2.png)
+![Back End Evidence](assets/images/backend_evidence_tf_3.png)
+![Back End Evidence](assets/images/backend_evidence_tf_4.png)
+![Back End Evidence](assets/images/backend_evidence_tf_5.png)
+![Back End Evidence](assets/images/backend_evidence_tf_6.png)
+![Back End Evidence](assets/images/backend_evidence_tf_7.png)
+
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
