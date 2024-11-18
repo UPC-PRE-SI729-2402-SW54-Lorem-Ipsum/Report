@@ -3080,6 +3080,39 @@ En este sprint se tiene como objetivo desarrollar el frontend de Law Connect por
 | HU25 - Evaluación y Calificación del Abogado   | W25 - Evaluation and rating of the lawyer              | Permitir a los clientes dejar un comentario y calificación de su experiencia con el abogado escogido                     | 2                      | Ivan            | Done       |
 
 ## 5.2.2.3. Development Evidence for Sprint Review
+# LawConnect - Sprint Review 3
+
+Durante el Sprint 3, nuestro enfoque se centró en hacer grandes avances en el desarrollo de la aplicación **LawConnect**. A continuación, se presenta un resumen de los puntos clave y el progreso alcanzado durante este sprint:
+
+1. Revisión del Sprint 2
+En el Sprint 2, comenzamos el desarrollo inicial del backend y trabajamos en mejoras significativas en la estructura general de la aplicación, basándonos en el feedback del profesor. Aunque logramos progresos notables, identificamos áreas para optimizar la velocidad tanto en el backend como en el frontend.
+
+2. Objetivo del Sprint 3
+El objetivo principal de este sprint fue iniciar el desarrollo del backend e integrar una parte sustancial con el frontend, además de enfocarnos en mejorar la calidad del producto. Esto nos acerca a una versión funcional y estable de la aplicación.
+
+3. Velocity Establecido
+Considerando la complejidad de las tareas, establecimos un **Velocity de XX** para este sprint.
+
+4. Historias de Usuario y Tareas
+Durante este sprint, estamos definiendo diversas Historias de Usuario, abarcando funcionalidades esenciales como:
+- Gestión de perfiles de abogados y clientes.
+- Búsqueda y filtrado de abogados en función de la especialidad.
+- Visualización del historial de consultas.
+- Comunicación efectiva mediante chat interno (las funcionalidades de videollamada y reuniones presenciales fueron planificadas para futuros sprints).
+
+5. Asignación de Tareas
+Las tareas se asignaron de manera estratégica a los miembros del equipo. Algunas tareas fueron completadas exitosamente, mientras que otras aún están en proceso avanzado de desarrollo.
+
+6. Desarrollo Backend e Integración con Frontend
+Este sprint se enfocó en consolidar el desarrollo del backend y establecer una conexión estable con el frontend. La integración de ambos componentes asegura una experiencia de usuario fluida y permite que las principales funcionalidades de la aplicación operen sin problemas.
+
+7. Compromiso del Equipo
+El equipo mostró un gran nivel de compromiso y esfuerzo para superar los desafíos enfrentados durante el Sprint 3. Hemos aprendido de nuestras experiencias pasadas y seguimos trabajando para alcanzar los objetivos propuestos de manera eficiente.
+
+---
+
+Este informe proporciona una visión clara del progreso realizado en el Sprint 3. Estamos en una posición sólida para continuar con el desarrollo y avanzar hacia una versión final de **LawConnect** con éxito.
+
 
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review
 
