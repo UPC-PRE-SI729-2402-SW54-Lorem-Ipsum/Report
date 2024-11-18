@@ -3384,12 +3384,13 @@ Repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend
 Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo siguiente:
 
 * Angular: Utilizamos este framework para el desarrollo del frontend de la aplicación web
+* TypeScript: Lenguaje de programación utilizado para el desarrollo del frontend.
 * GitHub: En este sitio web decidimos almacenar nuestros avances en el repositorio netamente reservado para el frontend. De esta forma, permite que tengamos una guía de los avances hechos y que integrante del equipo realizó cada cambio.
 * Webstorm: Utilizamos este IDE para la creación del proyecto.
 * Git: Utilizamos Git para el sistema de control de versiones, así mantenemos un orden por cada avance y qué implicó cada uno.
 * IntelliJ Idea: Utilizamos este IDE para empezar con el backend de nuestro proyecto.
 * Spring: Este es el framework que se utiliza para el desarrollo de nuestro backend.
-
+* Java: Lenguaje de programación utilizado para el desarrollo del backend.
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
