@@ -88,16 +88,16 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
 **Contributors Insights report:**
-![alt text](assets/images/Commits-report-tb1.png)
+![Commits-report-tb1](assets/images/Commits-report-tb1.png)
 
 **Contributors Insights landing page:**
-![alt text](assets/images/Commits-Landing-tb1.png)
+![Commits-report-landing-page](assets/images/Commits-Landing-tb1.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-report-tb1.png)
+![Network-report-tb1](assets/images/Network-report-tb1.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-landing-tb1.png)
+![Network-landing-tb1](assets/images/Network-landing-tb1.png)
 
 **Entrega N°3: TB2**
 <br>
@@ -108,17 +108,40 @@ Para la creación del informe, se realizaron las siguientes actividades:
 
 Avance del Sprint 3, en el cual se termina el desarrollo de la landing page, se implementa las últimas partes del front end y se comienza con el desarrollo del backend.
 
+**Entrega N°4: TF1**
+<br>
+
+Para esta entrega se desarrolló la versión final del back end junto con el front end, de esta manera se pudo alcanzar el deploy esperado
+junto con todas las funcionalidades disponibles, se realizaron pruebas para su funcionamiento.
+
+Para la creación del inform se realizaron las siguientes actividades:
+
+Se completó el Sprint 4, en el cual se finalizó el desarrollo de la aplicación web, se realizaron pruebas para verificar su funcionamiento y se desplegó la versión final de la aplicación.
+
 **Contributors Insights report:**
-![alt text](assets/images/Commits-report-tb2.png)
+![Commits report tb1](assets/images/Commits-report-tf.png)
 
 **Contributors Insights landing page:**
-![alt text](assets/images/Commits-Landing-tb2.png)
+![Commits report landing page](assets/images/Commits-Landing-tf.png)
+
+**Contributors Insights front end:**
+![Commits report frontend](assets/images/Commits-frontend-tf.png)
+
+**Contributors Insights back end:**
+![Commits report backend](assets/images/Commits-backend-tf.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-report-tb2.png)
+![Network report tf](assets/images/Network-report-tf.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-landing-tb2.png)
+![Network landing tf](assets/images/Network-landing-tf.png)
+
+**Network Insights report:**
+![Network frontend tf](assets/images/Network-frontend-tf.png)
+
+**Network Insights report:**
+![Network backend tf](assets/images/Network-backend-tf.png)
+
 
 ---
 # Student Outcome
