@@ -59,6 +59,12 @@
         <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
         <td colspan="5">Capítulo V, primer avance de backend</td>
     </tr>
+<tr>
+        <td colspan="3">4ta</td>
+        <td colspan="3">18/11/2024</td>
+        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="5">Capítulo V, sprint 4 y versión final del backend con front.</td>
+    </tr>
 </table>
 
 ---
@@ -82,16 +88,16 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
 **Contributors Insights report:**
-![alt text](assets/images/Commits-report-tb1.png)
+![Commits-report-tb1](assets/images/Commits-report-tb1.png)
 
 **Contributors Insights landing page:**
-![alt text](assets/images/Commits-Landing-tb1.png)
+![Commits-report-landing-page](assets/images/Commits-Landing-tb1.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-report-tb1.png)
+![Network-report-tb1](assets/images/Network-report-tb1.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-landing-tb1.png)
+![Network-landing-tb1](assets/images/Network-landing-tb1.png)
 
 **Entrega N°3: TB2**
 <br>
@@ -102,17 +108,40 @@ Para la creación del informe, se realizaron las siguientes actividades:
 
 Avance del Sprint 3, en el cual se termina el desarrollo de la landing page, se implementa las últimas partes del front end y se comienza con el desarrollo del backend.
 
+**Entrega N°4: TF1**
+<br>
+
+Para esta entrega se desarrolló la versión final del back end junto con el front end, de esta manera se pudo alcanzar el deploy esperado
+junto con todas las funcionalidades disponibles, se realizaron pruebas para su funcionamiento.
+
+Para la creación del inform se realizaron las siguientes actividades:
+
+Se completó el Sprint 4, en el cual se finalizó el desarrollo de la aplicación web, se realizaron pruebas para verificar su funcionamiento y se desplegó la versión final de la aplicación.
+
 **Contributors Insights report:**
-![alt text](assets/images/Commits-report-tb2.png)
+![Commits report tb1](assets/images/Commits-report-tf.png)
 
 **Contributors Insights landing page:**
-![alt text](assets/images/Commits-Landing-tb2.png)
+![Commits report landing page](assets/images/Commits-Landing-tf.png)
+
+**Contributors Insights front end:**
+![Commits report frontend](assets/images/Commits-frontend-tf.png)
+
+**Contributors Insights back end:**
+![Commits report backend](assets/images/Commits-backend-tf.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-report-tb2.png)
+![Network report tf](assets/images/Network-report-tf.png)
 
 **Network Insights report:**
-![alt text](assets/images/Network-landing-tb2.png)
+![Network landing tf](assets/images/Network-landing-tf.png)
+
+**Network Insights report:**
+![Network frontend tf](assets/images/Network-frontend-tf.png)
+
+**Network Insights report:**
+![Network backend tf](assets/images/Network-backend-tf.png)
+
 
 ---
 # Student Outcome
@@ -120,10 +149,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Conclusiones                                                                                                                                                                                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward**  <br>_**TB1:**_ Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge  <br>  <br>**Loli Ramirez, Camila Cristina**  <br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas.  <br><br>**TP1**: En este Sprint hicimos la planeación del frontend y la respectiva división de las tareas a cumplir. Se determinó seguir la guía de estilos presente en el documento para mantener coherencia entre los productos.<br><br>**TB2**: En este punto del proyecto se decidió dividir el contenido del backend para el Sprint 3. Asimismo, se dialogó entre algunos miembros los cambios posibles de los diagramas de clase y base de datos, para tener una mejor estructura y que sea claro el esquema que vamos a seguir.<br>  <br>**Pariona Lucas Jose Manuel**  <br>_**TB1:**_ Mi trabajo en la TB1 fue hacer el Capitulo 2.  <br>  <br>_**TP1:**_ Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la sitio web.  <br>  <br>**Condori Lozano, Alessandro Ramiro**  <br>_**TB1:**_ En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos.  <br>  <br>**La Madrid Lozano Ivan jeanpierre**  <br>_**TB1:**_ Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5                                                                                                                                                                                     | _**TB1:**_ Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | _**Avellaneda Ramos Carlos Edward**_  <br>_**TB1:**_ Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app  <br>  <br>**Loli Ramirez, Camila Cristina**  <br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br><br>**TP1:** Se realizó el primer avance del frontend de nuestra aplicación web LawConnect. Se implementaron los principales bounded context, para demostrar cuáles son los features importantes de nuestro producto. <br><br>**TB2**: Realicé el bounded context de Consultation, la corrección del diagrama de clases para mantener una estructura adecuada en el desarrollo de nuestro backend. De esta forma, tendremos un buen orden para la relación entre los bounded context. <br>  <br>_**Pariona Lucas Jose Manuel**_  <br>_**TB1:**_ Mi trabajo en la TB1 fue hacer el Capitulo 2.  <br>  <br>_**TP1:**_ Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted del sitio web.  <br>  <br>_**Condori Lozano, Alessandro Ramiro**_  <br>_**TB1:**_ En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico.  <br>  <br>_**La Madrid Lozano Ivan jeanpierre**_  <br>_**TB1:**_ Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita | _**TB1:**_ En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances.                                                              |
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Avellaneda Ramos Carlos Edward**  <br>_**TB1:**_ Participación en el desarrollo del Sprint 1, Source Code Managment y el correcto desarrollo de los repositorios de GitHub, como el manejo de ramas, creación de la organización y merge  <br>  <br>**Loli Ramirez, Camila Cristina**  <br>**TB1:** Para poder definir nuestro modelo de negocio, tuvimos que comunicar nuestras ideas para tener una base sólida, también encontrar un problema que necesite de una solución y saber quiénes son las personas afectadas por esto. Es por ello que cada integrante presentó sus ideas y pudimos escoger un problema relevante en la actualidad. A partir de nuestras reuniones, determinamos la solución en conjunto, respetando cada una de las ideas planteadas.  <br><br>**TP1**: En este Sprint hicimos la planeación del frontend y la respectiva división de las tareas a cumplir. Se determinó seguir la guía de estilos presente en el documento para mantener coherencia entre los productos.<br><br>**TB2**: En este punto del proyecto se decidió dividir el contenido del backend para el Sprint 3. Asimismo, se dialogó entre algunos miembros los cambios posibles de los diagramas de clase y base de datos, para tener una mejor estructura y que sea claro el esquema que vamos a seguir.<br><br>**TF**: En esta parte final del proyecto se tuvieron que replantear algunos puntos del proyecto para que sea eficiente. Los distintos avances se acordaron por separado para que cada uno tenga sus respectivas responsabilidades. Así que se desarrolló el capítulo 5, sprint 4 del proyecto. <br>  <br>**Pariona Lucas Jose Manuel**  <br>_**TB1:**_ Mi trabajo en la TB1 fue hacer el Capitulo 2.  <br>  <br>_**TP1:**_ Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted de la sitio web.  <br>  _**TB2:**_ Se Corregio de lo anterior. Desplegar la nueva version de Landing Page, Web Applications, primera version de Web Services. Sprint 3. _**TF1:**_  Incluir las versionas actualizadas y corregidas. Punto 5.2.4. Sprint 4. Frontend, Backend. <br>**Condori Lozano, Alessandro Ramiro**  <br>_**TB1:**_ En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos.  <br>  <br>**La Madrid Lozano Ivan jeanpierre**  <br>_**TB1:**_ Desarrollé y analicé el capítulo 5, asi mismo apliqué métodos de búsqueda y análisis para identificar y redactar el capítulo 5                                                                                                                                                                                                                                                                | _**TB1:**_ Las responsabilidades fueron distribuidas individualmente, permitiendo que cada miembro se enfocara en un aspecto particular del proyecto. Tras la asignación, todos completaron sus respectivas tareas con éxito. Al finalizar, cada integrante pudo comunicar sus ideas de manera efectiva en las discusiones verbales. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | _**Avellaneda Ramos Carlos Edward**_  <br>_**TB1:**_ Se analizaron las convenciones de codigo para el correcto desarrollo de features, landing page y proximamente el web app  <br>  <br>**Loli Ramirez, Camila Cristina**  <br>**TB1:** Se realizó el proceso de Lean UX Process, para determinar a qué segmentos objetivos nos vamos a enfocar y cómo nuestra solución debe de satisfacer sus necesidades. Esta investigación realizada nos ayuda a entender la magnitud de la situación en la que se encuentran nuestros usuarios y la razón por la cual desea obtener una solución, que sería nuestra aplicación web, fácil de usar y que sea intuitiva. De esta forma, permitiremos a los usuarios tener una buena experiencia a partir de nuestra plataforma debido a que podrán hallar beneficios a partir de esta. <br><br>**TP1:** Se realizó el primer avance del frontend de nuestra aplicación web LawConnect. Se implementaron los principales bounded context, para demostrar cuáles son los features importantes de nuestro producto. <br><br>**TB2**: Realicé el bounded context de Consultation, la corrección del diagrama de clases para mantener una estructura adecuada en el desarrollo de nuestro backend. De esta forma, tendremos un buen orden para la relación entre los bounded context. <br><br>**TF**: Para esta entrega, desarrolló el sprint backlog del sprint 4, el execution evidence y el service documentation. Asimismo, agregué los aria label para la landing page. También, agregué los annotations en el back end del proyecto.  Además, rediseñé el mockup de la aplicación web y, en el front end, realicé los diseños necesarios junto con las pantallas.<br>  <br>_**Pariona Lucas Jose Manuel**_  <br>_**TB1:**_ Mi trabajo en la TB1 fue hacer el Capitulo 2.  <br>  <br>_**TP1:**_ Mi trabajo en la TP1 fue hacer el Capitulo 5. El Testing Suite Evidence for Sprint Review y Team Collaboration Insights during Sprint. Tambien apoye en el fronted del sitio web.  <br>  _**TB2:**_ Se Corregio de lo anterior. Desplegar la nueva version de Landing Page, Web Applications, primera version de Web Services. Sprint 3. _**TF1:**_  Incluir las versionas actualizadas y corregidas. Punto 5.2.4. Sprint 4. Frontend, Backend.  <br>_**Condori Lozano, Alessandro Ramiro**_  <br>_**TB1:**_ En el marco del desarrollo del proyecto, me encargué del capítulo IV, donde realicé la creación de los wireframes y mockups para la elaboración de la landing page y la futura aplicación web. Además, diseñé diagramas que facilitan la comprensión del funcionamiento del programa y la estructura de la base de datos. Estos elementos fueron fundamentales para asegurar una comunicación clara y efectiva con los diferentes miembros del equipo, independientemente de su especialidad o nivel jerárquico.  <br>  <br>_**La Madrid Lozano Ivan jeanpierre**_  <br>_**TB1:**_ Desarrollé e implementé una comunicación eficiente e importante en el flujo de trabajo tanto oral como escrita | _**TB1:**_ En este sprint, cada miembro del equipo se centró en desarrollar los elementos asignados para esta entrega. Posteriormente, todos comunicaron formalmente y por escrito sus aportes, garantizando una presentación coherente y efectiva de nuestros avances.                                                              |
 
 ---
 # Contenido
@@ -3216,166 +3245,156 @@ Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo s
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews 
-## 5.3.1. Diseño de Entrevistas 
+# 5.2.1. Sprint 4
 
-Segmento objetivo 1: Usuarios con necesidades legales
-Preguntas Generales
-1.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
-2.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
-3.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
-Preguntas Específicas
-4.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
-5.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
-6.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
-7.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
+## 5.2.4.1. Sprint Planning 4
 
-Segmento objetivo 2: Abogados registrados en la plataforma
-Preguntas Generales
-1.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
-2.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
-3.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
-Preguntas Específicas
-4.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
-5.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
-6.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
-7.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            2024/10/17
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Lorem Ipsum
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - La Madrid Lozano, Ivan Jeanpierre <br/>
+            - Avellaneda Ramos, Carlos Edward <br/>
+            - Loli Ramirez, Camila Cristina <br/>    
+            - Pariona Lucas, Jose Manuel <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementó la primera parte del frontend, la visualización de los abogados en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Se aseguró de que los estudiantes sepan sus partes a resolver.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+            En este sprint se tiene como objetivo el desarrollo del back end y terminar el frontend. Creemos que permite al los abogados y clientes confiar en la aplicación web Law Connect debido a lo intuitivo que es para el usuario y su forma de funcionamiento es adecuada. Esto será confirmado cuando los usuarios prueben la aplicación y dejen reseñas positivas sobre su funcionamiento.
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+</table>
 
-## 5.3.2. Registro de Entrevistas 
-![image](https://i.imgur.com/gam7myK.png)
-<br>Enlace: https://www.youtube.com/watch?v=TNfxILYBzyI
-<br>Segmento objetivo 1: Usuarios con necesidades legales (CRISTIAN)
-Preguntas Generales
-4.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
-La vi interesante resulta que no es o sea para mí no es tan novedoso una aplicación porque ya he navegado en algunas antiguamente, pero la aplicación que me mostraste se ve mucho más fácil para personas que no están familiarizadas con el tema y me interesa usarlo.
-5.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
-Bueno como dije la navegación fue intuitiva y encontrar abogados que necesitare para algún caso se ve fácil en la aplicación ya que puedo buscar sus actitudes y los casos resueltos.
-6.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
-Considero que la información fue necesaria para tomar una decisión si es que ese abogado será el que te representará, la veo muy clara en ese aspecto.
-Preguntas Específicas
-8.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
-Bueno tal vez algún contador de la cantidad de casos que ha hecho algún abogado podría ser utilidad como un filtrado que te permita ordenar a los abogados mediante la cantidad de casos que ha resuelto claro tanto favorables como no.
-9.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
-Bueno a simple vista alguna duda sería qué tan fácil sería comunicarse con el abogado.
-10.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
-Bueno ya que a veces se presentan inconvenientes como imprevistos, una videollamada creo que estaría bien ya que así puedo comunicarme con él.
-11.	¿Qué otros elementos te gustarían que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
-Me gustaría más como un chat para todas las personas que estén buscando abogados y ellos mismos se puedan recomendar otros eso podría ser una buena función, una comunidad.
+## 5.2.4.2. Sprint Backlog 4
+| **User Story**                                | **Work-item/Task**                                            | **Description**                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+| --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- |------------|
+| HU21 - Consulta de Disponibilidad de Abogados | HU21 - W1 - Showcase of available options to contact a lawyer | Crear el endpoint para que se muestre la disponibilidad del abogado dependiendo de las formas de comunicación disponible. | 3                      | Camila          | Done       |
+| HU22 - Solicitud de Cita con Abogado          | HU22 - Registration of an appointment with the lawyer         | Crear el endpoint para que se pueda reservar una cita con el abogado dependiendo del tipo de comunicación escogido.       | 3                      | Camila          | Done       |
 
-![image](https://i.imgur.com/6rJepGG.png)
-<br>Enlace: https://www.youtube.com/watch?v=Ovyz2XYmXz4 
-<br>Segmento objetivo 1: Usuarios con necesidades legales (ALONSO)
-Preguntas Generales
-7.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
-Bueno en primera instancia me pareció algo muy atractivo algo minimalista ya que todas las opciones parecen estar completas así como la información que te da, me parece este lo esencial para poder llevar a cabo los servicios que ofrecen los abogados.
-8.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
-Bueno me pareció muy fácil ya que en las opciones en las barras aparecía el nombre de cada sección, lo cual me facilitaba acceder a cada uno de los componentes. Por otro lado, También esta información que te brindaban era clara y concisa. Bueno eso me ayudó a poder investigar mucho mejor
-9.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
-Sí efectivamente, bueno solamente tengo un pequeño comentario que creo que cada abogado tiene un código, así como los enfermeros tienen un código sobre su sector de salud algo parecido deberían de incluir, para más que nada verificar que es un abogado de verdad.
-Preguntas Específicas
-12.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
-Bueno esencialmente yo considero un filtro de búsqueda, esto más que nada.
-13.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
-Si esencialmente en el buscador, lo que vi fue que más que nada buscan por tipo de especialidad. Pero sería bueno incluir por precios de las asesorías, también este no sé lugar de residencia del abogado si puede trabajar de forma remota presencial dentro de Lima o en departamentos.
-14.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
-Bueno esencialmente creo que llamada, porque así estableces una mejor comunicación con el y bueno puedes absolver tu duda de forma más rápida.
-15.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
-Yo recomendaría tal vez una sección de diccionario, En la  información detallada había algunos conceptos que como persona normal no entendería Y como abogado sí, Entonces para evitar esas dudas sería mejor implementar esto .
-![image](https://i.imgur.com/nLwN6wE.png)
-<br>Enlace: https://www.youtube.com/watch?v=Vkkli8R3DfM
-<br>Segmento objetivo 1: Usuarios con necesidades legales (JOSUE)
-Preguntas Generales
-10.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
-Bueno actualmente no he necesitado una ayuda legal frecuentemente. Pero es bueno saber que la plataforma tiene todo preparado para ciertos escenarios en cuales pueda necesitarlo.
-11.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
-Me pareció muy intuitiva, por lo cual fue relativamente fácil moverme entre los perfiles de los abogados, además estaban claros, Aunque todavía no tuve la oportunidad de contactar con ninguno. la información sobre sus áreas (01:20) de especialidad también me ayudó bastante a entender mejor a cuáles podría recurrir en cada caso
-12.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
-La opción de ver casos resueltos me generó mucha confianza y creo que me permitiría evaluar la experiencia de cada abogado si en algún momento necesito una ayuda legal,
-Preguntas Específicas
-16.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
-Me gustaría ver opiniones o reseñas de otros clientes sobre cada abogado esto básicamente me ayudaría tomar una decisión más informada claro para que sea más seguro.
-17.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
-Al principio no entendí del todo cómo elegir entre los métodos de contacto tal vez sería útil explicar más detalladamente sobre cuándo es mejor usar el chat la videollamada o el encuentro en vivo
-18.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
-Creo que el chat sería la más util para empezar ya que es menos intimidante que una videollamada o un encuentro en persona.
-19.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
-Me parecería interesante una sección de preguntas frecuentes sobre temas legales comunes ya que esto me podría ayudarme a entender mejor algunas situaciones antes de agendar un chat con un abogado.
 
-![image](https://i.imgur.com/Uhwj95f.png)
-<br>Enlace: https://www.youtube.com/watch?v=eyPHrG_Rypk
-<br>Segmento objetivo 2: Abogados registrados en la plataforma (ARANTXA)
-Preguntas Generales
-4.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
-Después de revisar la plataforma me generó una muy buena impresión me parece una plataforma muy seria y profesional más que todo también vi que todo estaba muy organizado y de manera muy didáctica.
-5.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
-Claro que sí en sí la opción de subir comprobantes me pareció demasiado útil pero también me gustaría tener un lugar donde yo pueda describir mis especialidades más que todo en lo que yo me enfoco y mis experiencias a detalle.
-6.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
-Sí porque al ver los casos resueltos ayuda mucho a visualizar el tipo de trabajo que se realiza, en este caso me pareció también muy claro, pero agregar una opción para que los clientes califiquen los casos.
-Preguntas Específicas
-8.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
-Bueno desde mi punto de vista me parece que generar un apartado de noticias legales puede ser de mucha importancia o actualizaciones también relevantes ayudaría bastante más que todo a mantenerme informado y también aportaría mucho valor agregado a la plataforma.
-9.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
-Claro yo sugeriría que se pueda añadir video de presentación breve y me ayudaría también a destacar entre otros abogados y también permitiría que los clientes me conozcan un poco más antes de poder contactarme.
-10.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
-Personalmente Yo opino que una videollamada me puede parecer la opción más confiable y también se puede optar ya que permite establecer una mejor conexión y más directo también la comunicación para entender el problema del cliente claro o te permite estar conectado con clientes que están fuera de mi región.
-11.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
-En sí me parece que puede ser un espacio de foros o preguntas comunes donde los abogados podamos compartir también nuestras dudas o contribuir podría ser más interesante ya que ayudaría más que todo a resolver las dudas y al mismo tiempo ganar visibilidad con clientes potenciales que tengo en un futuro.
+## 5.2.3.3. Development Evidence for Sprint Review
 
-![image](https://i.imgur.com/BI55Sw2.png)
-<br>Enlace: https://www.youtube.com/watch?v=D7FcY5M2gEA
-<br>Segmento objetivo 2: Abogados registrados en la plataforma (RODRIGO)
-Preguntas Generales
-1.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
-En lo personal creo que la plataforma se ve bien estructurada fue fácil moverme entre las secciones no tuve ningún problema y la idea es tener casos resueltos y perfiles uno que otros destacados eso ayuda a dar un poquito más de confianza
-2.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
-Con la información con la que pude ingresar a mi perfil fue adecuada sí correcto pero sería útil también poder agregar una sección de testimonios quizás de clientes anteriore,s en este caso para poder dar un poco más de respaldo
-3.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
-Me pareció clara. Aunque me gustaría que fuera un poquito más visual con algunas estadísticas o una pequeña vista previa de los casos ya resueltos anteriormente.
-Preguntas Específicas
-4.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
-Incluir una sección para hacer networking con otros abogados me sería de gran ayuda. Esto podría ayudar un poquito a crear referencias y colaboraciones entre nosotros.
-5.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
-Sería útil poder marcar una opción sobre especialidades y que los clientes las puedan ver de inmediato facilitaría a la gente que encuentre una especialidad, exactamente lo que busca en qué especialidad 
-6.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
-Sería por medio de las video llamadas en general porque o sea es como que genera más confianza en realidad primer momento y ya es una forma también más profesional en todo caso no se pueda ir de una manera presencial  además tienes conectividad con personas que no se encuentran en tu mismo estado o ciudad.
-7.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
-Creo que un recurso sería un pequeño sistema de seguimiento de clientes potenciales donde yo pueda ver si algún cliente ha mostrado interés en mi perfil en mi experiencia no, tener un seguimiento de quién lo ve.
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-## 5.3.3. Evaluaciones según heurísticas 
-Basado en las entrevistas con abogados registrados y usuarios que buscan asistencia legal en nuestra plataforma, se identificaron áreas clave para la mejora y implementacion de funcionalidades adicionales.<br>
+## 5.2.3.5. Execution Evidence for Sprint Review
 
-<br>Segmento 1: Usuarios con Necesidades Legales<br>
-1. Impresión General y Navegación
-Los usuarios mencionaron que la plataforma es intuitiva y fácil de navegar, con opciones claras para encontrar abogados y casos resueltos.
-Recomendación: Mantener la simplicidad y claridad de la interfaz, y asegurarse de que las secciones estén bien etiquetadas.
-2. Presentación de Perfiles de Abogados
-La información sobre los perfiles fue considerada clara y suficiente. Sin embargo, se sugirió incluir un sistema de códigos para verificar que los abogados están registrados, similar al sector salud.
-Recomendación: Implementar una verificación visual de credenciales y una etiqueta con el código de registro del abogado para aumentar la confianza del usuario.
-3. Búsqueda de Abogados
-Se mencionó que un filtro por especialidades es útil, pero sería conveniente incluir filtros adicionales por precio, ubicación y cantidad de casos resueltos.
-Recomendación: Ampliar los filtros de búsqueda para incluir criterios como honorarios, región de práctica (presencial o remoto) y cantidad de casos resueltos.
-4. Opciones de Comunicación
-La videollamada fue la opción más popular, seguida del chat. Los usuarios apreciaron la comodidad y profesionalismo que brinda este medio.
-Recomendación: Priorizar la implementación de videollamadas y mejorar la explicación de cuándo utilizar cada método de contacto.
-5. Funcionalidades Adicionales
-Los usuarios sugirieron incorporar un diccionario de términos legales y una sección de preguntas frecuentes para aclarar dudas comunes antes de contactar a un abogado.
-Recomendación: Añadir un glosario de términos y una sección de preguntas frecuentes para mejorar la comprensión del usuario y reducir consultas innecesarias.
+Para este sprint se finalizó el backend para la aplicación law connect. Asimismo, se terminó de realizar el front end para que recupere los datos de los clientes, sea abogado recién egresado y personas con problemas legales (denominados como clientes dentro del backend para facilitar el entendimiento)
 
-<br>Segmento 2: Abogados Registrados en la Plataforma<br>
-1. Impresión General y Navegación
-Los abogados indicaron que la plataforma es bien estructurada y fácil de usar, pero sugirieron agregar testimonios de clientes para aumentar la credibilidad.
-Recomendación: Incluir una sección para agregar testimonios y reseñas de clientes previos, destacando casos exitosos.
-2. Presentación de Credenciales
-Aunque la opción de subir comprobantes fue valorada positivamente, algunos abogados prefieren una sección detallada para describir sus especialidades y experiencias.
-Recomendación: Permitir a los abogados incluir descripciones detalladas de sus especialidades y agregar videos de presentación para mejorar la visibilidad.
-3. Opciones de Comunicación
-La videollamada fue considerada la opción más efectiva para conectar con los clientes, ya que permite una mejor presentación profesional y confianza inicial.
-Recomendación: Fomentar el uso de videollamadas como opción principal de contacto, especialmente para clientes fuera de la región.
-4. Funcionalidades Adicionales
-Los abogados sugirieron incluir una sección de networking y foros para colaborar entre colegas y una herramienta de seguimiento para identificar a los clientes interesados.
-Recomendación: Crear una sección de foros y una herramienta de CRM sencilla para el seguimiento de clientes potenciales.
+Repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend
 
-## 5.4. Video About-the-Product 
+![Back End Evidence](assets/images/backend_evidence_tf_1.png)
+
+![Back End Evidence](assets/images/backend_evidence_tf_2.png)
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo siguiente:
+
+* Angular: Utilizamos este framework para el desarrollo del frontend de la aplicación web
+* GitHub: En este sitio web decidimos almacenar nuestros avances en el repositorio netamente reservado para el frontend. De esta forma, permite que tengamos una guía de los avances hechos y que integrante del equipo realizó cada cambio.
+* Webstorm: Utilizamos este IDE para la creación del proyecto.
+* Git: Utilizamos Git para el sistema de control de versiones, así mantenemos un orden por cada avance y qué implicó cada uno.
+* IntelliJ Idea: Utilizamos este IDE para empezar con el backend de nuestro proyecto.
+* Spring: Este es el framework que se utiliza para el desarrollo de nuestro backend.
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
