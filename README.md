@@ -3552,16 +3552,16 @@ Se aseguró de que los estudiantes sepan sus partes a resolver.
 
 En el Sprint 4, nuestro enfoque se ha centrado en avanzar significativamente en el desarrollo de la aplicación **LawConnect**. A continuación, presentamos un resumen de los puntos clave y el progreso logrado durante este sprint:
 
-## 1. Revisión del Sprint 3
+1. Revisión del Sprint 3
 En el Sprint 3, comenzamos el desarrollo del backend y realizamos mejoras importantes en la estructura general de la aplicación de acuerdo al feedback del profesor. Aunque se observaron avances claros, identificamos oportunidades para acelerar el ritmo tanto en el desarrollo del backend como en la implementación del frontend.
 
-## 2. Objetivo del Sprint 4
+2. Objetivo del Sprint 4
 El principal objetivo para este sprint fue completar la creación del backend e integrarlo completamente con el frontend, ademas de tener un producto de calidad. Esto nos acerca a una versión funcional y lista para entrega de la aplicación.
 
-## 3. Velocity Establecido
+3. Velocity Establecido
 Dado el nivel de complejidad de las tareas planificadas, definimos un **Velocity de XX** para este sprint.
 
-## 4. Historias de Usuario y Tareas
+4. Historias de Usuario y Tareas
 Definimos diversas Historias de Usuario, cubriendo aspectos fundamentales como:
 - Gestión de perfiles de abogados y clientes.
 - Validación y revisión de consultas.
@@ -3570,13 +3570,13 @@ Definimos diversas Historias de Usuario, cubriendo aspectos fundamentales como:
 - Historial de consultas.
 - Comunicación efectiva entre clientes y abogados mediante chat, videollamada o reunion presencial.
 
-## 5. Asignación de Tareas
+5. Asignación de Tareas
 Asignamos cada tarea a los miembros del equipo de manera estratégica. Algunas ya han sido completadas, mientras que otras se encuentran en fases avanzadas de desarrollo.
 
-## 6. Desarrollo Backend e Integración con Frontend
+6. Desarrollo Backend e Integración con Frontend
 En este sprint, priorizamos el desarrollo robusto del backend y su integración con el frontend. Esta conexión garantiza una experiencia de usuario fluida y permite que las funcionalidades clave de la aplicación funcionen de manera coherente.
 
-## 7. Compromiso del Equipo
+7. Compromiso del Equipo
 El equipo ha demostrado un alto nivel de compromiso y determinación para superar los retos del Sprint 4. Aprendimos de las lecciones anteriores y seguimos trabajando para alcanzar los objetivos propuestos.
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
