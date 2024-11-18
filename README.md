@@ -59,6 +59,12 @@
         <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
         <td colspan="5">Capítulo V, primer avance de backend</td>
     </tr>
+<tr>
+        <td colspan="3">4ta</td>
+        <td colspan="3">18/11/2024</td>
+        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="5">Capítulo V, sprint 4 y versión final del backend con front.</td>
+    </tr>
 </table>
 
 ---
