@@ -3245,6 +3245,168 @@ Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo s
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
+## 5.3. Validation Interviews
+
+## 5.3.1. Diseño de Entrevistas
+
+Segmento objetivo 1: Usuarios con necesidades legales
+Preguntas Generales
+1.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
+2.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
+3.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
+      Preguntas Específicas
+4.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
+5.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
+6.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
+7.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
+
+Segmento objetivo 2: Abogados registrados en la plataforma
+Preguntas Generales
+1.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
+2.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
+3.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
+      Preguntas Específicas
+4.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
+5.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
+6.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
+7.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
+
+## 5.3.2. Registro de Entrevistas
+![image](https://i.imgur.com/gam7myK.png)
+<br>Enlace: https://www.youtube.com/watch?v=TNfxILYBzyI
+<br>Segmento objetivo 1: Usuarios con necesidades legales (CRISTIAN)
+Preguntas Generales
+4.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
+      La vi interesante resulta que no es o sea para mí no es tan novedoso una aplicación porque ya he navegado en algunas antiguamente, pero la aplicación que me mostraste se ve mucho más fácil para personas que no están familiarizadas con el tema y me interesa usarlo.
+5.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
+      Bueno como dije la navegación fue intuitiva y encontrar abogados que necesitare para algún caso se ve fácil en la aplicación ya que puedo buscar sus actitudes y los casos resueltos.
+6.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
+      Considero que la información fue necesaria para tomar una decisión si es que ese abogado será el que te representará, la veo muy clara en ese aspecto.
+      Preguntas Específicas
+8.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
+      Bueno tal vez algún contador de la cantidad de casos que ha hecho algún abogado podría ser utilidad como un filtrado que te permita ordenar a los abogados mediante la cantidad de casos que ha resuelto claro tanto favorables como no.
+9.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
+      Bueno a simple vista alguna duda sería qué tan fácil sería comunicarse con el abogado.
+10.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
+       Bueno ya que a veces se presentan inconvenientes como imprevistos, una videollamada creo que estaría bien ya que así puedo comunicarme con él.
+11.	¿Qué otros elementos te gustarían que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
+       Me gustaría más como un chat para todas las personas que estén buscando abogados y ellos mismos se puedan recomendar otros eso podría ser una buena función, una comunidad.
+
+![image](https://i.imgur.com/6rJepGG.png)
+<br>Enlace: https://www.youtube.com/watch?v=Ovyz2XYmXz4
+<br>Segmento objetivo 1: Usuarios con necesidades legales (ALONSO)
+Preguntas Generales
+7.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
+      Bueno en primera instancia me pareció algo muy atractivo algo minimalista ya que todas las opciones parecen estar completas así como la información que te da, me parece este lo esencial para poder llevar a cabo los servicios que ofrecen los abogados.
+8.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
+      Bueno me pareció muy fácil ya que en las opciones en las barras aparecía el nombre de cada sección, lo cual me facilitaba acceder a cada uno de los componentes. Por otro lado, También esta información que te brindaban era clara y concisa. Bueno eso me ayudó a poder investigar mucho mejor
+9.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
+      Sí efectivamente, bueno solamente tengo un pequeño comentario que creo que cada abogado tiene un código, así como los enfermeros tienen un código sobre su sector de salud algo parecido deberían de incluir, para más que nada verificar que es un abogado de verdad.
+      Preguntas Específicas
+12.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
+       Bueno esencialmente yo considero un filtro de búsqueda, esto más que nada.
+13.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
+       Si esencialmente en el buscador, lo que vi fue que más que nada buscan por tipo de especialidad. Pero sería bueno incluir por precios de las asesorías, también este no sé lugar de residencia del abogado si puede trabajar de forma remota presencial dentro de Lima o en departamentos.
+14.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
+       Bueno esencialmente creo que llamada, porque así estableces una mejor comunicación con el y bueno puedes absolver tu duda de forma más rápida.
+15.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
+       Yo recomendaría tal vez una sección de diccionario, En la  información detallada había algunos conceptos que como persona normal no entendería Y como abogado sí, Entonces para evitar esas dudas sería mejor implementar esto .
+       ![image](https://i.imgur.com/nLwN6wE.png)
+       <br>Enlace: https://www.youtube.com/watch?v=Vkkli8R3DfM
+       <br>Segmento objetivo 1: Usuarios con necesidades legales (JOSUE)
+       Preguntas Generales
+10.	¿Cuál fue tu primera impresión al explorar nuestra plataforma para buscar asesoría legal?
+       Bueno actualmente no he necesitado una ayuda legal frecuentemente. Pero es bueno saber que la plataforma tiene todo preparado para ciertos escenarios en cuales pueda necesitarlo.
+11.	¿Qué tan fácil o intuitivo te resultó navegar por las secciones para encontrar abogados y casos resueltos?
+       Me pareció muy intuitiva, por lo cual fue relativamente fácil moverme entre los perfiles de los abogados, además estaban claros, Aunque todavía no tuve la oportunidad de contactar con ninguno. la información sobre sus áreas (01:20) de especialidad también me ayudó bastante a entender mejor a cuáles podría recurrir en cada caso
+12.	¿Consideras que la presentación de los perfiles de abogados y casos resueltos fue clara y completa?
+       La opción de ver casos resueltos me generó mucha confianza y creo que me permitiría evaluar la experiencia de cada abogado si en algún momento necesito una ayuda legal,
+       Preguntas Específicas
+16.	¿Qué características crees que podrían facilitarte aún más la búsqueda de un abogado en la plataforma?
+       Me gustaría ver opiniones o reseñas de otros clientes sobre cada abogado esto básicamente me ayudaría tomar una decisión más informada claro para que sea más seguro.
+17.	¿Encontraste algún aspecto que pudiera generar dudas o dificultades al intentar entender las funciones de la plataforma?
+       Al principio no entendí del todo cómo elegir entre los métodos de contacto tal vez sería útil explicar más detalladamente sobre cuándo es mejor usar el chat la videollamada o el encuentro en vivo
+18.	Al ver las opciones de comunicación (chat, videollamada, encuentro en vivo), ¿cuál de ellas te parecería más útil para conectar con un abogado y por qué?
+       Creo que el chat sería la más util para empezar ya que es menos intimidante que una videollamada o un encuentro en persona.
+19.	¿Qué otros elementos te gustaría que la plataforma incluyera para sentirte más seguro y cómodo al buscar asistencia legal?
+       Me parecería interesante una sección de preguntas frecuentes sobre temas legales comunes ya que esto me podría ayudarme a entender mejor algunas situaciones antes de agendar un chat con un abogado.
+
+![image](https://i.imgur.com/Uhwj95f.png)
+<br>Enlace: https://www.youtube.com/watch?v=eyPHrG_Rypk
+<br>Segmento objetivo 2: Abogados registrados en la plataforma (ARANTXA)
+Preguntas Generales
+4.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
+      Después de revisar la plataforma me generó una muy buena impresión me parece una plataforma muy seria y profesional más que todo también vi que todo estaba muy organizado y de manera muy didáctica.
+5.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
+      Claro que sí en sí la opción de subir comprobantes me pareció demasiado útil pero también me gustaría tener un lugar donde yo pueda describir mis especialidades más que todo en lo que yo me enfoco y mis experiencias a detalle.
+6.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
+      Sí porque al ver los casos resueltos ayuda mucho a visualizar el tipo de trabajo que se realiza, en este caso me pareció también muy claro, pero agregar una opción para que los clientes califiquen los casos.
+      Preguntas Específicas
+8.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
+      Bueno desde mi punto de vista me parece que generar un apartado de noticias legales puede ser de mucha importancia o actualizaciones también relevantes ayudaría bastante más que todo a mantenerme informado y también aportaría mucho valor agregado a la plataforma.
+9.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
+      Claro yo sugeriría que se pueda añadir video de presentación breve y me ayudaría también a destacar entre otros abogados y también permitiría que los clientes me conozcan un poco más antes de poder contactarme.
+10.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
+       Personalmente Yo opino que una videollamada me puede parecer la opción más confiable y también se puede optar ya que permite establecer una mejor conexión y más directo también la comunicación para entender el problema del cliente claro o te permite estar conectado con clientes que están fuera de mi región.
+11.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
+       En sí me parece que puede ser un espacio de foros o preguntas comunes donde los abogados podamos compartir también nuestras dudas o contribuir podría ser más interesante ya que ayudaría más que todo a resolver las dudas y al mismo tiempo ganar visibilidad con clientes potenciales que tengo en un futuro.
+
+![image](https://i.imgur.com/BI55Sw2.png)
+<br>Enlace: https://www.youtube.com/watch?v=D7FcY5M2gEA
+<br>Segmento objetivo 2: Abogados registrados en la plataforma (RODRIGO)
+Preguntas Generales
+1.	¿Qué impresión general tuviste al navegar por las secciones de la plataforma para presentar tus servicios como abogado?
+      En lo personal creo que la plataforma se ve bien estructurada fue fácil moverme entre las secciones no tuve ningún problema y la idea es tener casos resueltos y perfiles uno que otros destacados eso ayuda a dar un poquito más de confianza
+2.	¿Te pareció clara y completa la información mostrada para crear y gestionar tu perfil profesional?
+      Con la información con la que pude ingresar a mi perfil fue adecuada sí correcto pero sería útil también poder agregar una sección de testimonios quizás de clientes anteriore,s en este caso para poder dar un poco más de respaldo
+3.	¿Te resultó intuitiva la navegación y presentación de los casos resueltos y opciones de conexión con posibles clientes?
+      Me pareció clara. Aunque me gustaría que fuera un poquito más visual con algunas estadísticas o una pequeña vista previa de los casos ya resueltos anteriormente.
+      Preguntas Específicas
+4.	¿Qué funcionalidades o secciones adicionales te gustaría ver para hacer más eficiente la búsqueda de clientes?
+      Incluir una sección para hacer networking con otros abogados me sería de gran ayuda. Esto podría ayudar un poquito a crear referencias y colaboraciones entre nosotros.
+5.	¿Observaste alguna característica que podría mejorarse para facilitar la presentación de tus servicios o credenciales?
+      Sería útil poder marcar una opción sobre especialidades y que los clientes las puedan ver de inmediato facilitaría a la gente que encuentre una especialidad, exactamente lo que busca en qué especialidad
+6.	De las opciones de comunicación presentadas (chat, videollamada, encuentro en vivo), ¿cuál crees que atraería más a los clientes potenciales?
+      Sería por medio de las video llamadas en general porque o sea es como que genera más confianza en realidad primer momento y ya es una forma también más profesional en todo caso no se pueda ir de una manera presencial  además tienes conectividad con personas que no se encuentran en tu mismo estado o ciudad.
+7.	¿Qué otros recursos o funcionalidades piensas que harían la plataforma más útil para gestionar tus actividades como abogado?
+      Creo que un recurso sería un pequeño sistema de seguimiento de clientes potenciales donde yo pueda ver si algún cliente ha mostrado interés en mi perfil en mi experiencia no, tener un seguimiento de quién lo ve.
+
+## 5.3.3. Evaluaciones según heurísticas
+Basado en las entrevistas con abogados registrados y usuarios que buscan asistencia legal en nuestra plataforma, se identificaron áreas clave para la mejora y implementacion de funcionalidades adicionales.<br>
+
+<br>Segmento 1: Usuarios con Necesidades Legales<br>
+1. Impresión General y Navegación
+   Los usuarios mencionaron que la plataforma es intuitiva y fácil de navegar, con opciones claras para encontrar abogados y casos resueltos.
+   Recomendación: Mantener la simplicidad y claridad de la interfaz, y asegurarse de que las secciones estén bien etiquetadas.
+2. Presentación de Perfiles de Abogados
+   La información sobre los perfiles fue considerada clara y suficiente. Sin embargo, se sugirió incluir un sistema de códigos para verificar que los abogados están registrados, similar al sector salud.
+   Recomendación: Implementar una verificación visual de credenciales y una etiqueta con el código de registro del abogado para aumentar la confianza del usuario.
+3. Búsqueda de Abogados
+   Se mencionó que un filtro por especialidades es útil, pero sería conveniente incluir filtros adicionales por precio, ubicación y cantidad de casos resueltos.
+   Recomendación: Ampliar los filtros de búsqueda para incluir criterios como honorarios, región de práctica (presencial o remoto) y cantidad de casos resueltos.
+4. Opciones de Comunicación
+   La videollamada fue la opción más popular, seguida del chat. Los usuarios apreciaron la comodidad y profesionalismo que brinda este medio.
+   Recomendación: Priorizar la implementación de videollamadas y mejorar la explicación de cuándo utilizar cada método de contacto.
+5. Funcionalidades Adicionales
+   Los usuarios sugirieron incorporar un diccionario de términos legales y una sección de preguntas frecuentes para aclarar dudas comunes antes de contactar a un abogado.
+   Recomendación: Añadir un glosario de términos y una sección de preguntas frecuentes para mejorar la comprensión del usuario y reducir consultas innecesarias.
+
+<br>Segmento 2: Abogados Registrados en la Plataforma<br>
+1. Impresión General y Navegación
+   Los abogados indicaron que la plataforma es bien estructurada y fácil de usar, pero sugirieron agregar testimonios de clientes para aumentar la credibilidad.
+   Recomendación: Incluir una sección para agregar testimonios y reseñas de clientes previos, destacando casos exitosos.
+2. Presentación de Credenciales
+   Aunque la opción de subir comprobantes fue valorada positivamente, algunos abogados prefieren una sección detallada para describir sus especialidades y experiencias.
+   Recomendación: Permitir a los abogados incluir descripciones detalladas de sus especialidades y agregar videos de presentación para mejorar la visibilidad.
+3. Opciones de Comunicación
+   La videollamada fue considerada la opción más efectiva para conectar con los clientes, ya que permite una mejor presentación profesional y confianza inicial.
+   Recomendación: Fomentar el uso de videollamadas como opción principal de contacto, especialmente para clientes fuera de la región.
+4. Funcionalidades Adicionales
+   Los abogados sugirieron incluir una sección de networking y foros para colaborar entre colegas y una herramienta de seguimiento para identificar a los clientes interesados.
+   Recomendación: Crear una sección de foros y una herramienta de CRM sencilla para el seguimiento de clientes potenciales.
+
+## 5.4. Video About-the-Product
+
 # 5.2.1. Sprint 4
 
 ## 5.2.4.1. Sprint Planning 4
