@@ -3245,6 +3245,155 @@ Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo s
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
+# 5.2.1. Sprint 4
+
+## 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            2024/10/17
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Lorem Ipsum
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - La Madrid Lozano, Ivan Jeanpierre <br/>
+            - Avellaneda Ramos, Carlos Edward <br/>
+            - Loli Ramirez, Camila Cristina <br/>    
+            - Pariona Lucas, Jose Manuel <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se implementó la primera parte del frontend, la visualización de los abogados en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+Se aseguró de que los estudiantes sepan sus partes a resolver.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Goal</b>
+        </td>
+        <td>
+            En este sprint se tiene como objetivo el desarrollo del back end y terminar el frontend. Creemos que permite al los abogados y clientes confiar en la aplicación web Law Connect debido a lo intuitivo que es para el usuario y su forma de funcionamiento es adecuada. Esto será confirmado cuando los usuarios prueben la aplicación y dejen reseñas positivas sobre su funcionamiento.
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+</table>
+
+## 5.2.4.2. Sprint Backlog 4
+| **User Story**                                | **Work-item/Task**                                            | **Description**                                                                                                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+| --------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- |------------|
+| HU21 - Consulta de Disponibilidad de Abogados | HU21 - W1 - Showcase of available options to contact a lawyer | Crear el endpoint para que se muestre la disponibilidad del abogado dependiendo de las formas de comunicación disponible. | 3                      | Camila          | Done       |
+| HU22 - Solicitud de Cita con Abogado          | HU22 - Registration of an appointment with the lawyer         | Crear el endpoint para que se pueda reservar una cita con el abogado dependiendo del tipo de comunicación escogido.       | 3                      | Camila          | Done       |
+
+
+## 5.2.3.3. Development Evidence for Sprint Review
+
+## 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+Para este sprint se finalizó el backend para la aplicación law connect. Asimismo, se terminó de realizar el front end para que recupere los datos de los clientes, sea abogado recién egresado y personas con problemas legales (denominados como clientes dentro del backend para facilitar el entendimiento)
+
+Repositorio: https://github.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Backend
+
+![Back End Evidence](assets/images/backend_evidence_tf_1.png)
+
+![Back End Evidence](assets/images/backend_evidence_tf_2.png)
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para el desarrollo del Frontend y Backend en nuestra plataforma, utilizamos lo siguiente:
+
+* Angular: Utilizamos este framework para el desarrollo del frontend de la aplicación web
+* GitHub: En este sitio web decidimos almacenar nuestros avances en el repositorio netamente reservado para el frontend. De esta forma, permite que tengamos una guía de los avances hechos y que integrante del equipo realizó cada cambio.
+* Webstorm: Utilizamos este IDE para la creación del proyecto.
+* Git: Utilizamos Git para el sistema de control de versiones, así mantenemos un orden por cada avance y qué implicó cada uno.
+* IntelliJ Idea: Utilizamos este IDE para empezar con el backend de nuestro proyecto.
+* Spring: Este es el framework que se utiliza para el desarrollo de nuestro backend.
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 
 # Conclusiones
