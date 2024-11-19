@@ -3081,6 +3081,22 @@ En este sprint se tiene como objetivo desarrollar el frontend de Law Connect por
 
 ## 5.2.2.3. Development Evidence for Sprint Review
 
+Durante el Sprint 2, nos enfocamos en realizar avances significativos en el desarrollo de la aplicación LawConnect, tras los primeros esfuerzos del Sprint 1. A continuación, se presenta un resumen del progreso alcanzado durante este sprint:
+1.	Revisión del Sprint 1
+En el Sprint 1, nos centramos en la planificación y la creación de la infraestructura inicial. Este sprint nos permitió sentar las bases para el futuro desarrollo del l frontend, lo que preparó el terreno para las tareas más complejas del Sprint 2.
+2.	Objetivo del Sprint 2
+El objetivo principal de este sprint fue avanzar en el desarrollo del backend y trabajar en la primera integración real con el frontend, con el fin de hacer la aplicación más funcional y acercarnos a una versión inicial de la plataforma.
+3.	Historias de Usuario y Tareas
+Durante este sprint, nos enfocamos en completar Historias de Usuario que abarcaban:
+* Creación y edición de perfiles de usuario (abogados y clientes).
+* La elaboración del frontend.
+4.	Asignación de Tareas
+Las tareas fueron asignadas de acuerdo a la especialización de cada miembro del equipo
+5.	Desarrollo del Frontend
+El enfoque principal de este sprint fue consolidar el desarrollo del frontend. A pesar de que algunas tareas aún estaban en proceso, conseguimos avances importantes en un diseño óptimo para nuestra aplicación.
+7.	Compromiso del Equipo
+El equipo trabajó arduamente para superar los obstáculos técnicos y avanzar en el desarrollo de la plataforma. 
+
 ## 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 ## 5.2.2.5. Execution Evidence for Sprint Review
